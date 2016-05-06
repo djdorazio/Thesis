@@ -1,0 +1,100 @@
+%
+% Daniel J D'Orazio
+%
+% PhD Dissertation
+%
+% Current version : March 2016
+%
+% APW modified and cleaned up the Columbia grad thesis document by incorporating elements from the format by NYU grad José Koiller
+%
+% Past grads who used the Columbia document:
+% Munier Salem, Yuan Li, Lia Corrales, Destry Saul, Jenna Lemonias, Takamitsu Tanaka, Emily Rauscher, David Spiegel, ......dinosaurs?
+%
+% Formatting guidelines: http://gsas.columbia.edu/content/formatting-guidelines
+
+% Use the first of the following lines during production to
+% easily spot "overfull boxes" in the output. Use the second
+% line for the final version.
+% \documentclass[12pt,draft,letterpaper]{report}
+% \documentclass[12pt,letterpaper]{report}
+\documentclass[twoside,12pt,letterpaper]{report}
+
+\newcommand{\thesistitle}{Predicting Electromagnetic Signatures of Merging Compact Objects }
+\newcommand{\thesisauthor}{Daniel John D'Orazio}
+\newcommand{\graddate}{2016}
+
+\input{preamble} % definitions and packages
+\input{textstyle} % sets the spacing, margins, etc.
+
+\begin{document}
+
+% Cover pages and abstract: no page numbers
+% (title, copyright, abstract)
+{
+	\pagestyle{empty}
+	\input{title}
+	\input{copyright}
+	\input{abstract}
+}
+
+% Prefatory pages: Lower case Roman numerals beginning with "i" centered at the bottom of each page
+% (Table of Contents, List of Charts, Graphs, Illustrations, Acknowledgments)
+{
+	\pagestyle{plain}
+	\pagenumbering{roman}
+
+	% Skip second abstract page
+	\setcounter{page}{1}
+	\addtocounter{page}{-1}
+	\tableofcontents
+
+	\newpage\addcontentsline{toc}{chapter}{List of Figures}
+	\listoffigures
+	%\input{intentionallyblank}
+
+	\newpage\addcontentsline{toc}{chapter}{List of Tables}
+	\listoftables
+	%\input{intentionallyblank}
+
+	%\section*{Acknowledgements}
+	\addcontentsline{toc}{chapter}{Acknowledgements}
+	\input{acknowledge}
+	\newpage
+}
+
+% Main body and all other pages: Arabic numerals beginning with "1" centered at the bottom of each page
+% (introduction, chapters, conclusions)
+{
+	\pagestyle{plain}
+	\pagenumbering{arabic}
+	\setcounter{page}{1}
+
+	\setlength{\headheight}{0in}
+	\setlength{\headsep}{0.5in}
+
+	\renewcommand{\chaptermark}[1]{\markboth{\chaptername\  \thechapter: \ #1}{}}
+	\renewcommand{\sectionmark}[1]{\markright{\thesection: \ #1}{}}
+
+	\input{chapters/ch0_introduction}
+	%Part I - Theory
+	\input{chapters/PartI}
+	\input{chapters/ch1_CavAccretion}
+	\input{chapters/ch2_CBDTrans}
+	%Part I - Application
+	\input{chapters/ch3_PG1302_a}
+	\input{chapters/ch4_PG1302_b}
+	%\input{chapters/ch5_Lighthouses}
+	%
+	%Part II
+	\input{chapters/PartII}
+	\input{chapters/ch6_Rindler}
+	\input{chapters/ch7_Fireball}
+	%\input{chapters/ch8_Conclusion}
+
+	%\cleardoublepage
+
+	\markboth{Bibliography}{Bibliography}
+	\bibliography{refs/refs}
+}
+
+\end{document}

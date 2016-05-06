@@ -1,0 +1,120 @@
+This is BibTeX, Version 0.99d (TeX Live 2014)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: thesis.aux
+The style file: apj.bst
+Reallocated field_info (elt_size=4) to 11916 items from 5000.
+Database file #1: refs/refs.bib
+Warning--I didn't find a database entry for "Farris+2014"
+Warning--I didn't find a database entry for "Graham+2015"
+Warning--I didn't find a database entry for "Dorazio+2013"
+Warning--I didn't find a database entry for "eLISA:Amaro-Seoane:2012"
+Warning--I didn't find a database entry for "Roedig:2012"
+Warning--I didn't find a database entry for "ShiKrolik:2012"
+Warning--I didn't find a database entry for "DM2012"
+Warning--I didn't find a database entry for "Rafikov2012"
+Warning--I didn't find a database entry for "RoedigDotti:2011"
+Warning--I didn't find a database entry for "Graham:2015"
+Warning--I didn't find a database entry for "Hayasaki+2015"
+Warning--I didn't find a database entry for "TM10"
+Warning--I didn't find a database entry for "LehtoValtonen1996"
+Warning--I didn't find a database entry for "Valtonen+2008"
+Warning--I didn't find a database entry for "PMartini:2004"
+Warning--I didn't find a database entry for "Hopkins2007a"
+Warning--I didn't find a database entry for "CRTS1:Drake:2009"
+Warning--I didn't find a database entry for "CRTS4:Djorgovski:2011"
+Warning--I didn't find a database entry for "CRTS3:2011Mahabal"
+Warning--I didn't find a database entry for "KH2000"
+Warning--I didn't find a database entry for "iPTA"
+Warning--I didn't find a database entry for "NANOGrav2014:SC"
+Warning--I didn't find a database entry for "PPTA:2014:SC"
+Warning--I didn't find a database entry for "IPTA:2013:OP"
+Warning--I didn't find a database entry for "SKA:2009:OP"
+Warning--I didn't find a database entry for "Jackson:1992:PGHbeta"
+Warning--I didn't find a database entry for "WangHo:2003"
+Warning--I didn't find a database entry for "DHS+2015"
+Warning--I didn't find a database entry for "Charisi:2015:PG1302"
+Warning--I didn't find a database entry for "AstroH:2014"
+Warning--I didn't find a database entry for "VanderPlasIvezic2015"
+Warning--I didn't find a database entry for "Hayasaki+2008"
+Warning--I didn't find a database entry for "ShiKrolik2012"
+Warning--I didn't find a database entry for "Roedig+2012"
+Warning--I didn't find a database entry for "Nixon+2013"
+Warning--I didn't find a database entry for "Dunhill+2015"
+Warning--I didn't find a database entry for "ShiKrolik2015"
+Warning--I didn't find a database entry for "LoebGaudi2003"
+Warning--I didn't find a database entry for "Kerkwijk+2010"
+Warning--I didn't find a database entry for "MH2010"
+Warning--I didn't find a database entry for "Shporer+2010"
+Warning--I didn't find a database entry for "Djorgovski+2010"
+Warning--I didn't find a database entry for "PG1302-Dan"
+Warning--I didn't find a database entry for "WrightGaudi2012"
+Warning--I didn't find a database entry for "Kelly:2009:DRW"
+Warning--I didn't find a database entry for "MM2008"
+Warning--I didn't find a database entry for "PG1302-Maria"
+Warning--I didn't find a database entry for "RichardsQBCs:2006"
+Warning--I didn't find a database entry for "YuTremaine2002"
+Warning--I didn't find a database entry for "Jiang+2014"
+Warning--I didn't find a database entry for "NarayanMcClintock2008"
+Warning--I didn't find a database entry for "Mahadevan:1997"
+Warning--I didn't find a database entry for "NMQ:ADAF:1998"
+Warning--I didn't find a database entry for "Hutchings+2014"
+Warning--I didn't find a database entry for "WangHoStaubert2003"
+Warning--I didn't find a database entry for "TanakaMenou:2010"
+Warning--I didn't find a database entry for "AL94"
+Warning--I didn't find a database entry for "Kozlowski+2010"
+Warning--I didn't find a database entry for "Andrae+2013"
+Warning--I didn't find a database entry for "DFM:2013"
+Warning--I didn't find a database entry for "KassRaftery1995"
+Warning--I didn't find a database entry for "DLai2014"
+Warning--I didn't find a database entry for "Roedig+Krolik+Miller2014"
+Warning--I didn't find a database entry for "EvansKoratkar2004"
+Warning--I didn't find a database entry for "Cooksey+2008"
+Warning--I didn't find a database entry for "Lyut:2012"
+Warning--I didn't find a database entry for "AdLIGO:2012"
+Warning--I didn't find a database entry for "mayavi"
+Warning--to sort, need author or key in FERMIGBM:2009
+Warning--to sort, need author or key in FERMIGBM:2015
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Warning--empty publisher in MD:SSD
+You've used 198 entries,
+            3085 wiz_defined-function locations,
+            2184 strings with 44180 characters,
+and the built_in function-call counts, 90327 in all, are:
+= -- 7916
+> -- 5764
+< -- 94
++ -- 1948
+- -- 2071
+* -- 7330
+:= -- 16702
+add.period$ -- 198
+call.type$ -- 198
+change.case$ -- 1325
+chr.to.int$ -- 189
+cite$ -- 205
+duplicate$ -- 3744
+empty$ -- 5708
+format.name$ -- 2390
+if$ -- 18193
+int.to.chr$ -- 13
+int.to.str$ -- 0
+missing$ -- 193
+newline$ -- 598
+num.names$ -- 785
+pop$ -- 1417
+preamble$ -- 1
+purify$ -- 1323
+quote$ -- 0
+skip$ -- 3203
+stack$ -- 0
+substring$ -- 4259
+swap$ -- 56
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 1764
+warning$ -- 3
+while$ -- 761
+width$ -- 0
+write$ -- 1975
+(There were 71 warnings)

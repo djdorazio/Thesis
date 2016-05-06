@@ -1,0 +1,761 @@
+\begin{thebibliography}{}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{FER(2009)}]{FERMIGBM:2009}
+ 2009, FERMI GBM charecteristics
+
+\bibitem[{FER(2015)}]{FERMIGBM:2015}
+ 2015, FERMI GBM charecteristics
+
+\bibitem[{{Abadie} {et~al.}(2010){Abadie}, {Abbott}, {Abbott}, {Abernathy},
+  {Accadia}, {Acernese}, {Adams}, {Adhikari}, {Ajith}, {Allen}, \&
+  et~al.}]{LIGORates:2010}
+{Abadie}, J., {Abbott}, B.~P., {Abbott}, R., {et~al.} 2010, Classical and
+  Quantum Gravity, 27, 173001
+
+\bibitem[{{Armitage} \& {Natarajan}(2002)}]{ArmNat:2002:ApJL}
+{Armitage}, P.~J., \& {Natarajan}, P. 2002, \apjl, 567, L9
+
+\bibitem[{{Armitage} \& {Natarajan}(2005)}]{ArmNat:2005}
+---. 2005, \apj, 634, 921
+
+\bibitem[{Artymowicz \& Lubow(1994)}]{Artymowicz:1994}
+Artymowicz, P., \& Lubow, S.~H. 1994, \apj, 421, 651
+
+\bibitem[{{Artymowicz} \& {Lubow}(1996)}]{ArtyLubow:1996}
+{Artymowicz}, P., \& {Lubow}, S.~H. 1996, \apjl, 467, L77
+
+\bibitem[{{Barnes} \& {Hernquist}(1992)}]{BH1992}
+{Barnes}, J.~E., \& {Hernquist}, L. 1992, \araa, 30, 705
+
+\bibitem[{Barnes \& Hernquist(1996)}]{Barnes:1996}
+Barnes, J.~E., \& Hernquist, L. 1996, \apj, 471, 115
+
+\bibitem[{{Barthelmy} {et~al.}(2005){Barthelmy}, {Barbier}, {Cummings},
+  {Fenimore}, {Gehrels}, {Hullinger}, {Krimm}, {Markwardt}, {Palmer},
+  {Parsons}, {Sato}, {Suzuki}, {Takahashi}, {Tashiro}, \&
+  {Tueller}}]{SWIFTBAT:2005}
+{Barthelmy}, S.~D., {Barbier}, L.~M., {Cummings}, J.~R., {et~al.} 2005, \ssr,
+  120, 143
+
+\bibitem[{{Baumgarte} \& {Shapiro}(2003)}]{BaumShap:2003}
+{Baumgarte}, T.~W., \& {Shapiro}, S.~L. 2003, \apj, 585, 930
+
+\bibitem[{{Begelman} {et~al.}(1980){Begelman}, {Blandford}, \&
+  {Rees}}]{Begel:Blan:Rees:1980}
+{Begelman}, M.~C., {Blandford}, R.~D., \& {Rees}, M.~J. 1980, \nat, 287, 307
+
+\bibitem[{{Berger} {et~al.}(2005){Berger}, {Price}, {Cenko}, {Gal-Yam},
+  {Soderberg}, {Kasliwal}, {Leonard}, {Cameron}, {Frail}, {Kulkarni}, {Murphy},
+  {Krzeminski}, {Piran}, {Lee}, {Roth}, {Moon}, {Fox}, {Harrison}, {Persson},
+  {Schmidt}, {Penprase}, {Rich}, {Peterson}, \& {Cowie}}]{Berger:2005}
+{Berger}, E., {Price}, P.~A., {Cenko}, S.~B., {et~al.} 2005, \nat, 438, 988
+
+\bibitem[{{Bhattacharya} \& {van den Heuvel}(1991)}]{PulsarsRev:1991}
+{Bhattacharya}, D., \& {van den Heuvel}, E.~P.~J. 1991, \physrep, 203, 1
+
+\bibitem[{{Blandford} \& {Znajek}(1977)}]{BZ:1977}
+{Blandford}, R.~D., \& {Znajek}, R.~L. 1977, \mnras, 179, 433
+
+\bibitem[{{Bryden} {et~al.}(1999){Bryden}, {Chen}, {Lin}, {Nelson}, \&
+  {Papaloizou}}]{Bryden:1999}
+{Bryden}, G., {Chen}, X., {Lin}, D.~N.~C., {Nelson}, R.~P., \& {Papaloizou},
+  J.~C.~B. 1999, \apj, 514, 344
+
+\bibitem[{{Callegari} {et~al.}(2009){Callegari}, {Mayer}, {Kazantzidis},
+  {Colpi}, {Governato}, {Quinn}, \& {Wadsley}}]{Callegari+:2009}
+{Callegari}, S., {Mayer}, L., {Kazantzidis}, S., {et~al.} 2009, \apjl, 696, L89
+
+\bibitem[{{Chang} {et~al.}(2010){Chang}, {Strubbe}, {Menou}, \&
+  {Quataert}}]{Chang+2010}
+{Chang}, P., {Strubbe}, L.~E., {Menou}, K., \& {Quataert}, E. 2010, \mnras,
+  407, 2007
+
+\bibitem[{{Chapon} {et~al.}(2013){Chapon}, {Mayer}, \&
+  {Teyssier}}]{Chapon+2011}
+{Chapon}, D., {Mayer}, L., \& {Teyssier}, R. 2013, \mnras, 429, 3114
+
+\bibitem[{{Cheng} \& {Zhang}(1996)}]{CZ_SC:1996}
+{Cheng}, K.~S., \& {Zhang}, J.~L. 1996, \apj, 463, 271
+
+\bibitem[{{Coward} {et~al.}(2012){Coward}, {Howell}, {Piran}, {Stratta},
+  {Branchesi}, {Bromberg}, {Gendre}, {Burman}, \&
+  {Guetta}}]{SWIFTsGRBrates:2012}
+{Coward}, D.~M., {Howell}, E.~J., {Piran}, T., {et~al.} 2012, \mnras, 425, 2668
+
+\bibitem[{{Crida} {et~al.}(2006){Crida}, {Morbidelli}, \& {Masset}}]{CMM:2006}
+{Crida}, A., {Morbidelli}, A., \& {Masset}, F. 2006, \icarus, 181, 587
+
+\bibitem[{Cuadra {et~al.}(2009)Cuadra, Armitage, Alexander, \&
+  Begelman}]{Cuadra:2009}
+Cuadra, J., Armitage, P.~J., Alexander, R.~D., \& Begelman, M.~C. 2009, \mnras,
+  393, 1423
+
+\bibitem[{{Cur{\'e}} {et~al.}(2015){Cur{\'e}}, {Rial}, {Cassetti}, {Christen},
+  \& {Boffin}}]{StellMassRatDist:2015}
+{Cur{\'e}}, M., {Rial}, D.~F., {Cassetti}, J., {Christen}, A., \& {Boffin},
+  H.~M.~J. 2015, \aap, 573, A86
+
+\bibitem[{{Dall'Osso} {et~al.}(2006){Dall'Osso}, {Israel}, \&
+  {Stella}}]{Dall'Osso:2006}
+{Dall'Osso}, S., {Israel}, G.~L., \& {Stella}, L. 2006, \aap, 447, 785
+
+\bibitem[{{Dall'Osso} {et~al.}(2007){Dall'Osso}, {Israel}, \&
+  {Stella}}]{Dall'Osso:2007}
+---. 2007, \aap, 464, 417
+
+\bibitem[{{D'Angelo} \& {Lubow}(2008)}]{DAngelowLubow:2008}
+{D'Angelo}, G., \& {Lubow}, S.~H. 2008, \apj, 685, 560
+
+\bibitem[{{De Rosa} {et~al.}(2014){De Rosa}, {Patience}, {Ward-Duong}, {Vigan},
+  {Marois}, {Song}, {Macintosh}, {Graham}, {Doyon}, {Bessell}, {Lai},
+  {McCarthy}, \& {Kulesa}}]{q0p02MSBD:2014}
+{De Rosa}, R.~J., {Patience}, J., {Ward-Duong}, K., {et~al.} 2014, \mnras, 445,
+  3694
+
+\bibitem[{{Degenaar} {et~al.}(2012){Degenaar}, {Miller}, {Kennea}, {Gehrels},
+  \& {Wijnands}}]{Degenaar:2012:GCXrayFlares}
+{Degenaar}, N., {Miller}, J.~M., {Kennea}, J., {Gehrels}, N., \& {Wijnands}, R.
+  2012, ArXiv e-prints, arXiv:1210.7237
+
+\bibitem[{{del Valle} \& {Escala}(2012)}]{delValleEscala:I:2012}
+{del Valle}, L., \& {Escala}, A. 2012, \apj, 761, 31
+
+\bibitem[{{del Valle} \& {Escala}(2014)}]{delValleEscala:II:2014}
+---. 2014, \apj, 780, 84
+
+\bibitem[{{Dong} {et~al.}(2011{\natexlab{a}}){Dong}, {Rafikov}, \&
+  {Stone}}]{DRS2011}
+{Dong}, R., {Rafikov}, R.~R., \& {Stone}, J.~M. 2011{\natexlab{a}}, \apj, 741,
+  57
+
+\bibitem[{{Dong} {et~al.}(2011{\natexlab{b}}){Dong}, {Rafikov}, \&
+  {Stone}}]{DongRafII:2011}
+---. 2011{\natexlab{b}}, \apj, 741, 57
+
+\bibitem[{{Dong} {et~al.}(2011{\natexlab{c}}){Dong}, {Rafikov}, {Stone}, \&
+  {Petrovich}}]{DRS:2011:Linear}
+{Dong}, R., {Rafikov}, R.~R., {Stone}, J.~M., \& {Petrovich}, C.
+  2011{\natexlab{c}}, \apj, 741, 56
+
+\bibitem[{{Dong} {et~al.}(2011{\natexlab{d}}){Dong}, {Rafikov}, {Stone}, \&
+  {Petrovich}}]{DongRafI:2011}
+---. 2011{\natexlab{d}}, \apj, 741, 56
+
+\bibitem[{{D'Orazio} {et~al.}(2015{\natexlab{a}}){D'Orazio}, {Haiman},
+  {Duffell}, {Farris}, \& {MacFadyen}}]{PG1302MNRAS:2015a}
+{D'Orazio}, D.~J., {Haiman}, Z., {Duffell}, P., {Farris}, B.~D., \&
+  {MacFadyen}, A.~I. 2015{\natexlab{a}}, \mnras, 452, 2540
+
+\bibitem[{{D'Orazio} {et~al.}(2013){D'Orazio}, {Haiman}, \&
+  {MacFadyen}}]{DHM:2013:MNRAS}
+{D'Orazio}, D.~J., {Haiman}, Z., \& {MacFadyen}, A. 2013, \mnras, 436, 2997
+
+\bibitem[{{D'Orazio} {et~al.}(2015{\natexlab{b}}){D'Orazio}, {Haiman}, \&
+  {Schiminovich}}]{PG1302Nature:2015b}
+{D'Orazio}, D.~J., {Haiman}, Z., \& {Schiminovich}, D. 2015{\natexlab{b}},
+  Nature, 525, 351
+
+\bibitem[{{D'Orazio} \& {Levin}(2013)}]{DorazioLevin:2013}
+{D'Orazio}, D.~J., \& {Levin}, J. 2013, \prd, 88, 064059
+
+\bibitem[{Dotti {et~al.}(2007)Dotti, Colpi, Haardt, \& Mayer}]{Dotti:2007}
+Dotti, M., Colpi, M., Haardt, F., \& Mayer, L. 2007, \mnras, 379, 956
+
+\bibitem[{{Dotti} {et~al.}(2015){Dotti}, {Merloni}, \&
+  {Montuori}}]{DottiMM:2015}
+{Dotti}, M., {Merloni}, A., \& {Montuori}, C. 2015, \mnras, 448, 3603
+
+\bibitem[{{Dotti} {et~al.}(2012){Dotti}, {Sesana}, \&
+  {Decarli}}]{Dotti:2012:rev}
+{Dotti}, M., {Sesana}, A., \& {Decarli}, R. 2012, Advances in Astronomy, 2012,
+  940568
+
+\bibitem[{{Duffell}(2015)}]{DuffellGapAnyl:2015}
+{Duffell}, P.~C. 2015, \apjl, 807, L11
+
+\bibitem[{{Duffell} {et~al.}(2014){Duffell}, {Haiman}, {MacFadyen}, {D'Orazio},
+  \& {Farris}}]{DuffellFTV:2014}
+{Duffell}, P.~C., {Haiman}, Z., {MacFadyen}, A.~I., {D'Orazio}, D.~J., \&
+  {Farris}, B.~D. 2014, \apjl, 792, L10
+
+\bibitem[{{Duffell} \& {MacFadyen}(2011)}]{Duffell:2011:TESS}
+{Duffell}, P.~C., \& {MacFadyen}, A.~I. 2011, \apjs, 197, 15
+
+\bibitem[{{Duffell} \& {MacFadyen}(2012)}]{DM2012:gaps}
+---. 2012, \apj, 755, 7
+
+\bibitem[{{Duffell} \& {MacFadyen}(2013)}]{DuffellMac:2013:smallqGapOpen}
+---. 2013, \apj, 769, 41
+
+\bibitem[{{Dunhill} {et~al.}(2015){Dunhill}, {Cuadra}, \&
+  {Dougados}}]{Dunhill:2015}
+{Dunhill}, A.~C., {Cuadra}, J., \& {Dougados}, C. 2015, \mnras, 448, 3545
+
+\bibitem[{{D{\"u}rmann} \& {Kley}(2015)}]{DurmannKley:2015}
+{D{\"u}rmann}, C., \& {Kley}, W. 2015, \aap, 574, A52
+
+\bibitem[{{East} {et~al.}(2012){East}, {Pretorius}, \&
+  {Stephens}}]{EastPret:2012}
+{East}, W.~E., {Pretorius}, F., \& {Stephens}, B.~C. 2012, \prd, 85, 124009
+
+\bibitem[{{Edgar}(2006)}]{Edgar:2006}
+{Edgar}, R.~G. 2006, e-print arxiv:astro-ph/0609756
+
+\bibitem[{{Edgar}(2008)}]{Edgar:2008}
+---. 2008, ArXiv e-prints, arXiv:0807.0625
+
+\bibitem[{{Eracleous} {et~al.}(2012){Eracleous}, {Boroson}, {Halpern}, \&
+  {Liu}}]{Eracleous:2011}
+{Eracleous}, M., {Boroson}, T.~A., {Halpern}, J.~P., \& {Liu}, J. 2012, \apjs,
+  201, 23
+
+\bibitem[{{Erber}(1966)}]{Erber:1966}
+{Erber}, T. 1966, Reviews of Modern Physics, 38, 626
+
+\bibitem[{{Erwin} \& {Sparke}(1999)}]{ErwinSparke:1999}
+{Erwin}, P., \& {Sparke}, L.~S. 1999, \apj, 521, 798
+
+\bibitem[{Escala {et~al.}(2005)Escala, Larson, Coppi, \&
+  Mardones}]{Escala:2005}
+Escala, A., Larson, R.~B., Coppi, P.~S., \& Mardones, D. 2005, \apj, 630, 152
+
+\bibitem[{{Etienne} {et~al.}(2009){Etienne}, {Liu}, {Shapiro}, \&
+  {Baumgarte}}]{Etienne:2009}
+{Etienne}, Z.~B., {Liu}, Y.~T., {Shapiro}, S.~L., \& {Baumgarte}, T.~W. 2009,
+  \prd, 79, 044024
+
+\bibitem[{{Etienne} {et~al.}(2012){Etienne}, {Paschalidis}, \&
+  {Shapiro}}]{Etienne:2012}
+{Etienne}, Z.~B., {Paschalidis}, V., \& {Shapiro}, S.~L. 2012, \prd, 86, 084026
+
+\bibitem[{{Faber} {et~al.}(2006){Faber}, {Baumgarte}, {Shapiro}, \&
+  {Taniguchi}}]{FaberBaumgarte:2006}
+{Faber}, J.~A., {Baumgarte}, T.~W., {Shapiro}, S.~L., \& {Taniguchi}, K. 2006,
+  \apjl, 641, L93
+
+\bibitem[{{Farris} {et~al.}(2014){Farris}, {Duffell}, {MacFadyen}, \&
+  {Haiman}}]{Farris:2014}
+{Farris}, B.~D., {Duffell}, P., {MacFadyen}, A.~I., \& {Haiman}, Z. 2014, \apj,
+  783, 134
+
+\bibitem[{{Farris} {et~al.}(2015{\natexlab{a}}){Farris}, {Duffell},
+  {MacFadyen}, \& {Haiman}}]{Farris:2015:GW}
+---. 2015{\natexlab{a}}, \mnras, 447, L80
+
+\bibitem[{{Farris} {et~al.}(2015{\natexlab{b}}){Farris}, {Duffell},
+  {MacFadyen}, \& {Haiman}}]{Farris:2015:Cool}
+---. 2015{\natexlab{b}}, \mnras, 446, L36
+
+\bibitem[{{Farris} {et~al.}(2012){Farris}, {Gold}, {Paschalidis}, {Etienne}, \&
+  {Shapiro}}]{FarrisGold:2012}
+{Farris}, B.~D., {Gold}, R., {Paschalidis}, V., {Etienne}, Z.~B., \& {Shapiro},
+  S.~L. 2012, Physical Review Letters, 109, 221102
+
+\bibitem[{{Farris} {et~al.}(2011){Farris}, {Liu}, \&
+  {Shapiro}}]{FarrisShap:2011}
+{Farris}, B.~D., {Liu}, Y.~T., \& {Shapiro}, S.~L. 2011, \prd, 84, 024024
+
+\bibitem[{{Ferrarese} \& {Ford}(2005)}]{ff05}
+{Ferrarese}, L., \& {Ford}, H. 2005, \ssr, 116, 523
+
+\bibitem[{{Foucart}(2012)}]{Foucart:2012}
+{Foucart}, F. 2012, \prd, 86, 124007
+
+\bibitem[{Fryxell {et~al.}(2000)Fryxell, Olson, Ricker, Timmes, Zingale, Lamb,
+  MacNeice, Rosner, Truran, \& Tufo}]{Fryxell:2000}
+Fryxell, B., Olson, K., Ricker, P., {et~al.} 2000, The Astrophysical Journal
+  Supplement Series, 131, 273
+
+\bibitem[{{Fung} {et~al.}(2014){Fung}, {Shi}, \& {Chiang}}]{FungGaps:2014}
+{Fung}, J., {Shi}, J.-M., \& {Chiang}, E. 2014, \apj, 782, 88
+
+\bibitem[{{Gergely} \& {Biermann}(2012)}]{GergelyBiermann:2012}
+{Gergely}, L.~{\'A}., \& {Biermann}, P.~L. 2012, submitted to PRD; eprint
+  arXiv:1208.5251
+
+\bibitem[{{Giacomazzo} {et~al.}(2013){Giacomazzo}, {Perna}, {Rezzolla},
+  {Troja}, \& {Lazzati}}]{Giacomazzo:2013}
+{Giacomazzo}, B., {Perna}, R., {Rezzolla}, L., {Troja}, E., \& {Lazzati}, D.
+  2013, \apjl, 762, L18
+
+\bibitem[{{Goldreich} \& {Julian}(1969)}]{GJ:1969}
+{Goldreich}, P., \& {Julian}, W.~H. 1969, \apj, 157, 869
+
+\bibitem[{{Goldreich} \& {Lynden-Bell}(1969)}]{GLB:1969}
+{Goldreich}, P., \& {Lynden-Bell}, D. 1969, \apj, 156, 59
+
+\bibitem[{Goldreich \& Tremaine(1979)}]{GT79}
+Goldreich, P., \& Tremaine, S. 1979, \apj, 233, 857
+
+\bibitem[{Goldreich \& Tremaine(1980)}]{GT80}
+---. 1980, \apj, 241, 425
+
+\bibitem[{{Goodman}(1986)}]{GoodmanGRB:1986}
+{Goodman}, J. 1986, \apjl, 308, L47
+
+\bibitem[{Goodman(2003)}]{Goodman:2003}
+Goodman, J. 2003, \mnras, 339, 937
+
+\bibitem[{{Goodman} \& {Rafikov}(2001)}]{GoodmanRafikov:2001}
+{Goodman}, J., \& {Rafikov}, R.~R. 2001, \apj, 552, 793
+
+\bibitem[{{Gould} \& {Rix}(2000)}]{GouldRix:2000}
+{Gould}, A., \& {Rix}, H.-W. 2000, \apjl, 532, L29
+
+\bibitem[{{Graham} {et~al.}(2015{\natexlab{a}}){Graham}, {Djorgovski}, {Stern},
+  {Glikman}, {Drake}, {Mahabal}, {Donalek}, {Larson}, \&
+  {Christensen}}]{Graham+2015a}
+{Graham}, M.~J., {Djorgovski}, S.~G., {Stern}, D., {et~al.} 2015{\natexlab{a}},
+  \nat, 518, 74
+
+\bibitem[{{Graham} {et~al.}(2015{\natexlab{b}}){Graham}, {Djorgovski}, {Stern},
+  {Drake}, {Mahabal}, {Donalek}, {Glikman}, {Larson}, \&
+  {Christensen}}]{Graham+2015b}
+---. 2015{\natexlab{b}}, \mnras, 453, 1562
+
+\bibitem[{{Haehnelt} \& {Kauffmann}(2002)}]{HK2002}
+{Haehnelt}, M.~G., \& {Kauffmann}, G. 2002, \mnras, 336, L61
+
+\bibitem[{Haiman {et~al.}(2009)Haiman, Kocsis, \& Menou}]{HKM09}
+Haiman, Z., Kocsis, B., \& Menou, K. 2009, \apj, 700, 1952
+
+\bibitem[{{Haiman} {et~al.}(2009){Haiman}, {Kocsis}, {Menou}, {Lippai}, \&
+  {Frei}}]{Haiman+2009}
+{Haiman}, Z., {Kocsis}, B., {Menou}, K., {Lippai}, Z., \& {Frei}, Z. 2009,
+  Classical and Quantum Gravity, 26, 094032
+
+\bibitem[{{Harry} \& {LIGO Scientific Collaboration}(2010)}]{AdLIGO:2010}
+{Harry}, G.~M., \& {LIGO Scientific Collaboration}. 2010, Classical and Quantum
+  Gravity, 27, 084006
+
+\bibitem[{Hayasaki {et~al.}(2007)Hayasaki, Mineshige, \& Sudou}]{Hayasaki:2007}
+Hayasaki, K., Mineshige, S., \& Sudou, H. 2007, Publications of the
+  Astronomical Society of Japan, 59, 427
+
+\bibitem[{{Heras}(1998)}]{Heras:1998}
+{Heras}, J.~A. 1998, Physics Letters A, 237, 343
+
+\bibitem[{{Hinkley} {et~al.}(2015){Hinkley}, {Kraus}, {Ireland}, {Cheetham},
+  {Carpenter}, {Tuthill}, {Lacour}, {Evans}, \& {Haubois}}]{7StellarEMRs:2015}
+{Hinkley}, S., {Kraus}, A.~L., {Ireland}, M.~J., {et~al.} 2015, \apjl, 806, L9
+
+\bibitem[{Ivanov {et~al.}(1999)Ivanov, Papaloizou, \& Polnarev}]{Ivanov99}
+Ivanov, P.~B., Papaloizou, J. C.~B., \& Polnarev, A.~G. 1999, \mnras, 307, 79
+
+\bibitem[{Jackson(1991)}]{Jackson}
+Jackson, J.~D. 1991, Classical Electrodynamics, 3rd edn. (New Jersey, USA: John
+  Wiley \& Sons, Inc.)
+
+\bibitem[{{Kanagawa} {et~al.}(2015){Kanagawa}, {Tanaka}, {Muto}, {Tanigawa}, \&
+  {Takeuchi}}]{Kanagawa:2015}
+{Kanagawa}, K.~D., {Tanaka}, H., {Muto}, T., {Tanigawa}, T., \& {Takeuchi}, T.
+  2015, \mnras, 448, 994
+
+\bibitem[{{Kaspi} \& {Kramer}(2016)}]{Kaspi:2016}
+{Kaspi}, V.~M., \& {Kramer}, M. 2016, ArXiv e-prints, arXiv:1602.07738
+
+\bibitem[{{Kiuchi} {et~al.}(2015){Kiuchi}, {Sekiguchi}, {Kyutoku}, {Shibata},
+  {Taniguchi}, \& {Wada}}]{Kiuchi:2015}
+{Kiuchi}, K., {Sekiguchi}, Y., {Kyutoku}, K., {et~al.} 2015, \prd, 92, 064034
+
+\bibitem[{{Kley} \& {Dirksen}(2006)}]{KleyDirksen:2006}
+{Kley}, W., \& {Dirksen}, G. 2006, \aap, 447, 369
+
+\bibitem[{{Kley} \& {Nelson}(2012)}]{KleyNelson:2012:rev}
+{Kley}, W., \& {Nelson}, R.~P. 2012, \araa, 50, 211
+
+\bibitem[{{Kocsis} {et~al.}(2006){Kocsis}, {Frei}, {Haiman}, \&
+  {Menou}}]{Kocsis+2006}
+{Kocsis}, B., {Frei}, Z., {Haiman}, Z., \& {Menou}, K. 2006, \apj, 637, 27
+
+\bibitem[{{Kocsis} {et~al.}(2012{\natexlab{a}}){Kocsis}, {Haiman}, \&
+  {Loeb}}]{Kocsis+2012b}
+{Kocsis}, B., {Haiman}, Z., \& {Loeb}, A. 2012{\natexlab{a}}, \mnras, 427, 2680
+
+\bibitem[{{Kocsis} {et~al.}(2012{\natexlab{b}}){Kocsis}, {Haiman}, \&
+  {Loeb}}]{Kocsis+2012a}
+---. 2012{\natexlab{b}}, \mnras, 427, 2660
+
+\bibitem[{{Kocsis} {et~al.}(2008){Kocsis}, {Haiman}, \& {Menou}}]{Kocsis+2008}
+{Kocsis}, B., {Haiman}, Z., \& {Menou}, K. 2008, \apj, 684, 870
+
+\bibitem[{{Kocsis} {et~al.}(2011){Kocsis}, {Yunes}, \&
+  {Loeb}}]{KocsisYunesLoeb:2011}
+{Kocsis}, B., {Yunes}, N., \& {Loeb}, A. 2011, \prd, 84, 024032
+
+\bibitem[{Komossa(2006)}]{Komossa:Rev06}
+Komossa, S. 2006, Memorie della Societ{\`a} Astronomica Italiana, 77, 733
+
+\bibitem[{{Kormendy} \& {Richstone}(1995)}]{kr95}
+{Kormendy}, J., \& {Richstone}, D. 1995, \araa, 33, 581
+
+\bibitem[{{Kov{\'a}cs}(2013)}]{eR3BStability:2013}
+{Kov{\'a}cs}, T. 2013, \mnras, 430, 2755
+
+\bibitem[{{Lai}(2012)}]{DLai:2012}
+{Lai}, D. 2012, \apjl, 757, L3
+
+\bibitem[{{Laine} \& {Lin}(2012)}]{LaineLinII:2012}
+{Laine}, R.~O., \& {Lin}, D.~N.~C. 2012, \apj, 745, 2
+
+\bibitem[{{Laine} {et~al.}(2012){Laine}, {Lin}, \& {Tagger}}]{LaineLinI:2012}
+{Laine}, R.~O., {Lin}, D.~N.~C., \& {Tagger}, M. 2012, in European Planetary
+  Science Congress 2012, EPSC2012--744
+
+\bibitem[{Landau \& Lifschitz(1959)}]{LandauLifschitz:Fluids}
+Landau, L.~D., \& Lifschitz, E.~M. 1959, Fluid Mechanics (Addison-Wesley)
+
+\bibitem[{{Lee} {et~al.}(2005){Lee}, {Ramirez-Ruiz}, \&
+  {Granot}}]{LeeRuiz:2005}
+{Lee}, W.~H., {Ramirez-Ruiz}, E., \& {Granot}, J. 2005, \apjl, 630, L165
+
+\bibitem[{{Li} {et~al.}(1998){Li}, {Ferrario}, \& {Wickramasinghe}}]{Li:1998}
+{Li}, J., {Ferrario}, L., \& {Wickramasinghe}, D. 1998, \apjl, 503, L151
+
+\bibitem[{Lin \& Papaloizou(1986)}]{LinPapa86b}
+Lin, D. N.~C., \& Papaloizou, J. 1986, \apj, 307, 395
+
+\bibitem[{{Lin} \& {Papaloizou}(1993)}]{LinPapa:1993:ConfProcRev}
+{Lin}, D.~N.~C., \& {Papaloizou}, J.~C.~B. 1993, in Protostars and Planets III,
+  ed. E.~H. {Levy} \& J.~I. {Lunine}, 749--835
+
+\bibitem[{{Lippai} {et~al.}(2009){Lippai}, {Frei}, \& {Haiman}}]{Lippai+2009}
+{Lippai}, Z., {Frei}, Z., \& {Haiman}, Z. 2009, \apj, 701, 360
+
+\bibitem[{{Lithwick} \& {Sari}(2001)}]{LithSari:2001}
+{Lithwick}, Y., \& {Sari}, R. 2001, \apj, 555, 540
+
+\bibitem[{{Liu} {et~al.}(2015){Liu}, {Gezari}, {Heinis}, {Magnier}, {Burgett},
+  {Chambers}, {Flewelling}, {Huber}, {Hodapp}, {Kaiser}, {Kudritzki}, {Tonry},
+  {Wainscoat}, \& {Waters}}]{Liu:7RsMBHB:2015}
+{Liu}, T., {Gezari}, S., {Heinis}, S., {et~al.} 2015, \apjl, 803, L16
+
+\bibitem[{{Lodato} {et~al.}(2009){Lodato}, {Nayakshin}, {King}, \&
+  {Pringle}}]{Lodato:2009}
+{Lodato}, G., {Nayakshin}, S., {King}, A.~R., \& {Pringle}, J.~E. 2009, \mnras,
+  398, 1392
+
+\bibitem[{{Lommen}(2012)}]{PTAs}
+{Lommen}, A.~N. 2012, Journal of Physics Conference Series, 363, 012029
+
+\bibitem[{{Lubow}(1991{\natexlab{a}})}]{Lubow:1991:Model}
+{Lubow}, S.~H. 1991{\natexlab{a}}, \apj, 381, 259
+
+\bibitem[{{Lubow}(1991{\natexlab{b}})}]{Lubow:1991:Sim}
+---. 1991{\natexlab{b}}, \apj, 381, 268
+
+\bibitem[{{L{\"u}tzgendorf} {et~al.}(2012){L{\"u}tzgendorf}, {Kissler-Patig},
+  {Gebhardt}, {Baumgardt}, {Noyola}, {de Zeeuw}, {Neumayer}, {Jalali}, \&
+  {Feldmeier}}]{Lutzgendorf:2012}
+{L{\"u}tzgendorf}, N., {Kissler-Patig}, M., {Gebhardt}, K., {et~al.} 2012,
+  ArXiv e-prints, arXiv:1212.3475
+
+\bibitem[{{Lyutikov}(2011)}]{Lyut:2011}
+{Lyutikov}, M. 2011, \prd, 83, 064001
+
+\bibitem[{{Lyutikov} \& {McKinney}(2011)}]{LyutikovMckinney:2011}
+{Lyutikov}, M., \& {McKinney}, J.~C. 2011, \prd, 84, 084019
+
+\bibitem[{{MacDonald} \& {Thorne}(1982)}]{MP2_MTBZ:1982}
+{MacDonald}, D., \& {Thorne}, K.~S. 1982, \mnras, 198, 345
+
+\bibitem[{{MacDonald} \& {Suen}(1985)}]{MP3_MS:1985}
+{MacDonald}, D.~A., \& {Suen}, W.-M. 1985, \prd, 32, 848
+
+\bibitem[{MacFadyen \& Milosavljevi{\'c}(2008)}]{MacFadyen:2008}
+MacFadyen, A.~I., \& Milosavljevi{\'c}, M. 2008, \apj, 672, 83
+
+\bibitem[{{Mayer}(2013)}]{Mayer:2013:MBHBGasRev}
+{Mayer}, L. 2013, Classical and Quantum Gravity, 30, 244008
+
+\bibitem[{{Mayer} {et~al.}(2007){Mayer}, {Kazantzidis}, {Madau}, {Colpi},
+  {Quinn}, \& {Wadsley}}]{Mayer+2007}
+{Mayer}, L., {Kazantzidis}, S., {Madau}, P., {et~al.} 2007, Science, 316, 1874
+
+\bibitem[{{McKernan} {et~al.}(2013){McKernan}, {Ford}, {Kocsis}, \&
+  {Haiman}}]{McKFeZoltan:2013}
+{McKernan}, B., {Ford}, K.~E.~S., {Kocsis}, B., \& {Haiman}, Z. 2013, \mnras,
+  432, 1468
+
+\bibitem[{{McKernan} {et~al.}(2012){McKernan}, {Ford}, {Lyra}, \&
+  {Perets}}]{McKernan+2012}
+{McKernan}, B., {Ford}, K.~E.~S., {Lyra}, W., \& {Perets}, H.~B. 2012, \mnras,
+  425, 460
+
+\bibitem[{{McWilliams} \& {Levin}(2011)}]{McL:2011}
+{McWilliams}, S.~T., \& {Levin}, J. 2011, \apj, 742, 90
+
+\bibitem[{Milosavljevi{\'c} \& Phinney(2005)}]{Milos:Phinney:2005}
+Milosavljevi{\'c}, M., \& Phinney, E.~S. 2005, \apj, 622, L93
+
+\bibitem[{{Mingarelli} {et~al.}(2015){Mingarelli}, {Levin}, \&
+  {Lazio}}]{Chiara:2015}
+{Mingarelli}, C.~M.~F., {Levin}, J., \& {Lazio}, T.~J.~W. 2015, \apjl, 814, L20
+
+\bibitem[{{Murray}(1994)}]{Murray:1994}
+{Murray}, C.~D. 1994, \icarus, 112, 465
+
+\bibitem[{{Murray} \& {Dermott}(1999)}]{MD:SSD}
+{Murray}, C.~D., \& {Dermott}, S.~F. 1999, {Solar system dynamics}
+
+\bibitem[{{Murray} \& {Dermott}(2000)}]{MDbook}
+---. 2000, {Solar System Dynamics} (Cambridge University Press; Cambridge, UK)
+
+\bibitem[{{Narayan} {et~al.}(1992{\natexlab{a}}){Narayan}, {Paczynski}, \&
+  {Piran}}]{NarayanPacz:1992}
+{Narayan}, R., {Paczynski}, B., \& {Piran}, T. 1992{\natexlab{a}}, \apjl, 395,
+  L83
+
+\bibitem[{{Narayan} {et~al.}(1992{\natexlab{b}}){Narayan}, {Paczynski}, \&
+  {Piran}}]{NPP:NSBH_GRB:1992}
+---. 1992{\natexlab{b}}, \apjl, 395, L83
+
+\bibitem[{{Nelson} {et~al.}(2000){Nelson}, {Papaloizou}, {Masset}, \&
+  {Kley}}]{NelsonKley:2000}
+{Nelson}, R.~P., {Papaloizou}, J.~C.~B., {Masset}, F., \& {Kley}, W. 2000,
+  \mnras, 318, 18
+
+\bibitem[{Nixon {et~al.}(2011)Nixon, Cossins, King, \&
+  Pringle}]{Nixon:2011:LongSim}
+Nixon, C.~J., Cossins, P.~J., King, A.~R., \& Pringle, J.~E. 2011, \mnras, 412,
+  1591
+
+\bibitem[{{Nixon} {et~al.}(2011){Nixon}, {King}, \&
+  {Pringle}}]{Nixon:2011:Lett}
+{Nixon}, C.~J., {King}, A.~R., \& {Pringle}, J.~E. 2011, \mnras, 417, L66
+
+\bibitem[{{Noble} {et~al.}(2012)}]{Noble+2012}
+{Noble}, S.~C., {et~al.} 2012, \apj, 755, 51
+
+\bibitem[{{Olausen} \& {Kaspi}(2014)}]{Magnetars:2014}
+{Olausen}, S.~A., \& {Kaspi}, V.~M. 2014, \apjs, 212, 6
+
+\bibitem[{{Orosz} {et~al.}(2012){Orosz}, , {Welsh}, \& {et.
+  al}}]{Orosz:2012Sci}
+{Orosz}, J.~A., , {Welsh}, W.~F., \& {et. al}. 2012, Science, 337, 1511
+
+\bibitem[{{{\"O}zel} {et~al.}(2010){{\"O}zel}, {Psaltis}, {Narayan}, \&
+  {McClintock}}]{Ozel:2010}
+{{\"O}zel}, F., {Psaltis}, D., {Narayan}, R., \& {McClintock}, J.~E. 2010,
+  \apj, 725, 1918
+
+\bibitem[{{Paczynski}(1986)}]{Pacz:1986GRB}
+{Paczynski}, B. 1986, \apjl, 308, L43
+
+\bibitem[{{Paczynski} \& {Rudak}(1980)}]{PR:InnerDsks:1981}
+{Paczynski}, B., \& {Rudak}, B. 1980, \actaa, 30, 237
+
+\bibitem[{{Palenzuela} {et~al.}(2011){Palenzuela}, {Bona}, {Lehner}, \&
+  {Reula}}]{PalenzuelaBZ:2011}
+{Palenzuela}, C., {Bona}, C., {Lehner}, L., \& {Reula}, O. 2011, Classical and
+  Quantum Gravity, 28, 134007
+
+\bibitem[{{Palenzuela} {et~al.}(2010){Palenzuela}, {Garrett}, {Lehner}, \&
+  {Liebling}}]{Palenzuela:2010}
+{Palenzuela}, C., {Garrett}, T., {Lehner}, L., \& {Liebling}, S.~L. 2010, \prd,
+  82, 044045
+
+\bibitem[{{Palenzuela} {et~al.}(2013){Palenzuela}, {Lehner}, {Ponce},
+  {Liebling}, {Anderson}, {Neilsen}, \& {Motl}}]{Palenzuela:2013}
+{Palenzuela}, C., {Lehner}, L., {Ponce}, M., {et~al.} 2013, ArXiv e-prints,
+  arXiv:1301.7074
+
+\bibitem[{{Papaloizou} \& {Pringle}(1977)}]{PapaPringle:1977}
+{Papaloizou}, J., \& {Pringle}, J.~E. 1977, \mnras, 181, 441
+
+\bibitem[{{Papaloizou} {et~al.}(2004){Papaloizou}, {Nelson}, \&
+  {Snellgrove}}]{Papa:2004:MHDGapopen}
+{Papaloizou}, J.~C.~B., {Nelson}, R.~P., \& {Snellgrove}, M.~D. 2004, \mnras,
+  350, 829
+
+\bibitem[{{Paschalidis} {et~al.}(2013){Paschalidis}, {Etienne}, \&
+  {Shapiro}}]{Paschalidis:2013}
+{Paschalidis}, V., {Etienne}, Z.~B., \& {Shapiro}, S.~L. 2013, \prd, 88, 021504
+
+\bibitem[{{Payne} \& {Lodato}(2007)}]{PayneLodato:2007}
+{Payne}, M.~J., \& {Lodato}, G. 2007, \mnras, 381, 1597
+
+\bibitem[{{Pe'er} \& {Ryde}(2011)}]{Pe'er:2011}
+{Pe'er}, A., \& {Ryde}, F. 2011, \apj, 732, 49
+
+\bibitem[{{Penna}(2015{\natexlab{a}})}]{Penna:ImpMatch2015}
+{Penna}, R.~F. 2015{\natexlab{a}}, \prd, 92, 084017
+
+\bibitem[{{Penna}(2015{\natexlab{b}})}]{Penna:2015}
+---. 2015{\natexlab{b}}, \prd, 91, 084044
+
+\bibitem[{{Peter Rowe} \& {Rowe}(1987)}]{Rowe2:1986}
+{Peter Rowe}, E.~G., \& {Rowe}, G.~T. 1987, \physrep, 149, 287
+
+\bibitem[{{Peters}(1964)}]{Peters64}
+{Peters}, P.~C. 1964, Physical Review, 136, 1224
+
+\bibitem[{{Pichardo} {et~al.}(2005){Pichardo}, {Sparke}, \&
+  {Aguilar}}]{PSA:2005}
+{Pichardo}, B., {Sparke}, L.~S., \& {Aguilar}, L.~A. 2005, \mnras, 359, 521
+
+\bibitem[{{Piro}(2012)}]{Piro:2012}
+{Piro}, A.~L. 2012, \apj, 755, 80
+
+\bibitem[{{Planck Collaboration} {et~al.}(2015){Planck Collaboration}, {Ade},
+  {Aghanim}, {Arnaud}, {Ashdown}, {Aumont}, {Baccigalupi}, {Banday},
+  {Barreiro}, {Bartlett}, \& et~al.}]{Planck:2015:CosmoParams}
+{Planck Collaboration}, {Ade}, P.~A.~R., {Aghanim}, N., {et~al.} 2015, ArXiv
+  e-prints, arXiv:1502.01589
+
+\bibitem[{{Press} {et~al.}(2007){Press}, {Teukolsky}, {Vetterling}, \&
+  {Flannery}}]{NumRec:2007}
+{Press}, W.~H., {Teukolsky}, S.~A., {Vetterling}, W.~T., \& {Flannery}, B.~P.
+  2007, {Numerical Recipes: The Art of Scientific Computing} (Cambridge
+  University Press; Cambridge, UK)
+
+\bibitem[{Preto {et~al.}(2011)Preto, Berentzen, Berczik, \&
+  Spurzem}]{Preto:2011}
+Preto, M., Berentzen, I., Berczik, P., \& Spurzem, R. 2011, \apjl, 732, L26
+
+\bibitem[{{Pringle}(1981)}]{Pringle:1981}
+{Pringle}, J.~E. 1981, \araa, 19, 137
+
+\bibitem[{{Rezzolla} {et~al.}(2011){Rezzolla}, {Giacomazzo}, {Baiotti},
+  {Granot}, {Kouveliotou}, \& {Aloy}}]{Rezzolla:2011}
+{Rezzolla}, L., {Giacomazzo}, B., {Baiotti}, L., {et~al.} 2011, \apjl, 732, L6
+
+\bibitem[{Ribaric \& Sustersic(1995)}]{RS:1995}
+Ribaric, M., \& Sustersic, L. 1995, SIAM Journal of Applied Mathematics, 593
+
+\bibitem[{{Ricker} {et~al.}(2014){Ricker}, {Winn}, {Vanderspek}, {Latham},
+  {Bakos}, {Bean}, {Berta-Thompson}, \& {Brown}}]{TESS:2014}
+{Ricker}, G.~R., {Winn}, J.~N., {Vanderspek}, R., {et~al.} 2014, in Society of
+  Photo-Optical Instrumentation Engineers (SPIE) Conference Series, Vol. 9143,
+  Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series,
+  20
+
+\bibitem[{{Robertson} {et~al.}(2006){Robertson}, {Cox}, {Hernquist}, {Franx},
+  {Hopkins}, {Martini}, \& {Springel}}]{Robertson+2006}
+{Robertson}, B., {Cox}, T.~J., {Hernquist}, L., {et~al.} 2006, \apj, 641, 21
+
+\bibitem[{{Roedig} {et~al.}(2011){Roedig}, {Dotti}, {Sesana}, {Cuadra}, \&
+  {Colpi}}]{Roedig:2011:eccevo}
+{Roedig}, C., {Dotti}, M., {Sesana}, A., {Cuadra}, J., \& {Colpi}, M. 2011,
+  \mnras, 415, 3033
+
+\bibitem[{{Roedig} {et~al.}(2012{\natexlab{a}}){Roedig}, {Sesana}, {Dotti},
+  {Cuadra}, {Amaro-Seoane}, \& {Haardt}}]{Roedig:2012:Trqs}
+{Roedig}, C., {Sesana}, A., {Dotti}, M., {et~al.} 2012{\natexlab{a}}, \aap,
+  545, A127
+
+\bibitem[{{Roedig} {et~al.}(2012{\natexlab{b}}){Roedig}, {Sesana}, {Dotti},
+  {Cuadra}, {Amaro-Seoane}, \& {Haardt}}]{Roedig:2012:Trqs:arxiv}
+---. 2012{\natexlab{b}}, \aap, 545, A127
+
+\bibitem[{{Rudak} \& {Paczynski}(1981)}]{RP:Excretion:1981}
+{Rudak}, B., \& {Paczynski}, B. 1981, \actaa, 31, 13
+
+\bibitem[{{Ruderman} \& {Sutherland}(1975)}]{RudSuth:1975}
+{Ruderman}, M.~A., \& {Sutherland}, P.~G. 1975, \apj, 196, 51
+
+\bibitem[{{Schnittman}(2010)}]{SchnitL4L5:2010}
+{Schnittman}, J.~D. 2010, \apj, 724, 39
+
+\bibitem[{{Sesana} {et~al.}(2005){Sesana}, {Haardt}, {Madau}, \&
+  {Volonteri}}]{Sesana+2005}
+{Sesana}, A., {Haardt}, F., {Madau}, P., \& {Volonteri}, M. 2005, \apj, 623, 23
+
+\bibitem[{{Sesana} {et~al.}(2012){Sesana}, {Roedig}, {Reynolds}, \&
+  {Dotti}}]{Sesana+2012}
+{Sesana}, A., {Roedig}, C., {Reynolds}, M.~T., \& {Dotti}, M. 2012, \mnras,
+  420, 860
+
+\bibitem[{{Shakura} \& {Sunyaev}(1973)}]{SS73}
+{Shakura}, N.~I., \& {Sunyaev}, R.~A. 1973, \aap, 24, 337
+
+\bibitem[{Shapiro(2010)}]{Shapiro:2010}
+Shapiro, S.~L. 2010, \prd, 81, 24019
+
+\bibitem[{{Shen} \& {Loeb}(2010)}]{SL2010}
+{Shen}, Y., \& {Loeb}, A. 2010, \apj, 725, 249
+
+\bibitem[{{Shi} \& {Krolik}(2015)}]{ShiKrolik:2015}
+{Shi}, J.-M., \& {Krolik}, J.~H. 2015, \apj, 807, 131
+
+\bibitem[{{Shi} {et~al.}(2012){Shi}, {Krolik}, {Lubow}, \&
+  {Hawley}}]{ShiKrolik:2012:ApJ}
+{Shi}, J.-M., {Krolik}, J.~H., {Lubow}, S.~H., \& {Hawley}, J.~F. 2012, \apj,
+  749, 118
+
+\bibitem[{{Shibata} \& {Taniguchi}(2008)}]{ShibataTaniguchi:2008}
+{Shibata}, M., \& {Taniguchi}, K. 2008, \prd, 77, 084015
+
+\bibitem[{{Shibata} \& {Uryu}(2007)}]{ShibataUryu:2007}
+{Shibata}, M., \& {Uryu}, K. 2007, Classical and Quantum Gravity, 24, 125
+
+\bibitem[{{Springel} {et~al.}(2005){Springel}, {Di Matteo}, \&
+  {Hernquist}}]{Springel+2005}
+{Springel}, V., {Di Matteo}, T., \& {Hernquist}, L. 2005, \apjl, 620, L79
+
+\bibitem[{{Svensson}(1987)}]{Sven:1987}
+{Svensson}, R. 1987, \mnras, 227, 403
+
+\bibitem[{Syer \& Clarke(1995)}]{SyerClarke95}
+Syer, D., \& Clarke, C.~J. 1995, \mnras, 277, 758
+
+\bibitem[{{Tanaka} {et~al.}(2012){Tanaka}, {Menou}, \& {Haiman}}]{Tanaka:2012}
+{Tanaka}, T., {Menou}, K., \& {Haiman}, Z. 2012, \mnras, 420, 705
+
+\bibitem[{{Tanvir} {et~al.}(2005){Tanvir}, {Chapman}, {Levan}, \&
+  {Priddey}}]{Tanvir:2005}
+{Tanvir}, N.~R., {Chapman}, R., {Levan}, A.~J., \& {Priddey}, R.~S. 2005, \nat,
+  438, 991
+
+\bibitem[{{Thorne} {et~al.}(1986){Thorne}, {Price}, \& {MacDonald}}]{MPBook}
+{Thorne}, K.~S., {Price}, R.~H., \& {MacDonald}, D.~A. 1986, {Black holes: The
+  membrane paradigm} (Yale University Press)
+
+\bibitem[{{Triaud} {et~al.}(2013){Triaud}, {Gillon}, {Selsis}, {Winn},
+  {Demory}, {Artigau}, {Laughlin}, \& {Seager}}]{Triaud:2013}
+{Triaud}, A.~H.~M.~J., {Gillon}, M., {Selsis}, F., {et~al.} 2013, ArXiv
+  e-prints, arXiv:1304.7248
+
+\bibitem[{{Tsalmantza} {et~al.}(2011){Tsalmantza}, {Decarli}, {Dotti}, \&
+  {Hogg}}]{Tsalmantza:2011}
+{Tsalmantza}, P., {Decarli}, R., {Dotti}, M., \& {Hogg}, D.~W. 2011, \apj, 738,
+  20
+
+\bibitem[{{Tsang}(2013)}]{Tsang:2013}
+{Tsang}, D. 2013, \apj, 777, 103
+
+\bibitem[{{Tsang} {et~al.}(2012){Tsang}, {Read}, {Hinderer}, {Piro}, \&
+  {Bondarescu}}]{Tsang:2012}
+{Tsang}, D., {Read}, J.~S., {Hinderer}, T., {Piro}, A.~L., \& {Bondarescu}, R.
+  2012, Physical Review Letters, 108, 011102
+
+\bibitem[{{Vietri}(1996)}]{Vietri:1996}
+{Vietri}, M. 1996, \apjl, 471, L95
+
+\bibitem[{{Volonteri} {et~al.}(2003{\natexlab{a}}){Volonteri}, {Haardt}, \&
+  {Madau}}]{Volonteri+2003}
+{Volonteri}, M., {Haardt}, F., \& {Madau}, P. 2003{\natexlab{a}}, \apj, 582,
+  559
+
+\bibitem[{{Volonteri} {et~al.}(2003{\natexlab{b}}){Volonteri}, {Haardt}, \&
+  {Madau}}]{Volonteri:2003}
+---. 2003{\natexlab{b}}, \apj, 582, 559
+
+\bibitem[{{Ward}(1997)}]{Ward:1997}
+{Ward}, W.~R. 1997, \icarus, 126, 261
+
+\bibitem[{{Wu} {et~al.}(2002){Wu}, {Cropper}, {Ramsay}, \&
+  {Sekiguchi}}]{Wu:2002}
+{Wu}, K., {Cropper}, M., {Ramsay}, G., \& {Sekiguchi}, K. 2002, \mnras, 331,
+  221
+
+\bibitem[{{Yunes} {et~al.}(2011){Yunes}, {Kocsis}, {Loeb}, \&
+  {Haiman}}]{YKH:2011:L}
+{Yunes}, N., {Kocsis}, B., {Loeb}, A., \& {Haiman}, Z. 2011, Physical Review
+  Letters, 107, 171103
+
+\bibitem[{{Zhu} {et~al.}(2013){Zhu}, {Stone}, \& {Rafikov}}]{Zhu:2013:GapOpen}
+{Zhu}, Z., {Stone}, J.~M., \& {Rafikov}, R.~R. 2013, \apj, 768, 143
+
+\end{thebibliography}
