@@ -2,10 +2,12 @@
 \contentsline {chapter}{List of Tables}{xxx}{chapter*.2}
 \contentsline {chapter}{Acknowledgements}{xxxi}{chapter*.3}
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
-\contentsline {paragraph}{EM counterparts}{4}{equation.1.0.2}
-\contentsline {paragraph}{EM only}{4}{equation.1.0.2}
+\contentsline {subsection}{\numberline {1.0.1}The gravitational side}{2}{subsection.1.0.1}
+\contentsline {subsection}{\numberline {1.0.2}The electromagnetic side}{4}{subsection.1.0.2}
+\contentsline {paragraph}{EM counterparts}{5}{subsection.1.0.2}
+\contentsline {paragraph}{EM only}{5}{subsection.1.0.2}
 \contentsline {section}{\numberline {1.1}Part I: Massive Black Hole Binaries}{5}{section.1.1}
-\contentsline {section}{\numberline {1.2}Part II: Stellar Black Hole + Neutron Star Binaries.}{5}{section.1.2}
+\contentsline {section}{\numberline {1.2}Part II: Stellar Black Hole + Neutron Star Binaries.}{6}{section.1.2}
 \contentsline {section}{\numberline {1.3}Outline of thesis}{6}{section.1.3}
 \contentsline {part}{I\hspace {1em}Massive Black Hole Binaries}{7}{part.1}
 \contentsline {chapter}{\numberline {2}Accretion into the Central Cavity}{9}{chapter.2}
