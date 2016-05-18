@@ -451,7 +451,7 @@ torques on the secondary from the outer Linblad resonances outweigh the
 outward torques on the secondary from the inner Linblad resonances, and inward
 `migration' (orbital shrinkage) occurs. This process, where linear spiral
 density waves are launched by the secondary and cause the binary's orbit to
-shrink, is called Type I migration \citep[See also][]{MeyerVernetSicardy:1987,
+shrink, is called Type I migration \citep[See also][]{Ward:1986, MeyerVernetSicardy:1987,
 Ward:1997}. Hence, the solutions to the equations of hydrodynamics, for disks
 perturbed by a small mass ratio binary, can be described by stationary
 perturbations to solutions with a central point mass; the main new feature is
@@ -467,10 +467,13 @@ in the disk become non-linear at only a short distance (less than a disk scale
 hight) from the secondary (See chapter 3 for more details). The waves steepen
 into a shock and deposit angular momentum to the disk material in the co-
 orbital region of the secondary \citep{RafikovDong:2011, LinPapa, chapter
-3...}. This process clears a low density annulus in the orbit of the secondary.
-\cite{LinPapa:1986b} were the first
+3...}. This process clears a low density annulus in the orbit of the
+secondary. \cite{LinPapa:1986b} were the first to point out that if such a gap
+is formed, the secondary will be locked into the radial flow of the disc,
+migrating at the viscous inflow rate. Such migration, when a gas barrier is
+formed around the binary is called Type II migration \citep[see also][]{Ward:1997, }
 
-Type II planetary migration...
+
 
 ... Analytic work by \citep{SyerClarke:95, Ivanov:1999} showed that in the
 non-planetary case, the Type II rate would eventually slow on scales where the
@@ -483,6 +486,17 @@ however, has been greatly altered by work in the intervening $\sim 1.5$
 decades.
 
 
+picture has been altered in the last decade...
+
+This picture, fails to account for mass flow across the gap along
+horshoe orbits in the full dimentionlity of the problem. Recent work, using 2D
+viscous hydrodynamical simulations has shown that mass flow accross the gap,
+can allow the secondary to migrate at a rate depedent on disk parameters
+(denisty, temperature, pressure), and limited by a maximum migraton velocity
+which can be greater than the viscous rate \citep{Edgar:2008, DuffelFTV,
+DurmannKley:2012}. The mechanisms which dictate the migration rate of gap
+openeing planets in the full two and three dimensional pictures is a topic of
+ongoing work.
 
 
 The advent of numerical simulations which capture the 2D, non-axisymmetric
@@ -504,58 +518,57 @@ more violent clearing of a \emph{central cavity} for mass ratios above $q
 
 
 
+
+
+
 These analytic treatments gave rise to the first numerical studies of fluid flow around a binary in the context of disks around binary stars and eventually MBHBs...
 1D arguments \citep{SyerClarke, Ivanov?} and early 2D SPH simulations \citep{Artymowicz:1991} showed that the outward torques of the propeller like binary clear a cavity around near equal mass binaries (those expected to form hard binaries...) of size approximately twice the binary separation, leaving the binary to inspiral in a environment nearly devoid of gas. However 
 
 
 
 
-%%% 1D Summary
-Early papers: 
-	Type I: 
-		Lynden-Bell and Kalnajs 1972 - resodnances and spiral arms in galactic setting
-		Lin and Papaloizou 1979 a - angular momentum transport:Type I migration - tidal truncation of CBDs - application to dwarf novae
-		GT 1980 - first to suggest migration - from resonant tides
-		Meyer Sicardy - 
+% %%% 1D Summary
+% Early papers: 
+% 	Type I: 
+% 		Lynden-Bell and Kalnajs 1972 - resodnances and spiral arms in galactic setting
+% 		Lin and Papaloizou 1979 a - angular momentum transport:Type I migration - tidal truncation of CBDs - application to dwarf novae
+% 		GT 1980 - first to suggest migration - from resonant tides
+% 		Meyer Sicardy - 
 
 
-	Type II
-		Syer Clarke Disk vs sec dominated - app to MBHBs
+% 	Type II
+% 		Syer Clarke Disk vs sec dominated - app to MBHBs
 		
-		b - Tidal truncation of CBDs applied to contact binaries and the formation of commensurable satellites in the solar system.
-		Lin and Papaloizou 1986 a - full nonlinear interaction f disk and sattelite, self grav, range of c_s and nu - density wave propagation studied- applied to protoplanet and the primordial solar nebula
-		b - dynamical evolution of the disk and the orbital migration of the protoplanet in a self-consistent manner is considered - Type II viscous evolution rate derived here - numerical stuff?
-		Lin Papa 1993
+% 		b - Tidal truncation of CBDs applied to contact binaries and the formation of commensurable satellites in the solar system.
+% 		Lin and Papaloizou 1986 a - full nonlinear interaction f disk and sattelite, self grav, range of c_s and nu - density wave propagation studied- applied to protoplanet and the primordial solar nebula
+% 		b - dynamical evolution of the disk and the orbital migration of the protoplanet in a self-consistent manner is considered - Type II viscous evolution rate derived here - numerical stuff?
+% 		Lin Papa 1993
 
-	Gap Clearing 
-		The above Lin Papa papers
-		Arty and Lubow 1994, 1996
+% 	Gap Clearing 
+% 		The above Lin Papa papers
+% 		Arty and Lubow 1994, 1996
 	
-	Both:
-	Hourigan Ward 1984
-	Ward 1997
+% 	Both:
+% 	Hourigan Ward 1984
+% 	Ward 1997
 
-	Eccentricity excitation/damping
-	Ward 1988
-	Goldreich Sari 2003
+% 	Eccentricity excitation/damping
+% 	Ward 1988
+% 	Goldreich Sari 2003
 
-Present day answers to earlier work:
-Type I:
-Rafikov and Dong etc
-Duffell
+% Present day answers to earlier work:
+% Type I:
+% Rafikov and Dong etc
+% Duffell
 
-Type II:
-Edgar 2008
-FTV Duffell 2014
-Durman and Kley? 2015
+% Type II:
+% Edgar 2008
+% FTV Duffell 2014
+% Durman and Kley? 2015
 
-Syer and Clarke: secondary BH can clear a gap in the CBD, and bank up material behind it, causing a change in the spectarl and possibly continuum emission from the AGN. They also introduced the idea od Type II secondary dominated vs. disk dominated mogration.
+%Syer and Clarke: secondary BH can clear a gap in the CBD, and bank up material behind it, causing a change in the spectarl and possibly continuum emission from the AGN. They also introduced the idea od Type II secondary dominated vs. disk dominated mogration.
 
-The first simulations of \citep{Artymowicz:1991} 
 
-In the 2000's these studies re-invented themselves in application to MBHBs. LIST
-
-Split into Migration related stuff and EM counterpart related stuff??
 EMPHASIZE THE QUESTIONS IN THIS THESIS: Can accretion make EM signature of MBHB and can we use it to identify a pop of MBHB candidates?
 
 Note
