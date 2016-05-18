@@ -2,11 +2,213 @@ This is BibTeX, Version 0.99d (TeX Live 2014)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: thesis.aux
 The style file: apj.bst
-Reallocated field_info (elt_size=4) to 11916 items from 5000.
+White space in argument---line 53 of file thesis.aux
+ : \citation{LIGO-
+ :                 India}
+I'm skipping whatever remains of this command
+White space in argument---line 58 of file thesis.aux
+ : \citation{eLISA:Amaro-
+ :                        Seoane:2013}
+I'm skipping whatever remains of this command
+White space in argument---line 104 of file thesis.aux
+ : \citation{CRTS
+ :                refs}
+I'm skipping whatever remains of this command
+Case mismatch error between cite keys kr95 and KR95
+---line 114 of file thesis.aux
+ : \citation{kr95
+ :               }
+I'm skipping whatever remains of this command
+Reallocated field_info (elt_size=4) to 14282 items from 5000.
 Database file #1: refs/refs.bib
+Repeated entry---line 5280 of file refs/refs.bib
+ : @article{PG1302MNRAS:2015a
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5291 of file refs/refs.bib
+ : @article{PG1302Nature:2015b
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5324 of file refs/refs.bib
+ : @article{ShiKrolik:2015
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5360 of file refs/refs.bib
+ : @article{Dunhill:2015
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5393 of file refs/refs.bib
+ : @article{Farris:2015:GW
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5415 of file refs/refs.bib
+ : @article{Farris:2015:Cool
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5459 of file refs/refs.bib
+ : @article{DuffellFTV:2014
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5536 of file refs/refs.bib
+ : @article{Farris:2014
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5547 of file refs/refs.bib
+ : @article{delValleEscala:II:2014
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5569 of file refs/refs.bib
+ : @article{DHM:2013:MNRAS
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5581 of file refs/refs.bib
+ : @article{Mayer:2013:MBHBGasRev
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5704 of file refs/refs.bib
+ : @article{delValleEscala:I:2012
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5715 of file refs/refs.bib
+ : @article{FarrisGold:2012
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5726 of file refs/refs.bib
+ : @article{Roedig:2012:Trqs
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5736 of file refs/refs.bib
+ : @article{Noble+2012
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5780 of file refs/refs.bib
+ : @article{ShiKrolik:2012:ApJ
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5802 of file refs/refs.bib
+ : @article{Sesana+2012
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5813 of file refs/refs.bib
+ : @article{Dotti:2012:rev
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5870 of file refs/refs.bib
+ : @article{Roedig:2011:eccevo
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5892 of file refs/refs.bib
+ : @article{FarrisShap:2011
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5903 of file refs/refs.bib
+ : @article{Nixon:2011:LongSim
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6079 of file refs/refs.bib
+ : @article{Shapiro:2010
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6101 of file refs/refs.bib
+ : @article{Lodato:2009
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6126 of file refs/refs.bib
+ : @article{Cuadra:2009
+ :                     ,
+I'm skipping whatever remains of this entry
+Warning--string name "n/a" is undefined
+--line 6188 of file refs/refs.bib
+Repeated entry---line 6191 of file refs/refs.bib
+ : @article{Haiman+2009
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6263 of file refs/refs.bib
+ : @article{MacFadyen:2008
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6317 of file refs/refs.bib
+ : @article{Hayasaki:2007
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6384 of file refs/refs.bib
+ : @article{ArmNat:2005
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6496 of file refs/refs.bib
+ : @article{ArmNat:2002:ApJL
+ :                          ,
+I'm skipping whatever remains of this entry
+Warning--string name "n/a" is undefined
+--line 6516 of file refs/refs.bib
+Repeated entry---line 6519 of file refs/refs.bib
+ : @article{GouldRix:2000
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6582 of file refs/refs.bib
+ : @article{ArtyLubow:1996
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6614 of file refs/refs.bib
+ : @article{SyerClarke95
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6667 of file refs/refs.bib
+ : @article{Artymowicz:1994
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6833 of file refs/refs.bib
+ : @article{Begel:Blan:Rees:1980
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6877 of file refs/refs.bib
+ : @article{HKM09
+ :               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7201 of file refs/refs.bib
+ : @article{eLISA:Amaro-Seoane:2013
+ :                                 ,
+I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "Farris+2014"
 Warning--I didn't find a database entry for "Graham+2015"
 Warning--I didn't find a database entry for "Dorazio+2013"
+Warning--I didn't find a database entry for "ICECUBE"
+Warning--I didn't find a database entry for "Bloom:2009"
+Warning--I didn't find a database entry for "BHkicks"
+Warning--I didn't find a database entry for ""
+Warning--I didn't find a database entry for "Schmidt:19XX"
+Warning--I didn't find a database entry for "Saltpeter:1964"
+Warning--I didn't find a database entry for "LyndenBell:1969"
+Warning--I didn't find a database entry for "KHo2015"
+Warning--I didn't find a database entry for "FerrareseFord:2005"
+Warning--I didn't find a database entry for "LCDM"
+Warning--I didn't find a database entry for "DottiSesanaDecarli:2011"
+Warning--I didn't find a database entry for "Fabbiano+2011"
+Warning--I didn't find a database entry for "Burke-Spolaor:2011"
+Warning--I didn't find a database entry for "ColpiDotti:2009"
+Warning--I didn't find a database entry for "Woo:2014"
+Warning--I didn't find a database entry for "MerrittMilos:2005"
+Warning--I didn't find a database entry for "Mayer:2011"
+Warning--I didn't find a database entry for "Mayer:2007"
+Warning--I didn't find a database entry for "Chapon:2013"
+Warning--I didn't find a database entry for "Chandra:1943"
+Warning--I didn't find a database entry for "Callegari:2011"
+Warning--I didn't find a database entry for "Mayer:2013"
+Warning--I didn't find a database entry for "Saslaw+2005"
+Warning--I didn't find a database entry for "MilosPhinney:2001"
+Warning--I didn't find a database entry for "Peters:64"
+Warning--I didn't find a database entry for "triaxialFPPsolns"
+Warning--I didn't find a database entry for "massivpertFPPsolns"
+Warning--I didn't find a database entry for "GoldRix:2000"
+Warning--I didn't find a database entry for "Barnes:2002"
+Warning--I didn't find a database entry for "SesanaKocsis:"
+Warning--I didn't find a database entry for "Shannon:2015"
+Warning--I didn't find a database entry for "PTAsGWB"
+Warning--I didn't find a database entry for "squeezing"
+Warning--I didn't find a database entry for "kickEMsigs"
+Warning--I didn't find a database entry for "Graham:2015b"
+Warning--I didn't find a database entry for "CharisiMBHBs:2016"
+Warning--I didn't find a database entry for "Orzel:2008"
 Warning--I didn't find a database entry for "eLISA:Amaro-Seoane:2012"
 Warning--I didn't find a database entry for "Roedig:2012"
 Warning--I didn't find a database entry for "ShiKrolik:2012"
@@ -76,45 +278,46 @@ Warning--to sort, need author or key in FERMIGBM:2009
 Warning--to sort, need author or key in FERMIGBM:2015
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Warning--empty publisher in MD:SSD
-You've used 198 entries,
+Warning--empty publisher in WaldGR:1984
+You've used 252 entries,
             3085 wiz_defined-function locations,
-            2184 strings with 44180 characters,
-and the built_in function-call counts, 90327 in all, are:
-= -- 7916
-> -- 5764
-< -- 94
-+ -- 1948
-- -- 2071
-* -- 7330
-:= -- 16702
-add.period$ -- 198
-call.type$ -- 198
-change.case$ -- 1325
-chr.to.int$ -- 189
-cite$ -- 205
-duplicate$ -- 3744
-empty$ -- 5708
-format.name$ -- 2390
-if$ -- 18193
-int.to.chr$ -- 13
+            2609 strings with 56728 characters,
+and the built_in function-call counts, 115856 in all, are:
+= -- 10092
+> -- 7396
+< -- 128
++ -- 2488
+- -- 2635
+* -- 9405
+:= -- 21405
+add.period$ -- 252
+call.type$ -- 252
+change.case$ -- 1660
+chr.to.int$ -- 242
+cite$ -- 260
+duplicate$ -- 4775
+empty$ -- 7355
+format.name$ -- 3056
+if$ -- 23384
+int.to.chr$ -- 14
 int.to.str$ -- 0
-missing$ -- 193
-newline$ -- 598
-num.names$ -- 785
-pop$ -- 1417
+missing$ -- 244
+newline$ -- 760
+num.names$ -- 1002
+pop$ -- 1762
 preamble$ -- 1
-purify$ -- 1323
+purify$ -- 1658
 quote$ -- 0
-skip$ -- 3203
+skip$ -- 4178
 stack$ -- 0
-substring$ -- 4259
-swap$ -- 56
+substring$ -- 5630
+swap$ -- 82
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1764
-warning$ -- 3
-while$ -- 761
+type$ -- 2247
+warning$ -- 4
+while$ -- 971
 width$ -- 0
-write$ -- 1975
-(There were 71 warnings)
+write$ -- 2517
+(There were 40 error messages)
