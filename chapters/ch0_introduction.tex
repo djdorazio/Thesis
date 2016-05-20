@@ -731,6 +731,21 @@ bright up until merger.
 %%%Observations
 \subsection{Observations of MBHBs}
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%FIGURE doppler candidates
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{wrapfigure}{R}{0.5\textwidth}
+%\begin{figure}
+\begin{center}
+\includegraphics[scale=0.55]{figures/ch0/PTF_xsiGtr1_vs_z_M_P_alph_I90} 
+\end{center}
+\caption{A subest of the MBHB candidates from \citep{Graham+2015b} and \citep[][denoted by black x's]{Charisi+2016} for which spectral slopes are measured and the magnitude of variabiltiy form Doppler boosting can be estimated. From left to right, top to bottom, the ratio of predicted Doppler variability amplitude to observed variability amplitude is plotted vs, redshit, average optical magnitude, log mass, and observed period. Candidates above the horizontal black line are possible Doppler beaming MBHB candidates.}
+\label{Fig:Contour}
+%\end{figure}
+\end{wrapfigure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
 As discussed, a motivation for the above theoretical calculations is to
 determine the types of EM signatures that will identify MBHBs in the inspiral
 regime. Searching for MBHB by searching for periodically varying AGN has been
@@ -742,6 +757,9 @@ HKM09 propose that close MBHBs can be indentified in Quasars by their production
 %caluclate the duty cycle of MBHBs with 
 
 %assume that MBHB can generate periodic EM signatues at the binary orbital period to predict the sample size of Quasars needed to detect a sample of MBHBs that should be needed based on Quasar lifetimes and gas + GW induced binary shrinkage. 
+
+
+
 
 These predictions came to fruition only a year ago when the a group from
 Caltech/JPL scoured 9 years of time domain optical photomoetry of
@@ -773,8 +791,6 @@ candidates must be peiced together. The final chapter of Part I (Chapter 5) is
 a beginning to this process, presenting a model for the infrared variability
 expected from dust reverberation by MBHBs that exhibit variable emission,
 through either accretion variablitiy or anisotropic Doppler boosted emission.
-
-
 
 
 
@@ -928,6 +944,21 @@ Eq. \ref{Eq:BinStrain}, but a binary containing a NS has the most potential to
 produce a bright EM signal, making BHNS systems especially interesting sources
 of EM+GW emission.
 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%FIGURE BHNS TDs
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{wrapfigure}{R}{0.4\textwidth}
+%\begin{figure}
+\begin{center}
+\includegraphics[scale=0.33]{figures/ch0/BHNS_TDs} 
+\end{center}
+\caption{Approximate values of black hole mass and spin for which a companion neutron star would be disrupted outside of the black hole horizon. Each of the two regions are for the labeled neutron star masses spanning the range of theoretical limits and for a neutron star with radius of 10km.}
+\label{Fig:Contour}
+%\end{figure}
+\end{wrapfigure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 The tidal disruption of a NS by its BH partner could generate a $\gamma$-ray
 burst after merger \citep{NPP:NSBH_GRB:1992}. However, it is under-appreciated
 that most BHs should be large enough to swallow their NSs
@@ -945,19 +976,6 @@ is of course a crude aproximation which depends on the (unknown) equation of
 state of the NS. More sophistaced approximations, however, do not find anything
 drastically different \citep[\emph{e.g.}][]{Foucart:2012}.
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%FIGURE BHNS TDs
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{wrapfigure}{R}{0.5\textwidth}
-%\begin{figure}
-\begin{center}
-\includegraphics[scale=0.33]{figures/ch0/BHNS_TDs} 
-\end{center}
-\caption{Approximate values of black hole mass and spin for which a companion neutron star would be disrupted outside of the black hole horizon. Each of the two regions are for the labeled neutron star masses spanning the range of theoretical limits and for a neutron star with radius of 10km.}
-\label{Fig:Contour}
-%\end{figure}
-\end{wrapfigure}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 Although the distribution of BH masses which will merge with
 a NS is unknown, it is interesting to note that the BH mass distribution
@@ -978,7 +996,25 @@ systems.
 
 A possible pathway for bright EM emission by non-disrupting BHNS mergers is
 through the electromegnatic interaction of the NS magnetosphere and the BH
-event horizon. To introduce this mechanism, I want to first introduce a
+event horizon. 
+
+Paragraph about all the diff astro mechanisms for UIs.
+% The NSBH system behaves analogously to a unipolar inductor, which has been investigated in application 
+% to a number of other astrophysical systems, \textit{e.g.} Jupiter and 
+% its moon Io \citep{GLB:1969}, planets around white dwarfs \citep{Li:1998} and main sequence stars \citep{LaineLinI:2012,LaineLinII:2012}, 
+% binary neutron stars \citep{Vietri:1996,Piro:2012, DLai:2012, Palenzuela:2013}, 
+% compact white dwarf binaries \citep{Wu:2002, Dall'Osso:2006, Dall'Osso:2007, 
+% DLai:2012}, BHs boosted through magnetic fields 
+% \citep{Lyut:2011, Penna:2015}, and the Blandford-Znajek (BZ) mechanism \citep{BZ:1977} for a single BH spinning in a magnetic field  \citep[for recent numerical work on the BZ mechanism see \textit{e.g.}][]{PalenzuelaBZ:2011, Kiuchi:2015}. The calculation for NSBH systems, 
+% already presented in Ref.\ \cite{McL:2011}
+% and confirmed in the detailed relativistic analysis of
+% Ref.\ \cite{DorazioLevin:2013}, as well as the numerical calculations
+% of Ref.\ \cite{Paschalidis:2013}, gives the scaling of power available
+% for conversion into electromagnetic luminosity. In the next section we
+% will consider the implications of throwing this power into luminous
+% elements in the BHNS circuit.
+
+To introduce this mechanism, I want to first introduce a
 similar, though subtle example of the Faraday-Disk. The Faraday disk is a type
 of unipolar inductor constructed by placing a conducting rod through the
 center of a conducting disk, and running a wire from the top of the rod to the
@@ -995,12 +1031,12 @@ glance, it seems that the emf should be zero, as the obvious loop (loop $a$ in
 Figure \ref{Fig:FDschem}) connecting wire to disk to rod has zero magnetic
 flux. However, Faraday disks do generate an emf, and this is easily verified
 by considering the Lorentz force on electrons. To see this from Faraday's law, recall two restrictions in our
-choice of the open surface of integration $\Sigma(t)$ 
-\begin{enumerate} 
-\item $\Sigma(t)$ must be bounded by the closed loop through which the emf is
-computed. 
-\item $\Sigma(t)$ must capture the relative motion of the circuit.
-\end{enumerate}
+choice of the open surface of integration $\Sigma(t)$: 1) $\Sigma(t)$ must be bounded by the closed loop through which the emf is computed, and 2) $\Sigma(t)$ must capture the relative motion of the circuit.
+%\begin{enumerate} 
+%\item $\Sigma(t)$ must be bounded by the closed loop through which the emf is
+%computed. 
+%\item $\Sigma(t)$ must capture the relative motion of the circuit.
+%\end{enumerate}
 The key is in the second point: the part of the circuit that starts in the
 disk must move along with the spinning disk, otherwise you implicitly assume
 that the sliding contact and the disk are not in relative motion - but they
@@ -1010,7 +1046,7 @@ are by construction.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%FIGURE Faraday Disk
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{wrapfigure}{R}{0.5\textwidth}
+\begin{wrapfigure}{R}{0.4\textwidth}
 %\begin{figure}
 \begin{center}
 \includegraphics[scale=0.33]{figures/ch0/UI_schematic} 
@@ -1070,48 +1106,79 @@ Chapter 7 of this thesis \cite{D'OrazioLevin:2013}, which finds relativistic
 solutions for the dynamics of a magnetic dipole, in arbitrary motion outside
 of a horizon. 
 
-Numerical works have recently tackled this problem in general relativistic, force-
-free simulations, which solve the Einstein-Maxwell equations in the limit that
-$\Evec \dot \Bvec$ is everywhere zero, and hence there are no accelerating
-forces on electrons \citep{ShapiroNSBH:2013}. Full lresisitive, genereal relativistic, MHD simulatiosn have also been carried out for merging NSNS binaries, where a similar unipolar inductor mechansim is at play \citep{}. These simulations estimate the observable luminosity via a Poynting flux measured at the outer edge of the simulation domain. The simulation estimates match the analytic arguments of \cite{McWilliamsLevin:2011} and \cite{D'OrazioLevin:2013}. However, a true understanding of the emission from NSBH systems requires 
+Numerical works have recently tackled this problem in general relativistic,
+force-free simulations, which solve the Einstein-Maxwell equations in the
+limit that $\Evec \dot \Bvec$ is everywhere zero, and hence there are no
+accelerating forces on electrons \citep{ShapiroNSBH:2013}. Both types of
+simulations estimate the observable luminosity via a Poynting flux measured at
+the outer edge of the simulation domain. The simulation estimates match the
+analytic arguments of \cite{McWilliamsLevin:2011} and
+\cite{D'OrazioLevin:2013}. However, a true understanding of the emission from
+NSBH systems requires more than this; it requires a radiation maechanism, somethign to stick into the BH-batterey circuit that will shine.
 
-These works have understood the energetics and mechanisms for generating electric potential in the inspiralling NSBH system, however they do not fully adress the how this potential energy is relased as obserable EM radiation. 
+The emission of EM radiation ultimately must come from dissipation of the BH-
+battery power in the joint BHNS magnetosphere. The classic paper by
+\cite{GJ69} shows that if a spinning NS, immersed in its own magnetic dipole
+field, generates an electric field with components perpendicular to the
+magnetic field, then electrons will be ripped from the NS crust. The
+acclerating electrons emit curvature radiaiton which interacts with the
+electromagnetic field to generate pair electron-positrons pairs which go on to
+genreate more curvature radiation and a pari cascade ensues. The pairs move to
+screen accelerating electric field (components of $\Evec$ parallel to
+$\Bvec$), until a force-free condition is met, and the NS is surrounded by the
+magnetosphere of \citep{GJ69}. Such a situation halts dissipation of the BH-battery power. 
+
+However, this does not stop pulsars from shining.  As \citep{RS72} pointed out, the force free condition cannot always be sustained globally in the NS magnetosphere, for example, (). In these gaps, particles are still acceleratd and dissipation allows the release of EM radiation.
+
+We assume that a similar situation is at play in the NSBH example. There need only be gaps in the forece free magnetosphere, or magnetic reconnetion (though I am not sure how this would occurr) to release the BH battery power. In Chapter 8, we envision such a mechansim, which results in a fireball soon after merger emitting in the hard x-rays and soft $\gamma$-rays. Recently a similar fate has been envisioned for the anlogous NS-NS system \citep{MetzgerNSNS:2016}. I am hopeful that both of these models will soon be tested by GW observations of coalescing NSBH and NSSN binaries. Stay Tuned.
 
 
 
-This analytic work has been tested by numerical simulations of the 
-
-Numerical simulations:
-Shapiro, Palenzuela for NS-NS
-
-other theory:
-Lai
-Piro
+%Palenzuela:2013
 
 
-not jsut BHs, but planets WDs, any situtation wher a conducting surface moves through an astrophyiscal magnetic field.
+% These works have understood the energetics and mechanisms for generating
+% electric potential in the inspiralling NSBH system, however they do not fully
+% adress how this potential energy is relased as observable EM radiation.
 
 
 
 
-previous work on this...
+% This analytic work has been tested by numerical simulations of the 
+
+% Numerical simulations:
+% Shapiro, Palenzuela for NS-NS: Full resisitive,
+% general relativistic, MHD simulatiosn have also been carried out for merging
+% NSNS binaries, where a similar unipolar inductor mechansim is at play
+% \citep{Palenzuela..}.
+% other theory:
+% Lai
+% Piro
 
 
-%magnetosphere phsyics
-While the BH batterey provides a power source, the mechanisms by which this power is dissipted is crucial for predicting observational consequences. 
+% not jsut BHs, but planets WDs, any situtation wher a conducting surface moves through an astrophyiscal magnetic field.
 
-Dissipation in NS magnetospheres:
-GJ69, RS72, and Force Free?\\
-How does disipation ensue? - Reconnection, Gaps?
 
-Conclusions:
-%Problems to surrmount?
-How do we form close NSBHs?
-what are the NS field strengths at merger?\\
 
-%LIGO relation
-Review of Pop Synth for NSBH LIGO?\\
-prospects in the LIGO era
+
+% previous work on this...
+
+
+% %magnetosphere phsyics
+% While the BH batterey provides a power source, the mechanisms by which this power is dissipted is crucial for predicting observational consequences. 
+
+% Dissipation in NS magnetospheres:
+% GJ69, RS72, and Force Free?\\
+% How does disipation ensue? - Reconnection, Gaps?
+
+% Conclusions:
+% %Problems to surrmount?
+% How do we form close NSBHs?
+% what are the NS field strengths at merger?\\
+
+% %LIGO relation
+% Review of Pop Synth for NSBH LIGO?\\
+% prospects in the LIGO era
 
 
 
