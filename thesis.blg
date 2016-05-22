@@ -2,153 +2,13 @@ This is BibTeX, Version 0.99d (TeX Live 2014)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: thesis.aux
 The style file: apj.bst
-Reallocated field_info (elt_size=4) to 15712 items from 5000.
+Reallocated field_info (elt_size=4) to 14802 items from 5000.
 Database file #1: refs/refs.bib
-Repeated entry---line 5263 of file refs/refs.bib
- : @article{PG1302MNRAS:2015a
- :                           ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 5274 of file refs/refs.bib
- : @article{PG1302Nature:2015b
- :                            ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 5307 of file refs/refs.bib
- : @article{ShiKrolik:2015
- :                        ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 5343 of file refs/refs.bib
- : @article{Dunhill:2015
- :                      ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 5424 of file refs/refs.bib
- : @article{DuffellFTV:2014
- :                         ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 5501 of file refs/refs.bib
- : @article{Farris:2014
- :                     ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 5512 of file refs/refs.bib
- : @article{delValleEscala:II:2014
- :                                ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 5534 of file refs/refs.bib
- : @article{DHM:2013:MNRAS
- :                        ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 5546 of file refs/refs.bib
- : @article{Mayer:2013:MBHBGasRev
- :                               ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 5669 of file refs/refs.bib
- : @article{delValleEscala:I:2012
- :                               ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 5680 of file refs/refs.bib
- : @article{FarrisGold:2012
- :                         ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 5691 of file refs/refs.bib
- : @article{Roedig:2012:Trqs
- :                          ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 5701 of file refs/refs.bib
- : @article{Noble+2012
- :                    ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 5745 of file refs/refs.bib
- : @article{ShiKrolik:2012:ApJ
- :                            ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 5767 of file refs/refs.bib
- : @article{Sesana+2012
- :                     ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 5778 of file refs/refs.bib
- : @article{Dotti:2012:rev
- :                        ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 5835 of file refs/refs.bib
- : @article{Roedig:2011:eccevo
- :                            ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 5857 of file refs/refs.bib
- : @article{FarrisShap:2011
- :                         ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 5868 of file refs/refs.bib
- : @article{Nixon:2011:LongSim
- :                            ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 6044 of file refs/refs.bib
- : @article{Shapiro:2010
- :                      ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 6066 of file refs/refs.bib
- : @article{Lodato:2009
- :                     ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 6091 of file refs/refs.bib
- : @article{Cuadra:2009
- :                     ,
-I'm skipping whatever remains of this entry
 Warning--string name "n/a" is undefined
---line 6153 of file refs/refs.bib
-Repeated entry---line 6156 of file refs/refs.bib
- : @article{Haiman+2009
- :                     ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 6228 of file refs/refs.bib
- : @article{MacFadyen:2008
- :                        ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 6282 of file refs/refs.bib
- : @article{Hayasaki:2007
- :                       ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 6349 of file refs/refs.bib
- : @article{ArmNat:2005
- :                     ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 6461 of file refs/refs.bib
- : @article{ArmNat:2002:ApJL
- :                          ,
-I'm skipping whatever remains of this entry
-Warning--string name "n/a" is undefined
---line 6481 of file refs/refs.bib
-Repeated entry---line 6484 of file refs/refs.bib
- : @article{GouldRix:2000
- :                       ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 6547 of file refs/refs.bib
- : @article{ArtyLubow:1996
- :                        ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 6579 of file refs/refs.bib
- : @article{SyerClarke95
- :                      ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 6632 of file refs/refs.bib
- : @article{Artymowicz:1994
- :                         ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 6814 of file refs/refs.bib
- : @article{Begel:Blan:Rees:1980
- :                              ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 6858 of file refs/refs.bib
- : @article{HKM09
- :               ,
-I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "Farris+2014"
-Warning--I didn't find a database entry for "Graham+2015"
-Warning--I didn't find a database entry for "Dorazio+2013"
-Warning--I didn't find a database entry for "Bloom:2009"
+--line 6110 of file refs/refs.bib
+Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Warning--I didn't find a database entry for "BHkicks_aftermerger"
 Warning--I didn't find a database entry for "Fabbiano+2011"
-Warning--I didn't find a database entry for "ColpiDotti:2009"
-Warning--I didn't find a database entry for "Woo:2014"
-Warning--I didn't find a database entry for "MerrittMilos:2005"
 Warning--I didn't find a database entry for "Mayer:2007"
 Warning--I didn't find a database entry for "Chapon:2013"
 Warning--I didn't find a database entry for "Callegari:2011"
@@ -159,7 +19,6 @@ Warning--I didn't find a database entry for "massivpertFPPsolns"
 Warning--I didn't find a database entry for "GoldRix:2000"
 Warning--I didn't find a database entry for "BarnesHernquist:1996"
 Warning--I didn't find a database entry for "Barnes:2002"
-Warning--I didn't find a database entry for "RoedigSesana:2012"
 Warning--I didn't find a database entry for "Sesana:2016"
 Warning--I didn't find a database entry for "SesanaKocsis:"
 Warning--I didn't find a database entry for "Shannon:2015"
@@ -174,7 +33,6 @@ Warning--I didn't find a database entry for "MeyerVernetSicardy:1987"
 Warning--I didn't find a database entry for "Tanaka:2002"
 Warning--I didn't find a database entry for "Ward:1988"
 Warning--I didn't find a database entry for "GoldriechSari:2003"
-Warning--I didn't find a database entry for "RafikovDong:2012"
 Warning--I didn't find a database entry for "LinPapa"
 Warning--I didn't find a database entry for "chapter3"
 Warning--I didn't find a database entry for "LinPapa:1986b"
@@ -182,148 +40,63 @@ Warning--I didn't find a database entry for "KleyNelson:2013"
 Warning--I didn't find a database entry for "othertypeIIrefs"
 Warning--I didn't find a database entry for "SyerClarke:95"
 Warning--I didn't find a database entry for "other1Darguments"
-Warning--I didn't find a database entry for "ArtyLubow:1994"
-Warning--I didn't find a database entry for "Duffell:FTV"
-Warning--I didn't find a database entry for "DuffelFTV"
-Warning--I didn't find a database entry for "DurmannKley:2012"
-Warning--I didn't find a database entry for "SyerClarke:1995"
 Warning--I didn't find a database entry for "Haysaki:2007"
-Warning--I didn't find a database entry for "ShiKrolik:2012"
 Warning--I didn't find a database entry for "Roedig:2011:trqs"
 Warning--I didn't find a database entry for "Roedig2012:eccevo"
-Warning--I didn't find a database entry for "ShiKrolik:2008"
-Warning--I didn't find a database entry for "Farris"
-Warning--I didn't find a database entry for "DuffellMacFadyenDISCO:2013"
-Warning--I didn't find a database entry for "DuffellMHDDISCO:2016"
-Warning--I didn't find a database entry for "Dunhill:2012"
 Warning--I didn't find a database entry for "Nixon+2011"
 Warning--I didn't find a database entry for "ReodigSesana:2014"
 Warning--I didn't find a database entry for "Nixon+2012"
 Warning--I didn't find a database entry for "Hayasaki+2013"
 Warning--I didn't find a database entry for "Nixon+2013"
-Warning--I didn't find a database entry for "DoganNixonKingPrice:2015"
-Warning--I didn't find a database entry for "Farris:2010"
-Warning--I didn't find a database entry for "Farris:2011"
-Warning--I didn't find a database entry for "Farris:2012"
-Warning--I didn't find a database entry for "Gold:2014a"
-Warning--I didn't find a database entry for "Gold:2014b"
-Warning--I didn't find a database entry for "CRTSrefs"
-Warning--I didn't find a database entry for "Graham:2015b"
-Warning--I didn't find a database entry for "CharisiMBHBs:2016"
 Warning--I didn't find a database entry for "PTF"
-Warning--I didn't find a database entry for "Orzel:2008"
-Warning--I didn't find a database entry for "eLISA:Amaro-Seoane:2012"
-Warning--I didn't find a database entry for "Roedig:2012"
-Warning--I didn't find a database entry for "DM2012"
-Warning--I didn't find a database entry for "Rafikov2012"
-Warning--I didn't find a database entry for "RoedigDotti:2011"
-Warning--I didn't find a database entry for "Graham:2015"
-Warning--I didn't find a database entry for "Hayasaki+2015"
-Warning--I didn't find a database entry for "TM10"
-Warning--I didn't find a database entry for "LehtoValtonen1996"
-Warning--I didn't find a database entry for "Valtonen+2008"
-Warning--I didn't find a database entry for "PMartini:2004"
-Warning--I didn't find a database entry for "Hopkins2007a"
-Warning--I didn't find a database entry for "CRTS1:Drake:2009"
-Warning--I didn't find a database entry for "CRTS4:Djorgovski:2011"
-Warning--I didn't find a database entry for "CRTS3:2011Mahabal"
-Warning--I didn't find a database entry for "KH2000"
-Warning--I didn't find a database entry for "iPTA"
-Warning--I didn't find a database entry for "NANOGrav2014:SC"
-Warning--I didn't find a database entry for "PPTA:2014:SC"
-Warning--I didn't find a database entry for "IPTA:2013:OP"
-Warning--I didn't find a database entry for "SKA:2009:OP"
-Warning--I didn't find a database entry for "Jackson:1992:PGHbeta"
-Warning--I didn't find a database entry for "WangHo:2003"
-Warning--I didn't find a database entry for "DHS+2015"
-Warning--I didn't find a database entry for "Charisi:2015:PG1302"
-Warning--I didn't find a database entry for "AstroH:2014"
-Warning--I didn't find a database entry for "VanderPlasIvezic2015"
-Warning--I didn't find a database entry for "Hayasaki+2008"
-Warning--I didn't find a database entry for "ShiKrolik2012"
-Warning--I didn't find a database entry for "Roedig+2012"
-Warning--I didn't find a database entry for "Dunhill+2015"
-Warning--I didn't find a database entry for "ShiKrolik2015"
-Warning--I didn't find a database entry for "LoebGaudi2003"
-Warning--I didn't find a database entry for "Kerkwijk+2010"
-Warning--I didn't find a database entry for "MH2010"
-Warning--I didn't find a database entry for "Shporer+2010"
-Warning--I didn't find a database entry for "Djorgovski+2010"
-Warning--I didn't find a database entry for "PG1302-Dan"
-Warning--I didn't find a database entry for "WrightGaudi2012"
-Warning--I didn't find a database entry for "Kelly:2009:DRW"
-Warning--I didn't find a database entry for "MM2008"
-Warning--I didn't find a database entry for "PG1302-Maria"
-Warning--I didn't find a database entry for "RichardsQBCs:2006"
-Warning--I didn't find a database entry for "YuTremaine2002"
-Warning--I didn't find a database entry for "Jiang+2014"
-Warning--I didn't find a database entry for "NarayanMcClintock2008"
-Warning--I didn't find a database entry for "Mahadevan:1997"
-Warning--I didn't find a database entry for "NMQ:ADAF:1998"
-Warning--I didn't find a database entry for "Hutchings+2014"
-Warning--I didn't find a database entry for "WangHoStaubert2003"
-Warning--I didn't find a database entry for "TanakaMenou:2010"
-Warning--I didn't find a database entry for "AL94"
-Warning--I didn't find a database entry for "Kozlowski+2010"
-Warning--I didn't find a database entry for "Andrae+2013"
-Warning--I didn't find a database entry for "DFM:2013"
-Warning--I didn't find a database entry for "KassRaftery1995"
-Warning--I didn't find a database entry for "DLai2014"
-Warning--I didn't find a database entry for "Roedig+Krolik+Miller2014"
-Warning--I didn't find a database entry for "EvansKoratkar2004"
-Warning--I didn't find a database entry for "Cooksey+2008"
-Warning--I didn't find a database entry for "Lyut:2012"
-Warning--I didn't find a database entry for "AdLIGO:2012"
-Warning--I didn't find a database entry for "mayavi"
 Warning--to sort, need author or key in LIGOIndia
 Warning--to sort, need author or key in FERMIGBM:2009
 Warning--to sort, need author or key in FERMIGBM:2015
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Warning--empty author in LIGOIndia
-Warning--empty year in LIGOIndia; set to ????
 Warning--empty journal in LIGOIndia
 Warning--empty journal in AndradeSantos:2016
 Warning--empty publisher in MD:SSD
 Warning--empty publisher in WaldGR:1984
-You've used 277 entries,
+You've used 335 entries,
             3085 wiz_defined-function locations,
-            2825 strings with 61896 characters,
-and the built_in function-call counts, 126972 in all, are:
-= -- 11074
-> -- 8042
-< -- 138
-+ -- 2709
-- -- 2867
-* -- 10299
-:= -- 23440
-add.period$ -- 277
-call.type$ -- 277
-change.case$ -- 1826
-chr.to.int$ -- 265
-cite$ -- 292
-duplicate$ -- 5235
-empty$ -- 8086
-format.name$ -- 3314
-if$ -- 25635
-int.to.chr$ -- 16
+            3006 strings with 71420 characters,
+and the built_in function-call counts, 154567 in all, are:
+= -- 13469
+> -- 9892
+< -- 170
++ -- 3329
+- -- 3524
+* -- 12543
+:= -- 28564
+add.period$ -- 335
+call.type$ -- 335
+change.case$ -- 2215
+chr.to.int$ -- 320
+cite$ -- 349
+duplicate$ -- 6360
+empty$ -- 9789
+format.name$ -- 4084
+if$ -- 31204
+int.to.chr$ -- 19
 int.to.str$ -- 0
-missing$ -- 269
-newline$ -- 835
-num.names$ -- 1098
-pop$ -- 1941
+missing$ -- 323
+newline$ -- 1009
+num.names$ -- 1333
+pop$ -- 2363
 preamble$ -- 1
-purify$ -- 1824
+purify$ -- 2213
 quote$ -- 0
-skip$ -- 4587
+skip$ -- 5559
 stack$ -- 0
-substring$ -- 6230
-swap$ -- 86
+substring$ -- 7513
+swap$ -- 116
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 2472
-warning$ -- 9
-while$ -- 1066
+type$ -- 2994
+warning$ -- 8
+while$ -- 1293
 width$ -- 0
-write$ -- 2761
-(There were 33 error messages)
+write$ -- 3340
+(There were 51 warnings)
