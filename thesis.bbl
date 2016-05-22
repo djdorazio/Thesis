@@ -143,6 +143,10 @@ Bloom, J.~S., Holz, D.~E., Hughes, S.~A., {et~al.} 2009, arXiv.org,
 Burke-Spolaor, S. 2011, Monthly Notices of the Royal Astronomical Society, 410,
   2113
 
+\bibitem[{{Callegari} {et~al.}(2011){Callegari}, {Kazantzidis}, {Mayer},
+  {Colpi}, {Bellovary}, {Quinn}, \& {Wadsley}}]{Callegari:2011}
+{Callegari}, S., {Kazantzidis}, S., {Mayer}, L., {et~al.} 2011, \apj, 729, 85
+
 \bibitem[{{Callegari} {et~al.}(2009){Callegari}, {Mayer}, {Kazantzidis},
   {Colpi}, {Governato}, {Quinn}, \& {Wadsley}}]{Callegari+:2009}
 {Callegari}, S., {Mayer}, L., {Kazantzidis}, S., {et~al.} 2009, \apjl, 696, L89
@@ -168,7 +172,7 @@ Chandrasekhar, S. 1943, Astrophysical Journal, 97, 255
 ---. 2010{\natexlab{b}}, \mnras, 407, 2007
 
 \bibitem[{{Chapon} {et~al.}(2013){Chapon}, {Mayer}, \&
-  {Teyssier}}]{Chapon+2011}
+  {Teyssier}}]{Chapon+2013}
 {Chapon}, D., {Mayer}, L., \& {Teyssier}, R. 2013, \mnras, 429, 3114
 
 \bibitem[{{Charisi} {et~al.}(2016){Charisi}, {Bartos}, {Haiman},
@@ -363,6 +367,11 @@ Dotti, M., Colpi, M., Haardt, F., \& Mayer, L. 2007, \mnras, 379, 956
 \bibitem[{{Duffell} \& {MacFadyen}(2013)}]{DuffellMac:2013:smallqGapOpen}
 ---. 2013, \apj, 769, 41
 
+\bibitem[{Dunhill {et~al.}(2014)Dunhill, Alexander, Nixon, \&
+  King}]{DunhillNixon:2014}
+Dunhill, A.~C., Alexander, R.~D., Nixon, C.~J., \& King, A.~R. 2014, Monthly
+  Notices of the Royal Astronomical Society, 445, 2285
+
 \bibitem[{{Dunhill} {et~al.}(2015){Dunhill}, {Cuadra}, \&
   {Dougados}}]{Dunhill+2015}
 {Dunhill}, A.~C., {Cuadra}, J., \& {Dougados}, C. 2015, \mnras, 448, 3545
@@ -417,6 +426,10 @@ Escala, A., Larson, R.~B., Coppi, P.~S., \& Mardones, D. 2005, \apj, 630, 152
 
 \bibitem[{{Evans} \& {Koratkar}(2004)}]{EvansKoratkar2004}
 {Evans}, I.~N., \& {Koratkar}, A.~P. 2004, \apjs, 150, 73
+
+\bibitem[{Fabbiano {et~al.}(2011)Fabbiano, Wang, Elvis, \&
+  Risaliti}]{Fabbiano:2011}
+Fabbiano, G., Wang, J., Elvis, M., \& Risaliti, G. 2011, Nature, 477, 431
 
 \bibitem[{{Faber} {et~al.}(2006){Faber}, {Baumgarte}, {Shapiro}, \&
   {Taniguchi}}]{FaberBaumgarte:2006}
@@ -502,11 +515,17 @@ Gold, R., Paschalidis, V., Ruiz, M., {et~al.} 2014{\natexlab{b}}, Physical
 \bibitem[{{Goldreich} \& {Lynden-Bell}(1969)}]{GLB:1969}
 {Goldreich}, P., \& {Lynden-Bell}, D. 1969, \apj, 156, 59
 
+\bibitem[{{Goldreich} \& {Sari}(2003)}]{GoldreichSari:2003}
+{Goldreich}, P., \& {Sari}, R. 2003, \apj, 585, 1024
+
 \bibitem[{Goldreich \& Tremaine(1979)}]{GT79}
 Goldreich, P., \& Tremaine, S. 1979, \apj, 233, 857
 
 \bibitem[{Goldreich \& Tremaine(1980)}]{GT80}
 ---. 1980, \apj, 241, 425
+
+\bibitem[{{Goldreich} \& {Tremaine}(1978)}]{GTSaturn78}
+{Goldreich}, P., \& {Tremaine}, S.~D. 1978, \icarus, 34, 240
 
 \bibitem[{{Goodman}(1986)}]{GoodmanGRB:1986}
 {Goodman}, J. 1986, \apjl, 308, L47
@@ -576,6 +595,11 @@ Hayasaki, K., Mineshige, S., \& Ho, L.~C. 2008, The Astrophysical Journal, 682,
 Hayasaki, K., Mineshige, S., \& Sudou, H. 2007, Publications of the
   Astronomical Society of Japan, 59, 427
 
+\bibitem[{Hayasaki {et~al.}(2013)Hayasaki, Saito, \&
+  Mineshige}]{Hayasaki:misalignSims:2013}
+Hayasaki, K., Saito, H., \& Mineshige, S. 2013, Publications of the
+  Astronomical Society of Japan, 65, 86
+
 \bibitem[{Hayasaki {et~al.}(2015)Hayasaki, Sohn, Okazaki, Jung, Zhao, \&
   Naito}]{Hayasaki:WarpTear:2015}
 Hayasaki, K., Sohn, B.~W., Okazaki, A.~T., {et~al.} 2015, Journal of Cosmology
@@ -631,15 +655,9 @@ Hughes, S.~A., \& Holz, D.~E. 2003, Classical and Quantum Gravity, 20, S65
 \bibitem[{{IceCube Collaboration}(2013)}]{ICECUBE:2013:detection}
 {IceCube Collaboration}. 2013, Science, 342, 1242856
 
-\bibitem[{Ivanov {et~al.}(1999{\natexlab{a}})Ivanov, Papaloizou, \&
-  Polnarev}]{Ivanov99}
-Ivanov, P.~B., Papaloizou, J. C.~B., \& Polnarev, A.~G. 1999{\natexlab{a}},
-  \mnras, 307, 79
-
-\bibitem[{Ivanov {et~al.}(1999{\natexlab{b}})Ivanov, Papaloizou, \&
-  Polnarev}]{Ivanov:1999}
----. 1999{\natexlab{b}}, Monthly Notices of the Royal Astronomical Society,
-  307, 79
+\bibitem[{Ivanov {et~al.}(1999)Ivanov, Papaloizou, \& Polnarev}]{Ivanov99}
+Ivanov, P.~B., Papaloizou, J. C.~B., \& Polnarev, A.~G. 1999, Monthly Notices
+  of the Royal Astronomical Society, 307, 79
 
 \bibitem[{Jackson(1991)}]{Jackson}
 Jackson, J.~D. 1991, Classical Electrodynamics, 3rd edn. (New Jersey, USA: John
@@ -703,6 +721,9 @@ Kocsis, B., Frei, Z., Haiman, Z., \& Menou, K. 2006, The Astrophysical Journal,
 
 \bibitem[{{Kocsis} {et~al.}(2008){Kocsis}, {Haiman}, \& {Menou}}]{Kocsis+2008}
 {Kocsis}, B., {Haiman}, Z., \& {Menou}, K. 2008, \apj, 684, 870
+
+\bibitem[{{Kocsis} \& {Sesana}(2011)}]{KocsisSesans:2011}
+{Kocsis}, B., \& {Sesana}, A. 2011, \mnras, 411, 1467
 
 \bibitem[{{Kocsis} {et~al.}(2011){Kocsis}, {Yunes}, \&
   {Loeb}}]{KocsisYunesLoeb:2011}
@@ -771,15 +792,27 @@ Landau, L.~D., \& Lifschitz, E.~M. 1959, Fluid Mechanics (Addison-Wesley)
 {LIGO Scientific Collaboration}, {Aasi}, J., {Abbott}, B.~P., {et~al.} 2015,
   Classical and Quantum Gravity, 32, 074001
 
+\bibitem[{{Lin} \& {Papaloizou}(1979{\natexlab{a}})}]{LinPapa79b}
+{Lin}, D.~N.~C., \& {Papaloizou}, J. 1979{\natexlab{a}}, \mnras, 188, 191
+
+\bibitem[{{Lin} \& {Papaloizou}(1979{\natexlab{b}})}]{LinPapa79a}
+---. 1979{\natexlab{b}}, \mnras, 186, 799
+
 \bibitem[{Lin \& Papaloizou(1986)}]{LinPapa86b}
 Lin, D. N.~C., \& Papaloizou, J. 1986, \apj, 307, 395
+
+\bibitem[{{Lin} \& {Papaloizou}(1986)}]{LinPapaIII:1986}
+{Lin}, D.~N.~C., \& {Papaloizou}, J. 1986, \apj, 309, 846
 
 \bibitem[{{Lin} \& {Papaloizou}(1993)}]{LinPapa:1993:ConfProcRev}
 {Lin}, D.~N.~C., \& {Papaloizou}, J.~C.~B. 1993, in Protostars and Planets III,
   ed. E.~H. {Levy} \& J.~I. {Lunine}, 749--835
 
+\bibitem[{{Lippai} {et~al.}(2008){Lippai}, {Frei}, \& {Haiman}}]{Lippai:2008}
+{Lippai}, Z., {Frei}, Z., \& {Haiman}, Z. 2008, \apjl, 676, L5
+
 \bibitem[{{Lippai} {et~al.}(2009){Lippai}, {Frei}, \& {Haiman}}]{Lippai+2009}
-{Lippai}, Z., {Frei}, Z., \& {Haiman}, Z. 2009, \apj, 701, 360
+---. 2009, \apj, 701, 360
 
 \bibitem[{{Lithwick} \& {Sari}(2001)}]{LithSari:2001}
 {Lithwick}, Y., \& {Sari}, R. 2001, \apj, 555, 540
@@ -814,6 +847,9 @@ Lin, D. N.~C., \& Papaloizou, J. 1986, \apj, 307, 395
 
 \bibitem[{{Lynden-Bell}(1969)}]{LyndenBell:1969}
 {Lynden-Bell}, D. 1969, \nat, 223, 690
+
+\bibitem[{{Lynden-Bell} \& {Kalnajs}(1972)}]{LyndenBellKalnajs:1972}
+{Lynden-Bell}, D., \& {Kalnajs}, A.~J. 1972, \mnras, 157, 1
 
 \bibitem[{{Lyutikov}(2011{\natexlab{a}})}]{Lyut:2012}
 {Lyutikov}, M. 2011{\natexlab{a}}, \prd, 83, 064001
@@ -882,6 +918,13 @@ Merritt, D., \& Milosavljevi{\'c}, M. 2005, Living Reviews in Relativity, 8
 \bibitem[{{Metzger} \& {Zivancev}(2016)}]{MetzgerNSNS:2016}
 {Metzger}, B.~D., \& {Zivancev}, C. 2016, ArXiv e-prints, arXiv:1605.01060
 
+\bibitem[{Meyer-Vernet \& Sicardy(1987)}]{MVSic87}
+Meyer-Vernet, N., \& Sicardy, B. 1987, \icarus, 69, 157
+
+\bibitem[{Milosavljevi{\'c} \& Merritt(2003)}]{Milosavljevic:2003:FPcP}
+Milosavljevi{\'c}, M., \& Merritt, D. 2003, THE ASTROPHYSICS OF GRAVITATIONAL
+  WAVE SOURCES. AIP Conference Proceedings, 686, 201
+
 \bibitem[{Milosavljevi{\'c} \& Phinney(2005)}]{Milos:Phinney:2005}
 Milosavljevi{\'c}, M., \& Phinney, E.~S. 2005, \apj, 622, L93
 
@@ -930,14 +973,26 @@ Nishizawa, A., Taruya, A., \& Saito, S. 2011, Physical Review D, 83, 084045
 Nissanke, S., Holz, D.~E., Hughes, S.~A., Dalal, N., \& Sievers, J.~L. 2010,
   The Astrophysical Journal, 725, 496
 
-\bibitem[{Nixon {et~al.}(2011)Nixon, Cossins, King, \&
-  Pringle}]{Nixon:2011:LongSim}
-Nixon, C.~J., Cossins, P.~J., King, A.~R., \& Pringle, J.~E. 2011, \mnras, 412,
-  1591
+\bibitem[{{Nixon} {et~al.}(2013){Nixon}, {King}, \&
+  {Price}}]{NixonKing:Tear:2013}
+{Nixon}, C., {King}, A., \& {Price}, D. 2013, \mnras, 434, 1946
 
-\bibitem[{{Nixon} {et~al.}(2011){Nixon}, {King}, \&
-  {Pringle}}]{Nixon:2011:Lett}
-{Nixon}, C.~J., {King}, A.~R., \& {Pringle}, J.~E. 2011, \mnras, 417, L66
+\bibitem[{Nixon \& Lubow(2015)}]{NixonLubow:RetroRes:2015}
+Nixon, C., \& Lubow, S.~H. 2015, Monthly Notices of the Royal Astronomical
+  Society, 448, 3472
+
+\bibitem[{Nixon(2012)}]{Nixon:CntrAlign:2012}
+Nixon, C.~J. 2012, Monthly Notices of the Royal Astronomical Society, 423, 2597
+
+\bibitem[{Nixon {et~al.}(2011{\natexlab{a}})Nixon, Cossins, King, \&
+  Pringle}]{Nixon:2011:LongSim}
+Nixon, C.~J., Cossins, P.~J., King, A.~R., \& Pringle, J.~E.
+  2011{\natexlab{a}}, \mnras, 412, 1591
+
+\bibitem[{Nixon {et~al.}(2011{\natexlab{b}})Nixon, King, \&
+  Pringle}]{NixonKingPringle:2011}
+Nixon, C.~J., King, A.~R., \& Pringle, J.~E. 2011{\natexlab{b}}, Monthly
+  Notices of the Royal Astronomical Society: Letters, 417, L66
 
 \bibitem[{{Noble} {et~al.}(2012)}]{Noble+2012}
 {Noble}, S.~C., {et~al.} 2012, \apj, 755, 51
@@ -974,6 +1029,9 @@ Nixon, C.~J., Cossins, P.~J., King, A.~R., \& Pringle, J.~E. 2011, \mnras, 412,
   {Liebling}, {Anderson}, {Neilsen}, \& {Motl}}]{Palenzuela:2013}
 {Palenzuela}, C., {Lehner}, L., {Ponce}, M., {et~al.} 2013, Physical Review
   Letters, 111, 061105
+
+\bibitem[{{Papaloizou} \& {Lin}(1984)}]{LinPapaI:1984}
+{Papaloizou}, J., \& {Lin}, D.~N.~C. 1984, \apj, 285, 818
 
 \bibitem[{{Papaloizou} \& {Pringle}(1977)}]{PapaPringle:1977}
 {Papaloizou}, J., \& {Pringle}, J.~E. 1977, \mnras, 181, 441
@@ -1090,9 +1148,12 @@ Rodriguez, C., Taylor, G.~B., Zavala, R.~T., {et~al.} 2006, The Astrophysical
   {Miller}}]{Roedig+Krolik+Miller2014}
 {Roedig}, C., {Krolik}, J.~H., \& {Miller}, M.~C. 2014, \apj, 785, 115
 
-\bibitem[{Roedig \& Sesana(2012)}]{RoedigSesana:2012}
-Roedig, C., \& Sesana, A. 2012, Journal of Physics: Conference Series, 363,
+\bibitem[{{Roedig} \& {Sesana}(2012)}]{RoedigSesana:2012:eccGWs}
+{Roedig}, C., \& {Sesana}, A. 2012, Journal of Physics Conference Series, 363,
   012035
+
+\bibitem[{{Roedig} \& {Sesana}(2014)}]{RoedigSGmigrate:2014}
+---. 2014, \mnras, 439, 3476
 
 \bibitem[{{Roedig} {et~al.}(2012){Roedig}, {Sesana}, {Dotti}, {Cuadra},
   {Amaro-Seoane}, \& {Haardt}}]{Roedig:2012:Trqs}
@@ -1143,8 +1204,20 @@ Sesana, A. 2016, arXiv.org, arXiv:1602.06951
 {Sesana}, A., {Roedig}, C., {Reynolds}, M.~T., \& {Dotti}, M. 2012, \mnras,
   420, 860
 
+\bibitem[{{Sesana} {et~al.}(2016){Sesana}, {Shankar}, {Bernardi}, \&
+  {Sheth}}]{Sesana+2016:GWB}
+{Sesana}, A., {Shankar}, F., {Bernardi}, M., \& {Sheth}, R.~K. 2016, ArXiv
+  e-prints, arXiv:1603.09348
+
 \bibitem[{{Shakura} \& {Sunyaev}(1973)}]{SS73}
 {Shakura}, N.~I., \& {Sunyaev}, R.~A. 1973, \aap, 24, 337
+
+\bibitem[{{Shannon} {et~al.}(2015){Shannon}, {Ravi}, {Lentati}, {Lasky},
+  {Hobbs}, {Kerr}, {Manchester}, {Coles}, {Levin}, {Bailes}, {Bhat},
+  {Burke-Spolaor}, {Dai}, {Keith}, {Os{\l}owski}, {Reardon}, {van Straten},
+  {Toomey}, {Wang}, {Wen}, {Wyithe}, \& {Zhu}}]{Shannon:2015}
+{Shannon}, R.~M., {Ravi}, V., {Lentati}, L.~T., {et~al.} 2015, Science, 349,
+  1522
 
 \bibitem[{Shapiro(2010)}]{Shapiro:2010}
 Shapiro, S.~L. 2010, \prd, 81, 24019
@@ -1199,10 +1272,17 @@ Syer, D., \& Clarke, C.~J. 1995, \mnras, 277, 758
   {Klein}, \& {Petiteau}}]{Tamanini:2016}
 {Tamanini}, N., {Caprini}, C., {Barausse}, E., {et~al.} 2016, \jcap, 4, 002
 
+\bibitem[{{Tanaka} {et~al.}(2002){Tanaka}, {Takeuchi}, \&
+  {Ward}}]{TanakaI:2002}
+{Tanaka}, H., {Takeuchi}, T., \& {Ward}, W.~R. 2002, \apj, 565, 1257
+
+\bibitem[{{Tanaka} \& {Ward}(2004)}]{TanakaII:2004}
+{Tanaka}, H., \& {Ward}, W.~R. 2004, \apj, 602, 388
+
 \bibitem[{{Tanaka} \& {Menou}(2010)}]{TanakaMenou:2010}
 {Tanaka}, T., \& {Menou}, K. 2010, \apj, 714, 404
 
-\bibitem[{{Tanaka} {et~al.}(2012){Tanaka}, {Menou}, \& {Haiman}}]{Tanaka:2012}
+\bibitem[{{Tanaka} {et~al.}(2012){Tanaka}, {Menou}, \& {Haiman}}]{TMH:2012}
 {Tanaka}, T., {Menou}, K., \& {Haiman}, Z. 2012, \mnras, 420, 705
 
 \bibitem[{{Tanvir} {et~al.}(2005){Tanvir}, {Chapman}, {Levan}, \&
@@ -1281,8 +1361,14 @@ Taylor, S.~R., \& Gair, J.~R. 2012, Physical Review D, 86, 023502
   {Staubert}}]{WangHoStaubert2003}
 ---. 2003{\natexlab{b}}, \aap, 409, 887
 
+\bibitem[{{Ward}(1986)}]{Ward:1986}
+{Ward}, W.~R. 1986, \icarus, 67, 164
+
+\bibitem[{{Ward}(1988)}]{Ward:1988}
+---. 1988, \icarus, 73, 330
+
 \bibitem[{{Ward}(1997)}]{Ward:1997}
-{Ward}, W.~R. 1997, \icarus, 126, 261
+---. 1997, \icarus, 126, 261
 
 \bibitem[{Woo {et~al.}(2014)Woo, Cho, Husemann, Komossa, Park, \&
   Bennert}]{Woo:subKpcBin:2014}

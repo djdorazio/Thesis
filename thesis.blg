@@ -2,52 +2,17 @@ This is BibTeX, Version 0.99d (TeX Live 2014)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: thesis.aux
 The style file: apj.bst
-Reallocated field_info (elt_size=4) to 14802 items from 5000.
+Reallocated field_info (elt_size=4) to 14516 items from 5000.
 Database file #1: refs/refs.bib
 Warning--string name "n/a" is undefined
---line 6110 of file refs/refs.bib
+--line 6065 of file refs/refs.bib
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Warning--I didn't find a database entry for "BHkicks_aftermerger"
-Warning--I didn't find a database entry for "Fabbiano+2011"
-Warning--I didn't find a database entry for "Mayer:2007"
-Warning--I didn't find a database entry for "Chapon:2013"
-Warning--I didn't find a database entry for "Callegari:2011"
-Warning--I didn't find a database entry for "Mayer:2013"
-Warning--I didn't find a database entry for "MilosPhinney:2001"
 Warning--I didn't find a database entry for "triaxialFPPsolns"
 Warning--I didn't find a database entry for "massivpertFPPsolns"
-Warning--I didn't find a database entry for "GoldRix:2000"
-Warning--I didn't find a database entry for "BarnesHernquist:1996"
-Warning--I didn't find a database entry for "Barnes:2002"
-Warning--I didn't find a database entry for "Sesana:2016"
-Warning--I didn't find a database entry for "SesanaKocsis:"
-Warning--I didn't find a database entry for "Shannon:2015"
 Warning--I didn't find a database entry for "PTAsGWB"
-Warning--I didn't find a database entry for "Lippai:2008"
 Warning--I didn't find a database entry for ""
-Warning--I didn't find a database entry for "GTSaturn"
-Warning--I didn't find a database entry for "LinPapa:1979a"
-Warning--I didn't find a database entry for "LyndenBellKalnajs:1972"
-Warning--I didn't find a database entry for "Ward:1986"
-Warning--I didn't find a database entry for "MeyerVernetSicardy:1987"
-Warning--I didn't find a database entry for "Tanaka:2002"
-Warning--I didn't find a database entry for "Ward:1988"
-Warning--I didn't find a database entry for "GoldriechSari:2003"
-Warning--I didn't find a database entry for "LinPapa"
-Warning--I didn't find a database entry for "chapter3"
-Warning--I didn't find a database entry for "LinPapa:1986b"
-Warning--I didn't find a database entry for "KleyNelson:2013"
 Warning--I didn't find a database entry for "othertypeIIrefs"
-Warning--I didn't find a database entry for "SyerClarke:95"
-Warning--I didn't find a database entry for "other1Darguments"
-Warning--I didn't find a database entry for "Haysaki:2007"
-Warning--I didn't find a database entry for "Roedig:2011:trqs"
-Warning--I didn't find a database entry for "Roedig2012:eccevo"
-Warning--I didn't find a database entry for "Nixon+2011"
-Warning--I didn't find a database entry for "ReodigSesana:2014"
-Warning--I didn't find a database entry for "Nixon+2012"
-Warning--I didn't find a database entry for "Hayasaki+2013"
-Warning--I didn't find a database entry for "Nixon+2013"
 Warning--I didn't find a database entry for "PTF"
 Warning--to sort, need author or key in LIGOIndia
 Warning--to sort, need author or key in FERMIGBM:2009
@@ -58,45 +23,45 @@ Warning--empty journal in LIGOIndia
 Warning--empty journal in AndradeSantos:2016
 Warning--empty publisher in MD:SSD
 Warning--empty publisher in WaldGR:1984
-You've used 335 entries,
+You've used 359 entries,
             3085 wiz_defined-function locations,
-            3006 strings with 71420 characters,
-and the built_in function-call counts, 154567 in all, are:
-= -- 13469
-> -- 9892
-< -- 170
-+ -- 3329
-- -- 3524
-* -- 12543
-:= -- 28564
-add.period$ -- 335
-call.type$ -- 335
-change.case$ -- 2215
-chr.to.int$ -- 320
-cite$ -- 349
-duplicate$ -- 6360
-empty$ -- 9789
-format.name$ -- 4084
-if$ -- 31204
-int.to.chr$ -- 19
+            3089 strings with 74984 characters,
+and the built_in function-call counts, 165237 in all, are:
+= -- 14413
+> -- 10554
+< -- 186
++ -- 3548
+- -- 3752
+* -- 13394
+:= -- 30541
+add.period$ -- 359
+call.type$ -- 359
+change.case$ -- 2369
+chr.to.int$ -- 343
+cite$ -- 373
+duplicate$ -- 6811
+empty$ -- 10465
+format.name$ -- 4371
+if$ -- 33358
+int.to.chr$ -- 20
 int.to.str$ -- 0
-missing$ -- 323
-newline$ -- 1009
-num.names$ -- 1333
-pop$ -- 2363
+missing$ -- 347
+newline$ -- 1081
+num.names$ -- 1429
+pop$ -- 2531
 preamble$ -- 1
-purify$ -- 2213
+purify$ -- 2367
 quote$ -- 0
-skip$ -- 5559
+skip$ -- 5939
 stack$ -- 0
-substring$ -- 7513
-swap$ -- 116
+substring$ -- 8022
+swap$ -- 118
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 2994
+type$ -- 3210
 warning$ -- 8
-while$ -- 1293
+while$ -- 1387
 width$ -- 0
-write$ -- 3340
-(There were 51 warnings)
+write$ -- 3580
+(There were 16 warnings)
