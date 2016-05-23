@@ -3,104 +3,104 @@
 \contentsline {chapter}{Acknowledgements}{xxxi}{chapter*.3}
 \contentsline {chapter}{\numberline {1}Overview}{1}{chapter.1}
 \contentsline {subsection}{\numberline {1.0.1}The gravitational side}{2}{subsection.1.0.1}
-\contentsline {subsection}{\numberline {1.0.2}The electromagnetic side}{5}{subsection.1.0.2}
+\contentsline {subsection}{\numberline {1.0.2}The electromagnetic side}{6}{subsection.1.0.2}
 \contentsline {section}{\numberline {1.1}Part I: Massive Black Hole Binaries}{8}{section.1.1}
 \contentsline {subsection}{\numberline {1.1.1}Formation of MBHBs}{8}{subsection.1.1.1}
 \contentsline {subsection}{\numberline {1.1.2}Interaction with a gas disk}{11}{subsection.1.1.2}
-\contentsline {subsection}{\numberline {1.1.3}Observations of MBHBs}{19}{subsection.1.1.3}
-\contentsline {section}{\numberline {1.2}Part II: Stellar Black Hole + Neutron Star Binaries}{20}{section.1.2}
-\contentsline {section}{\numberline {1.3}Outline of thesis}{27}{section.1.3}
-\contentsline {part}{I\hspace {1em}Massive Black Hole Binaries}{28}{part.1}
-\contentsline {chapter}{\numberline {2}Accretion into the Central Cavity}{30}{chapter.2}
-\contentsline {section}{\numberline {2.1}Introduction}{30}{section.2.1}
-\contentsline {section}{\numberline {2.2}Details of Numerical Simulations}{33}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Numerical Implementation and Assumptions}{34}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}Numerical Parameter Choices}{36}{subsection.2.2.2}
-\contentsline {subsection}{\numberline {2.2.3}Initial Conditions}{38}{subsection.2.2.3}
-\contentsline {subsection}{\numberline {2.2.4}Disc Parameters and Accretion Rate}{40}{subsection.2.2.4}
-\contentsline {subsection}{\numberline {2.2.5}Tests of Code Implementation}{41}{subsection.2.2.5}
-\contentsline {section}{\numberline {2.3}Results}{42}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}Equal-Mass Binary}{42}{subsection.2.3.1}
-\contentsline {subsubsection}{\numberline {2.3.1.1}A Toy Model with Massless Particles}{43}{subsubsection.2.3.1.1}
-\contentsline {subsubsection}{\numberline {2.3.1.2}Hydrodynamical Evolution: Reaching Steady State}{43}{subsubsection.2.3.1.2}
-\contentsline {subsubsection}{\numberline {2.3.1.3}Torque Balance and the Size of the Central Cavity}{50}{subsubsection.2.3.1.3}
-\contentsline {subsubsection}{\numberline {2.3.1.4}Accretion Rates}{51}{subsubsection.2.3.1.4}
-\contentsline {subsection}{\numberline {2.3.2}Unequal-Mass Binaries}{55}{subsection.2.3.2}
-\contentsline {subsubsection}{\numberline {2.3.2.1}Three-Timescale Regime: $0.25 < q < 1$.}{56}{subsubsection.2.3.2.1}
-\contentsline {subsubsection}{\numberline {2.3.2.2}Single-Orbital-Timescale Regime: $0.05 \mathrel {\hbox to\z@ {\lower 4pt\hbox {\hskip 1pt$\sim $}\hss } \raise 1pt\hbox {$<$}}q \mathrel {\hbox to\z@ {\lower 4pt\hbox {\hskip 1pt$\sim $}\hss } \raise 1pt\hbox {$<$}}0.25$.}{60}{subsubsection.2.3.2.2}
-\contentsline {subsubsection}{\numberline {2.3.2.3}Steady-Accretion Regime: $q \mathrel {\hbox to\z@ {\lower 4pt\hbox {\hskip 1pt$\sim $}\hss } \raise 1pt\hbox {$<$}}0.05$.}{61}{subsubsection.2.3.2.3}
-\contentsline {section}{\numberline {2.4}Summary and Discussion}{63}{section.2.4}
-\contentsline {subsection}{\numberline {2.4.1}Comparison with MM08}{63}{subsection.2.4.1}
-\contentsline {subsection}{\numberline {2.4.2}Viscosity Study}{64}{subsection.2.4.2}
-\contentsline {subsection}{\numberline {2.4.3}Resolution Study}{69}{subsection.2.4.3}
-\contentsline {subsection}{\numberline {2.4.4}Physical Regime: Black Hole Binary Parameters}{74}{subsection.2.4.4}
-\contentsline {subsection}{\numberline {2.4.5}Caveats}{78}{subsection.2.4.5}
-\contentsline {section}{\numberline {2.5}Conclusions}{81}{section.2.5}
-\contentsline {section}{\numberline {2.6}Viscous implementation in polar coordinates}{84}{section.2.6}
-\contentsline {subsection}{\numberline {2.6.1}Viscosity and the Momentum Equation}{84}{subsection.2.6.1}
-\contentsline {subsection}{\numberline {2.6.2}The Form of the Viscous Stress Tensor}{85}{subsection.2.6.2}
-\contentsline {subsection}{\numberline {2.6.3}Components of $\sigma $ in Polar Coordinates}{85}{subsection.2.6.3}
-\contentsline {subsection}{\numberline {2.6.4}Divergence of $\sigma $ in Polar Coordinates}{87}{subsection.2.6.4}
-\contentsline {subsection}{\numberline {2.6.5}Implementation in FLASH}{88}{subsection.2.6.5}
-\contentsline {subsection}{\numberline {2.6.6}Viscously Spreading Ring}{89}{subsection.2.6.6}
-\contentsline {subsection}{\numberline {2.6.7}Cartesian Shear Flow}{89}{subsection.2.6.7}
-\contentsline {chapter}{\numberline {3}A transition in circumbinary discs}{94}{chapter.3}
-\contentsline {section}{\numberline {3.1}Introduction}{94}{section.3.1}
-\contentsline {section}{\numberline {3.2}Restricted 3-body Analysis}{98}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Restrictions on Orbits from Conserved Integrals of Motion}{98}{subsection.3.2.1}
-\contentsline {subsection}{\numberline {3.2.2}Restrictions on Orbits from Equations of Motion}{104}{subsection.3.2.2}
-\contentsline {subsection}{\numberline {3.2.3}Hydrodynamical Effects}{105}{subsection.3.2.3}
-\contentsline {subsubsection}{\numberline {3.2.3.1}Pressure}{108}{subsubsection.3.2.3.1}
-\contentsline {subsubsection}{\numberline {3.2.3.2}Viscosity}{111}{subsubsection.3.2.3.2}
-\contentsline {section}{\numberline {3.3}Hydrodynamical simulations}{113}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Fiducial Simulations}{113}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}Hydrodynamic Parameter Study}{120}{subsection.3.3.2}
-\contentsline {section}{\numberline {3.4}Discussion and Summary}{126}{section.3.4}
-\contentsline {section}{\numberline {3.5}Viscous, restricted three-body problem}{130}{section.3.5}
-\contentsline {chapter}{\numberline {4}A Reduced Orbital Period for PG 1302-102}{138}{chapter.4}
-\contentsline {section}{\numberline {4.1}Introduction}{138}{section.4.1}
-\contentsline {section}{\numberline {4.2}Implications of a shorter orbital period}{140}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}Binary-Disc Decoupling}{142}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}Binary Fraction among Quasars}{143}{subsection.4.2.2}
-\contentsline {subsection}{\numberline {4.2.3}Detectability of GWs}{145}{subsection.4.2.3}
-\contentsline {section}{\numberline {4.3}Testing the Binary BH Scenario for PG 1302}{147}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}Broad Line Variability and Asymmetry}{147}{subsection.4.3.1}
-\contentsline {subsection}{\numberline {4.3.2}Relativistic Effects}{150}{subsection.4.3.2}
-\contentsline {subsection}{\numberline {4.3.3}Orbital time-scale Variability}{152}{subsection.4.3.3}
-\contentsline {section}{\numberline {4.4}Conclusions}{152}{section.4.4}
-\contentsline {chapter}{\numberline {5}Relativistic boost}{154}{chapter.5}
-\contentsline {subsection}{\numberline {5.0.1}V-band emission from a three--component system in PG\nobreakspace {}1302-102.}{160}{subsection.5.0.1}
-\contentsline {subsection}{\numberline {5.0.2}Model fitting to the PG 1302 optical light curve.}{163}{subsection.5.0.2}
-\contentsline {subsection}{\numberline {5.0.3}Disk Precession.}{167}{subsection.5.0.3}
-\contentsline {subsection}{\numberline {5.0.4}Archival UV data.}{168}{subsection.5.0.4}
-\contentsline {part}{II\hspace {1em}Neutron Star - Black Hole Binaries}{172}{part.2}
-\contentsline {chapter}{\numberline {6}Rindler Dipoles}{174}{chapter.6}
-\contentsline {section}{\numberline {6.1}Introduction}{174}{section.6.1}
-\contentsline {section}{\numberline {6.2}Set-up and Limits}{177}{section.6.2}
-\contentsline {subsection}{\numberline {6.2.1}Rindler Spacetime}{177}{subsection.6.2.1}
-\contentsline {subsection}{\numberline {6.2.2}Electrodynamical Properties of an Event Horizon and the Horizon Battery}{180}{subsection.6.2.2}
-\contentsline {section}{\numberline {6.3}A magnetic Dipole in arbitrary motion}{184}{section.6.3}
-\contentsline {subsection}{\numberline {6.3.1}The Electromagnetic Four-Potential}{184}{subsection.6.3.1}
-\contentsline {section}{\numberline {6.4}A Freely Falling Dipole Solution}{191}{section.6.4}
-\contentsline {section}{\numberline {6.5}A Boosted, Freely Falling Dipole Solution}{197}{section.6.5}
-\contentsline {section}{\numberline {6.6}Rindler Dipole}{206}{section.6.6}
-\contentsline {section}{\numberline {6.7}Rindler Dipole Boosted Parallel to the Horizon}{210}{section.6.7}
-\contentsline {section}{\numberline {6.8}Consequences for the BH-NS Binary}{216}{section.6.8}
-\contentsline {subsection}{\numberline {6.8.1}Voltage, Luminosity, and Energy}{216}{subsection.6.8.1}
-\contentsline {subsection}{\numberline {6.8.2}NS plummet into a SMBH}{226}{subsection.6.8.2}
-\contentsline {section}{\numberline {6.9}Conclusions}{231}{section.6.9}
-\contentsline {section}{\numberline {6.10}Detailed Solution to the Field Equations}{234}{section.6.10}
-\contentsline {subsection}{\numberline {6.10.1}Point Charge}{235}{subsection.6.10.1}
-\contentsline {subsection}{\numberline {6.10.2}A General Dipole Solution}{237}{subsection.6.10.2}
-\contentsline {section}{\numberline {6.11}Dipole Moments}{242}{section.6.11}
-\contentsline {chapter}{\numberline {7}Bright Transients from Black Hole - Neutron Star Mergers}{246}{chapter.7}
-\contentsline {section}{\numberline {7.1}introduction}{246}{section.7.1}
-\contentsline {subsection}{\numberline {7.1.1}The power of the battery}{248}{subsection.7.1.1}
-\contentsline {section}{\numberline {7.2}Curvature radiation}{253}{section.7.2}
-\contentsline {section}{\numberline {7.3}Fireball}{257}{section.7.3}
-\contentsline {subsection}{\numberline {7.3.1}pair production}{258}{subsection.7.3.1}
-\contentsline {subsection}{\numberline {7.3.2}Expansion and Emission}{261}{subsection.7.3.2}
-\contentsline {section}{\numberline {7.4}Post Merger}{266}{section.7.4}
-\contentsline {section}{\numberline {7.5}Observability}{268}{section.7.5}
-\contentsline {section}{\numberline {7.6}Conclusion}{272}{section.7.6}
-\contentsline {section}{\numberline {7.7}Parameter Dependence of Curvature Spectra}{273}{section.7.7}
+\contentsline {subsection}{\numberline {1.1.3}Observations of MBHBs}{20}{subsection.1.1.3}
+\contentsline {section}{\numberline {1.2}Part II: Stellar Black Hole + Neutron Star Binaries}{23}{section.1.2}
+\contentsline {section}{\numberline {1.3}Outline of thesis}{29}{section.1.3}
+\contentsline {part}{I\hspace {1em}Massive Black Hole Binaries}{30}{part.1}
+\contentsline {chapter}{\numberline {2}Accretion into the Central Cavity}{32}{chapter.2}
+\contentsline {section}{\numberline {2.1}Introduction}{32}{section.2.1}
+\contentsline {section}{\numberline {2.2}Details of Numerical Simulations}{36}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Numerical Implementation and Assumptions}{36}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Numerical Parameter Choices}{39}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Initial Conditions}{40}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}Disc Parameters and Accretion Rate}{43}{subsection.2.2.4}
+\contentsline {subsection}{\numberline {2.2.5}Tests of Code Implementation}{44}{subsection.2.2.5}
+\contentsline {section}{\numberline {2.3}Results}{45}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Equal-Mass Binary}{45}{subsection.2.3.1}
+\contentsline {subsubsection}{\numberline {2.3.1.1}A Toy Model with Massless Particles}{46}{subsubsection.2.3.1.1}
+\contentsline {subsubsection}{\numberline {2.3.1.2}Hydrodynamical Evolution: Reaching Steady State}{46}{subsubsection.2.3.1.2}
+\contentsline {subsubsection}{\numberline {2.3.1.3}Torque Balance and the Size of the Central Cavity}{53}{subsubsection.2.3.1.3}
+\contentsline {subsubsection}{\numberline {2.3.1.4}Accretion Rates}{54}{subsubsection.2.3.1.4}
+\contentsline {subsection}{\numberline {2.3.2}Unequal-Mass Binaries}{58}{subsection.2.3.2}
+\contentsline {subsubsection}{\numberline {2.3.2.1}Three-Timescale Regime: $0.25 < q < 1$.}{59}{subsubsection.2.3.2.1}
+\contentsline {subsubsection}{\numberline {2.3.2.2}Single-Orbital-Timescale Regime: $0.05 \mathrel {\hbox to\z@ {\lower 4pt\hbox {\hskip 1pt$\sim $}\hss } \raise 1pt\hbox {$<$}}q \mathrel {\hbox to\z@ {\lower 4pt\hbox {\hskip 1pt$\sim $}\hss } \raise 1pt\hbox {$<$}}0.25$.}{63}{subsubsection.2.3.2.2}
+\contentsline {subsubsection}{\numberline {2.3.2.3}Steady-Accretion Regime: $q \mathrel {\hbox to\z@ {\lower 4pt\hbox {\hskip 1pt$\sim $}\hss } \raise 1pt\hbox {$<$}}0.05$.}{65}{subsubsection.2.3.2.3}
+\contentsline {section}{\numberline {2.4}Summary and Discussion}{66}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Comparison with MM08}{67}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}Viscosity Study}{68}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.3}Resolution Study}{73}{subsection.2.4.3}
+\contentsline {subsection}{\numberline {2.4.4}Physical Regime: Black Hole Binary Parameters}{78}{subsection.2.4.4}
+\contentsline {subsection}{\numberline {2.4.5}Caveats}{82}{subsection.2.4.5}
+\contentsline {section}{\numberline {2.5}Conclusions}{85}{section.2.5}
+\contentsline {section}{\numberline {2.6}Viscous implementation in polar coordinates}{88}{section.2.6}
+\contentsline {subsection}{\numberline {2.6.1}Viscosity and the Momentum Equation}{88}{subsection.2.6.1}
+\contentsline {subsection}{\numberline {2.6.2}The Form of the Viscous Stress Tensor}{89}{subsection.2.6.2}
+\contentsline {subsection}{\numberline {2.6.3}Components of $\sigma $ in Polar Coordinates}{89}{subsection.2.6.3}
+\contentsline {subsection}{\numberline {2.6.4}Divergence of $\sigma $ in Polar Coordinates}{91}{subsection.2.6.4}
+\contentsline {subsection}{\numberline {2.6.5}Implementation in FLASH}{92}{subsection.2.6.5}
+\contentsline {subsection}{\numberline {2.6.6}Viscously Spreading Ring}{93}{subsection.2.6.6}
+\contentsline {subsection}{\numberline {2.6.7}Cartesian Shear Flow}{93}{subsection.2.6.7}
+\contentsline {chapter}{\numberline {3}A transition in circumbinary discs}{98}{chapter.3}
+\contentsline {section}{\numberline {3.1}Introduction}{98}{section.3.1}
+\contentsline {section}{\numberline {3.2}Restricted 3-body Analysis}{102}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Restrictions on Orbits from Conserved Integrals of Motion}{102}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Restrictions on Orbits from Equations of Motion}{108}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Hydrodynamical Effects}{109}{subsection.3.2.3}
+\contentsline {subsubsection}{\numberline {3.2.3.1}Pressure}{112}{subsubsection.3.2.3.1}
+\contentsline {subsubsection}{\numberline {3.2.3.2}Viscosity}{115}{subsubsection.3.2.3.2}
+\contentsline {section}{\numberline {3.3}Hydrodynamical simulations}{118}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Fiducial Simulations}{118}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Hydrodynamic Parameter Study}{124}{subsection.3.3.2}
+\contentsline {section}{\numberline {3.4}Discussion and Summary}{130}{section.3.4}
+\contentsline {section}{\numberline {3.5}Viscous, restricted three-body problem}{134}{section.3.5}
+\contentsline {chapter}{\numberline {4}A Reduced Orbital Period for PG 1302-102}{142}{chapter.4}
+\contentsline {section}{\numberline {4.1}Introduction}{142}{section.4.1}
+\contentsline {section}{\numberline {4.2}Implications of a shorter orbital period}{145}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Binary-Disc Decoupling}{146}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Binary Fraction among Quasars}{148}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Detectability of GWs}{150}{subsection.4.2.3}
+\contentsline {section}{\numberline {4.3}Testing the Binary BH Scenario for PG 1302}{151}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Broad Line Variability and Asymmetry}{151}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Relativistic Effects}{154}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Orbital time-scale Variability}{156}{subsection.4.3.3}
+\contentsline {section}{\numberline {4.4}Conclusions}{156}{section.4.4}
+\contentsline {chapter}{\numberline {5}Relativistic boost}{158}{chapter.5}
+\contentsline {subsection}{\numberline {5.0.1}V-band emission from a three--component system in PG\nobreakspace {}1302-102.}{162}{subsection.5.0.1}
+\contentsline {subsection}{\numberline {5.0.2}Model fitting to the PG 1302 optical light curve.}{168}{subsection.5.0.2}
+\contentsline {subsection}{\numberline {5.0.3}Disk Precession.}{172}{subsection.5.0.3}
+\contentsline {subsection}{\numberline {5.0.4}Archival UV data.}{173}{subsection.5.0.4}
+\contentsline {part}{II\hspace {1em}Neutron Star - Black Hole Binaries}{178}{part.2}
+\contentsline {chapter}{\numberline {6}Rindler Dipoles}{180}{chapter.6}
+\contentsline {section}{\numberline {6.1}Introduction}{180}{section.6.1}
+\contentsline {section}{\numberline {6.2}Set-up and Limits}{183}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Rindler Spacetime}{183}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}Electrodynamical Properties of an Event Horizon and the Horizon Battery}{186}{subsection.6.2.2}
+\contentsline {section}{\numberline {6.3}A magnetic Dipole in arbitrary motion}{190}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}The Electromagnetic Four-Potential}{190}{subsection.6.3.1}
+\contentsline {section}{\numberline {6.4}A Freely Falling Dipole Solution}{197}{section.6.4}
+\contentsline {section}{\numberline {6.5}A Boosted, Freely Falling Dipole Solution}{203}{section.6.5}
+\contentsline {section}{\numberline {6.6}Rindler Dipole}{212}{section.6.6}
+\contentsline {section}{\numberline {6.7}Rindler Dipole Boosted Parallel to the Horizon}{216}{section.6.7}
+\contentsline {section}{\numberline {6.8}Consequences for the BH-NS Binary}{222}{section.6.8}
+\contentsline {subsection}{\numberline {6.8.1}Voltage, Luminosity, and Energy}{222}{subsection.6.8.1}
+\contentsline {subsection}{\numberline {6.8.2}NS plummet into a SMBH}{232}{subsection.6.8.2}
+\contentsline {section}{\numberline {6.9}Conclusions}{237}{section.6.9}
+\contentsline {section}{\numberline {6.10}Detailed Solution to the Field Equations}{240}{section.6.10}
+\contentsline {subsection}{\numberline {6.10.1}Point Charge}{241}{subsection.6.10.1}
+\contentsline {subsection}{\numberline {6.10.2}A General Dipole Solution}{243}{subsection.6.10.2}
+\contentsline {section}{\numberline {6.11}Dipole Moments}{248}{section.6.11}
+\contentsline {chapter}{\numberline {7}Bright Transients from Black Hole - Neutron Star Mergers}{252}{chapter.7}
+\contentsline {section}{\numberline {7.1}introduction}{252}{section.7.1}
+\contentsline {subsection}{\numberline {7.1.1}The power of the battery}{254}{subsection.7.1.1}
+\contentsline {section}{\numberline {7.2}Curvature radiation}{259}{section.7.2}
+\contentsline {section}{\numberline {7.3}Fireball}{263}{section.7.3}
+\contentsline {subsection}{\numberline {7.3.1}pair production}{264}{subsection.7.3.1}
+\contentsline {subsection}{\numberline {7.3.2}Expansion and Emission}{267}{subsection.7.3.2}
+\contentsline {section}{\numberline {7.4}Post Merger}{272}{section.7.4}
+\contentsline {section}{\numberline {7.5}Observability}{274}{section.7.5}
+\contentsline {section}{\numberline {7.6}Conclusion}{278}{section.7.6}
+\contentsline {section}{\numberline {7.7}Parameter Dependence of Curvature Spectra}{279}{section.7.7}

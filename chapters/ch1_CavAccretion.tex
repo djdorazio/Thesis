@@ -1,7 +1,8 @@
 %FOR THESIS
 \chapter[Accretion into the Central Cavity]{Accretion into the Central Cavity of a Circumbinary Disc}
-\label{ch:BinAcc}
-%^
+\label{ch:CavAcc}
+\let\thefootnote\relax\footnotetext{This section contains text from an article published in Monthly Notices of the Royal Astronomical Society, Volume 436, Issue 4, p.2997-3020 (2013).}
+
 
 
 %\documentclass[usenatbib,useAMS]{mn2e}
@@ -388,32 +389,38 @@ The time resolution is set to be half of the shortest propagation time
 resolution are discussed in \S \ref{Resolution Study}.
 
 \begin{table*}
-\begin{center}
+%\begin{center}
 \caption{\em Summary of our simulation runs. Low, medium, and high radial and
 azimuthal resolutions are denoted by ``Lo$\Delta r$"; ``Mid$\Delta r$";  ``Hi$\Delta r$'' 
 and ``Lo$\Delta\phi$"; ``Mid$\Delta\phi$";  ``Hi$\Delta\phi$''  and correspond to 
 $\triangle r/a = 0.035, 0.24, 0.017$ and $\triangle \phi/2\pi = 0.0078, 0.0052, 0.0039$, respectively. 
 The viscosity parameter $\alpha$ is set to 0.01 unless otherwise specified.}
 \label{Tbl_simruns}
+%
+\rotatebox{90}{
+%
 \begin{tabular}{   l   |    l   |   l    }
   Mass ratio $q$    &   Spatial Resolution $\left[\triangle r, \triangle \phi \right]$  &  No. Orbits ($N_{\rm orb}=t_{\rm max} \Omega_{\rm bin}/2\pi$)\\ \hline
-  $1.0$    &    $\left[\rm{Lo}\Delta r, \rm{Lo}\Delta \phi \right]$,  $\left[\rm{Mid}\Delta r , \rm{Lo}\Delta \phi \right]$    ,  $\left[\rm{\rm{Mid}\Delta r}, \rm{Mid}\Delta \phi \right]$,    $\left[\rm{\rm{Hi}\Delta r}, \rm{Hi}\Delta \phi \right]$,  &  5500, 6800, 4500, 4200       \\ 
-  $1.0$ ($\alpha=0.02$)   &     \hbox{  } \qquad  \qquad \qquad   $\left[\rm{Mid}\Delta r , \rm{Lo}\Delta \phi \right]$    &  4500      \\ 
-   $1.0$ ($\alpha=0.04$)   &    \hbox{  } \qquad  \qquad \qquad   $\left[\rm{Mid}\Delta r , \rm{Lo}\Delta \phi \right]$    &  5200      \\ 
-    $1.0$ ($\alpha=0.1$)   &    \hbox{  } \qquad  \qquad \qquad   $\left[\rm{Mid}\Delta r , \rm{Lo}\Delta \phi \right]$    &  1400      \\ 
+  $1.0$    &    $\left[\rm{Lo}\Delta r, \rm{Lo}\Delta \phi \right]$,  $\left[\rm{Mid}\Delta r, \rm{Lo}\Delta \phi \right]$,  $\left[\rm{\rm{Mid}\Delta r}, \rm{Mid}\Delta \phi \right]$,    $\left[\rm{\rm{Hi}\Delta r}, \rm{Hi}\Delta \phi \right]$  &  5500, 6800, 4500, 4200       \\ 
+  $1.0$ ($\alpha=0.02$)   &     \hbox{  } \qquad  \qquad \qquad   $\left[\rm{Mid}\Delta r, \rm{Lo}\Delta \phi \right]$    &  4500      \\ 
+   $1.0$ ($\alpha=0.04$)   &    \hbox{  } \qquad  \qquad \qquad   $\left[\rm{Mid}\Delta r, \rm{Lo}\Delta \phi \right]$    &  5200      \\ 
+    $1.0$ ($\alpha=0.1$)   &    \hbox{  } \qquad  \qquad \qquad   $\left[\rm{Mid}\Delta r, \rm{Lo}\Delta \phi \right]$    &  1400      \\ 
   $0.75$  &   $\left[\rm{Lo}\Delta r, \rm{Lo}\Delta \phi \right]$,  $\left[\rm{Mid}\Delta r, \rm{Lo}\Delta \phi \right]$      &  6500, 4500    \\ 
   $0.5$    &   $\left[\rm{Lo}\Delta r, \rm{Lo}\Delta \phi \right]$,  $\left[\rm{Mid}\Delta r, \rm{Lo}\Delta \phi \right]$      &  6000, 4500   \\ 
   $0.25$  &  $\left[\rm{Lo}\Delta r, \rm{Lo}\Delta \phi \right]$,  $\left[\rm{Mid}\Delta r, \rm{Lo}\Delta \phi \right]$       &  5700, 4500   \\ 
-    $0.1$    &   $\left[\rm{Lo}\Delta r, \rm{Lo}\Delta \phi \right]$,  $\left[\rm{Mid}\Delta r, \rm{Lo}\Delta \phi \right]$,  $\left[\rm{\rm{Mid}\Delta r}, \rm{Mid}\Delta \phi \right]$,    $\left[\rm{\rm{Hi}\Delta r}, \rm{Hi}\Delta \phi \right]$,  &7000 , 8000, 4500, 4100     \\ 
+    $0.1$    &   $\left[\rm{Lo}\Delta r, \rm{Lo}\Delta \phi \right]$,  $\left[\rm{Mid}\Delta r, \rm{Lo}\Delta \phi \right]$,  $\left[\rm{\rm{Mid}\Delta r}, \rm{Mid}\Delta \phi \right]$,    $\left[\rm{\rm{Hi}\Delta r}, \rm{Hi}\Delta \phi \right]$  &7000, 8000, 4500, 4100     \\ 
    $0.075$    &   $\left[\rm{Lo}\Delta r, \rm{Lo}\Delta \phi \right]$,  $\left[\rm{Mid}\Delta r, \rm{Lo}\Delta \phi \right]$      &  4500, 5200       \\ 
-   $0.05$  &   $\left[\rm{Lo}\Delta r, \rm{Lo}\Delta \phi \right]$,  $\left[\rm{Mid}\Delta r, \rm{Lo}\Delta \phi \right]$     ,  $\left[\rm{\rm{Mid}\Delta r}, \rm{Mid}\Delta \phi \right]$,    $\left[\rm{\rm{Hi}\Delta r}, \rm{Hi}\Delta \phi \right]$,  &  4500, 7600, 4500, 4200     \\ 
+   $0.05$  &   $\left[\rm{Lo}\Delta r, \rm{Lo}\Delta \phi \right]$,  $\left[\rm{Mid}\Delta r, \rm{Lo}\Delta \phi \right]$,  $\left[\rm{\rm{Mid}\Delta r}, \rm{Mid}\Delta \phi \right]$,    $\left[\rm{\rm{Hi}\Delta r}, \rm{Hi}\Delta \phi \right]$  &  4500, 7600, 4500, 4200     \\ 
    $0.025$   &  \hbox{  } \qquad  \qquad \qquad $\left[\rm{Mid}\Delta r, \rm{Lo}\Delta \phi \right]$     &  4500       \\ 
    $0.01$  &   $\left[\rm{Lo}\Delta r, \rm{Lo}\Delta \phi \right]$,  $\left[\rm{Mid}\Delta r, \rm{Lo}\Delta \phi \right]$      &  5200, 5500     \\
    $0.003$  &     \hbox{  } \qquad  \qquad \qquad   $\left[\rm{Mid}\Delta r, \rm{Lo}\Delta \phi \right]$      &  5500     \\
-     $0$ \  (All $\alpha$)  &   $\left[\rm{Lo}\Delta r, \rm{Lo}\Delta \phi \right]$,  $\left[\rm{Mid}\Delta r, \rm{Lo}\Delta \phi \right]$,  $\left[\rm{\rm{Mid}\Delta r}, \rm{Mid}\Delta \phi \right]$,    $\left[\rm{\rm{Hi}\Delta r}, \rm{Hi}\Delta \phi \right]$,  & 6000 , 8000, 4500, 4200
+     $0$ \  (All $\alpha$)  &   $\left[\rm{Lo}\Delta r, \rm{Lo}\Delta \phi \right]$,  $\left[\rm{Mid}\Delta r, \rm{Lo}\Delta \phi \right]$,  $\left[\rm{\rm{Mid}\Delta r}, \rm{Mid}\Delta \phi \right]$,    $\left[\rm{\rm{Hi}\Delta r}, \rm{Hi}\Delta \phi \right]$  & 6000, 8000, 4500, 4200
    \label{runs}
   \end{tabular}
- \end{center}
+  %
+  }
+  %
+% \end{center}
 \end{table*}
 
 We run our simulations for between $4\times 10^3$ and $10^4$ binary
@@ -782,14 +789,15 @@ $\sim400$ binary orbits. Excitation of a similar lopsided cavity is observed in 
 \begin{figure*}
 \begin{center}$
 \begin{array}{cc}
-\includegraphics[scale=0.44]{figures/ch1/2DDens_q1_Danvisc_MM_a01_M1G_100a_r24y78_FIG_2000_SHARP_STREAMINSET}&
-\includegraphics[scale=0.44]{figures/ch1/2DDens_q1_Danvisc_MM_a01_M1G_100a_r24y78_FIG3_4000}  \\ \\
+\includegraphics[scale=0.34]{figures/ch1/2DDens_q1_Danvisc_MM_a01_M1G_100a_r24y78_FIG_2000_SHARP_STREAMINSET}&
+\includegraphics[scale=0.34]{figures/ch1/2DDens_q1_Danvisc_MM_a01_M1G_100a_r24y78_FIG3_4000}  \\ 
 \hline  \hline\\ 
-\includegraphics[scale=0.44]{figures/ch1/2DDens_q05_Danvisc_MM_a01_M1G_100a_r24y78_FIG_4004} &
-\includegraphics[scale=0.44]{figures/ch1/2DDens_q25_Danvisc_MM_a01_M1G_100a_r24y78_FIG_4004}\\
-\includegraphics[scale=0.44]{figures/ch1/2DDens_q075_Danvisc_MM_a01_M1G_100a_r24y78_FIG_4010} &
-\includegraphics[scale=0.44]{figures/ch1/2DDens_q001_Danvisc_MM_a01_M1G_100a_r24y78_FIG_4000} 
+\includegraphics[scale=0.34]{figures/ch1/2DDens_q05_Danvisc_MM_a01_M1G_100a_r24y78_FIG_4004} &
+\includegraphics[scale=0.34]{figures/ch1/2DDens_q25_Danvisc_MM_a01_M1G_100a_r24y78_FIG_4004}\\
+\includegraphics[scale=0.34]{figures/ch1/2DDens_q075_Danvisc_MM_a01_M1G_100a_r24y78_FIG_4010} &
+\includegraphics[scale=0.34]{figures/ch1/2DDens_q001_Danvisc_MM_a01_M1G_100a_r24y78_FIG_4000} 
 \end{array}$
+\vspace{-0.2in}
 \end{center}
 \caption{\textit{Top row:} Surface density distributions for the
   equal-mass ratio ($q=1.0$) binary during a transient,
@@ -915,14 +923,15 @@ taken over $25$ binary orbits at a sample rate of 20 per orbit.
 \begin{figure*}
 \begin{center}$
 \begin{array}{cc}
-\includegraphics[scale=0.445]{figures/ch1/TRQDENS_EARLY_FulVsc_a01_q1_Resr24y78.eps} &
-\includegraphics[scale=0.445]{figures/ch1/TRQDENS_LATE_FulVsc_a01_q1_Resr24y78.eps} \\
+\includegraphics[scale=0.35]{figures/ch1/TRQDENS_EARLY_FulVsc_a01_q1_Resr24y78.eps} &
+\includegraphics[scale=0.35]{figures/ch1/TRQDENS_LATE_FulVsc_a01_q1_Resr24y78.eps} \\
 %
-\includegraphics[scale=0.445]{figures/ch1/TRQDENS_LATE_FulVsc_a01_q05_Resr24y78.eps} &
-\includegraphics[scale=0.445]{figures/ch1/TRQDENS_LATE_FulVsc_a01_q01_Resr24y78.eps} \\
-\includegraphics[scale=0.445]{figures/ch1/TRQDENS_LATE_FulVsc_a01_q005_Resr24y78.eps} &
-\includegraphics[scale=0.445]{figures/ch1/TRQDENS_LATE_FulVsc_a01_q001_Resr24y78.eps} 
+\includegraphics[scale=0.35]{figures/ch1/TRQDENS_LATE_FulVsc_a01_q05_Resr24y78.eps} &
+\includegraphics[scale=0.35]{figures/ch1/TRQDENS_LATE_FulVsc_a01_q01_Resr24y78.eps} \\
+\includegraphics[scale=0.35]{figures/ch1/TRQDENS_LATE_FulVsc_a01_q005_Resr24y78.eps} &
+\includegraphics[scale=0.35]{figures/ch1/TRQDENS_LATE_FulVsc_a01_q001_Resr24y78.eps} 
 \end{array}$
+\vspace{-0.2in}
 \caption{Azimuthally- and time-averaged torque density profiles in the
   inner disc for the equal--mass binary (top two panels) and for
   unequal-mass binaries (other panels, with different mass ratios $q$
@@ -970,10 +979,10 @@ when azimuthally averaged, this results in a larger cavity size.
 \begin{figure*}
 \begin{center}$
 \begin{array}{cc}
-\includegraphics[scale=0.42]{figures/ch1/Mdot_vs_t_q1_FulVsc_alph01_ResMidLo.pdf} &
-\includegraphics[scale=0.42]{figures/ch1/Mdot_vs_t_q05_FulVsc_alph01_ResMidLo.pdf} \\
-\includegraphics[scale=0.42]{figures/ch1/Mdot_vs_t_q25_FulVsc_alph01_ResMidLo.pdf}  &
-\includegraphics[scale=0.42]{figures/ch1/Mdot_vs_t_q075_FulVsc_alph01_ResMidLo.pdf} 
+\includegraphics[scale=0.38]{figures/ch1/Mdot_vs_t_q1_FulVsc_alph01_ResMidLo.pdf} &
+\includegraphics[scale=0.38]{figures/ch1/Mdot_vs_t_q05_FulVsc_alph01_ResMidLo.pdf} \\
+\includegraphics[scale=0.38]{figures/ch1/Mdot_vs_t_q25_FulVsc_alph01_ResMidLo.pdf}  &
+\includegraphics[scale=0.38]{figures/ch1/Mdot_vs_t_q075_FulVsc_alph01_ResMidLo.pdf} 
 \end{array}$
 \end{center}
 \caption{ -- continued on next page}
@@ -985,8 +994,8 @@ when azimuthally averaged, this results in a larger cavity size.
 \begin{figure*}
 \begin{center}$
 \begin{array}{cc}
-\includegraphics[scale=0.42]{figures/ch1/Mdot_vs_t_q001_FulVsc_alph01_ResMidLo.pdf} &
-\includegraphics[scale=0.42]{figures/ch1/Mdot_vs_t_q0003_FulVsc_alph01_ResMidLo.pdf} 
+\includegraphics[scale=0.38]{figures/ch1/Mdot_vs_t_q001_FulVsc_alph01_ResMidLo.pdf} &
+\includegraphics[scale=0.38]{figures/ch1/Mdot_vs_t_q0003_FulVsc_alph01_ResMidLo.pdf} 
 \end{array}$
 \end{center}
 \caption{The time variable accretion rate across the inner boundary of
@@ -1069,7 +1078,7 @@ decrease $q$.
 
 %%% Mdot RATIOS TABLE
 \begin{table*}
-\begin{center}
+%\begin{center}
  \caption{The mean accretion rate $\dot{M}_{\rm bin}$, averaged over
     1000 orbits in the quasi-steady-state, for binaries with different
     mass ratios.  The rates are shown in units of the corresponding
@@ -1081,6 +1090,9 @@ decrease $q$.
     The first row is our fiducial resolution. The last three rows are for runs at the 
     fiducial resolution but different magnitudes of the viscosity parameter $\alpha$.}
 \label{Mdot_ratios}
+%
+\rotatebox{90}{
+%
 \begin{tabular}{l  |  c c c c c c c c c c}
                                      $q$                                   & 1.0   & 0.75 &  0.5 &  0.25   & 0.1   & 0.075  & 0.05 & 0.025 & 0.01 & 0.003 \\ \hline
     $\dot{M}_{\rm{bin}} / \dot{M}_{q0}  \left[\rm{Mid}\Delta r, \rm{Lo}\Delta \phi \right]$   & 0.671 &  0.700 & 0.655 & 0.382   & 0.355$^*$ & 0.228$^*$  & 0.025 & 0.100  & 0.341 &  0.814  \\                                   
@@ -1091,7 +1103,10 @@ decrease $q$.
   $(\alpha = 0.04$)                                           						    	        & 0.921 &    &    &     &   &    &  &   &  &    \\
   $(\alpha = 0.1$)                                    								        & 1.015$^*$ &    &    &     &   &    &  &   &  &    
   \end{tabular}
- \end{center}
+  %
+  }
+  %
+ %\end{center}
 \end{table*}
 %%%%%%%%%%%%%%%%%
 
@@ -1423,6 +1438,7 @@ The primary difference is that there is more power at low frequencies in the MM0
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% MidLo Res q=1, viscosity
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{figure}
 \begin{center}$
 \begin{array}{cc}
@@ -1454,6 +1470,7 @@ The primary difference is that there is more power at low frequencies in the MM0
 \includegraphics[scale=0.45]{figures/ch1/Mdot_vs_t_q1_FulVsc_alph1_ResMidLo_ALLt_FIG9.pdf}
 \end{array}$
 \end{center}
+\vspace{-0.3in}
 \caption{The time-dependent accretion rates as in Figure \ref{Mdott6},
   except for the single mass ratio $q=1.0$ and four different
  values of the viscosity parameter $\alpha$, as shown in Figure \ref{Fig:2DDensVsc}. Additionally the top panel of each figure shows the entire accretion rate history for the $q=1$ (black) and $q=0$ (red) cases. Notice that long-term (once per $\sim 400t_{\rm bin}$) variability appears in the larger $\alpha$ runs and is coincident with the period at which the elongated cavity precesses..}
@@ -1560,12 +1577,13 @@ The 2D surface density profiles for the $q=0.05$ runs at different resolutions r
 %\begin{figure}
 \begin{center}$
 \begin{array}{cc}
-\includegraphics[scale=0.43]{figures/ch1/Mdot_vs_t_q01_FulVsc_alph01_ResLoLo.pdf}&
-\includegraphics[scale=0.43]{figures/ch1/Mdot_vs_t_q01_FulVsc_alph01_ResMidLo.pdf} \\
-\includegraphics[scale=0.43]{figures/ch1/Mdot_vs_t_q01_FulVsc_alph01_ResMidMid.pdf} &
-\includegraphics[scale=0.43]{figures/ch1/Mdot_vs_t_q01_FulVsc_alph01_ResHiHi.pdf}
+\includegraphics[scale=0.36]{figures/ch1/Mdot_vs_t_q01_FulVsc_alph01_ResLoLo.pdf}&
+\includegraphics[scale=0.36]{figures/ch1/Mdot_vs_t_q01_FulVsc_alph01_ResMidLo.pdf} \\
+\includegraphics[scale=0.36]{figures/ch1/Mdot_vs_t_q01_FulVsc_alph01_ResMidMid.pdf} &
+\includegraphics[scale=0.36]{figures/ch1/Mdot_vs_t_q01_FulVsc_alph01_ResHiHi.pdf}
 \end{array}$
 \end{center}
+\vspace{-0.1in}
 \caption{The time-dependent accretion rates as in Figure \ref{Mdott6},
   except for the single mass ratio $q=0.1$ and the four different
   resolutions also shown in Figure \ref{q012DDensRes}. The $q=0.1$
@@ -2121,10 +2139,11 @@ with $y_0=1.0$, $v_0=1.0$, $\nu =0.1$, $t_0 = 0.5$. Choice of outer and inner bo
 
 \begin{figure}
 \begin{center}$
-\begin{array}{cc}
-\includegraphics[scale=0.4]{figures/ch1/CartShear_Res512_64_t1_NoVisc.pdf} &
-\includegraphics[scale=0.4]{figures/ch1/CartShear_Res128_16_t1.pdf} \\
-\includegraphics[scale=0.4]{figures/ch1/CartShear_Res512_64_t1.pdf} &
+\begin{array}{cccc}
+\hspace{-0.1in}
+\includegraphics[scale=0.4]{figures/ch1/CartShear_Res512_64_t1_NoVisc.pdf} & \hspace{-0.1in}
+\includegraphics[scale=0.4]{figures/ch1/CartShear_Res128_16_t1.pdf} &  \hspace{-0.1in}
+\includegraphics[scale=0.4]{figures/ch1/CartShear_Res512_64_t1.pdf} &  \hspace{-0.1in}
 \includegraphics[scale=0.4]{figures/ch1/CartShear_Res512_24_t1.pdf} 
 \end{array}$
 \end{center}
