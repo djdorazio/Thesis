@@ -200,6 +200,10 @@ Chandrasekhar, S. 1943, Astrophysical Journal, 97, 255
 {Charisi}, M., {Bartos}, I., {Haiman}, Z., {Price-Whelan}, A.~M., \&
   {M{\'a}rka}, S. 2015, \mnras, 454, L21
 
+\bibitem[{{Cheng} {et~al.}(1986){Cheng}, {Ho}, \&
+  {Ruderman}}]{ChengRuderman:1986}
+{Cheng}, K.~S., {Ho}, C., \& {Ruderman}, M. 1986, \apj, 300, 500
+
 \bibitem[{{Cheng} \& {Zhang}(1996)}]{CZ_SC:1996}
 {Cheng}, K.~S., \& {Zhang}, J.~L. 1996, \apj, 463, 271
 
@@ -271,6 +275,9 @@ Dalal, N., Holz, D.~E., Hughes, S.~A., \& Jain, B. 2006, Physical Review D, 74,
 
 \bibitem[{{D'Angelo} \& {Lubow}(2008)}]{DAngelowLubow:2008}
 {D'Angelo}, G., \& {Lubow}, S.~H. 2008, \apj, 685, 560
+
+\bibitem[{{Daugherty} \& {Harding}(1982)}]{DaughertyHarding:1982}
+{Daugherty}, J.~K., \& {Harding}, A.~K. 1982, \apj, 252, 337
 
 \bibitem[{{De Rosa} {et~al.}(2014){De Rosa}, {Patience}, {Ward-Duong}, {Vigan},
   {Marois}, {Song}, {Macintosh}, {Graham}, {Doyon}, {Bessell}, {Lai},
@@ -1314,6 +1321,9 @@ Shi, J.-M., Krolik, J.~H., Lubow, S.~H., \& Hawley, J.~F. 2012, The
 \bibitem[{{Starobinski{\v i}}(1979)}]{Starobinski:1979}
 {Starobinski{\v i}}, A.~A. 1979, Soviet Journal of Experimental and Theoretical
   Physics Letters, 30, 682
+
+\bibitem[{{Sturrock}(1971)}]{Sturrock:1971}
+{Sturrock}, P.~A. 1971, \apj, 164, 529
 
 \bibitem[{{Svensson}(1987)}]{Sven:1987}
 {Svensson}, R. 1987, \mnras, 227, 403
