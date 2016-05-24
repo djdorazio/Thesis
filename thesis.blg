@@ -2,19 +2,11 @@ This is BibTeX, Version 0.99d (TeX Live 2014)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: thesis.aux
 The style file: apj.bst
-Reallocated field_info (elt_size=4) to 14386 items from 5000.
+Reallocated field_info (elt_size=4) to 14490 items from 5000.
 Database file #1: refs/refs.bib
 Warning--string name "n/a" is undefined
 --line 5987 of file refs/refs.bib
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
-Warning--I didn't find a database entry for "BHkicks_aftermerger"
-Warning--I didn't find a database entry for "triaxialFPPsolns"
-Warning--I didn't find a database entry for "massivpertFPPsolns"
-Warning--I didn't find a database entry for "PTAsGWB"
-Warning--I didn't find a database entry for ""
-Warning--I didn't find a database entry for "othertypeIIrefs"
-Warning--I didn't find a database entry for "PTF"
-Warning--I didn't find a database entry for "QuasVar"
 Warning--to sort, need author or key in LIGOIndia
 Warning--to sort, need author or key in FERMIGBM:2009
 Warning--to sort, need author or key in FERMIGBM:2015
@@ -23,45 +15,45 @@ Warning--empty author in LIGOIndia
 Warning--empty journal in LIGOIndia
 Warning--empty journal in AndradeSantos:2016
 Warning--empty publisher in WaldGR:1984
-You've used 353 entries,
+You've used 365 entries,
             3085 wiz_defined-function locations,
-            3085 strings with 75252 characters,
-and the built_in function-call counts, 162859 in all, are:
-= -- 14178
-> -- 10466
-< -- 182
-+ -- 3513
-- -- 3725
-* -- 13217
-:= -- 30133
-add.period$ -- 353
-call.type$ -- 353
-change.case$ -- 2329
-chr.to.int$ -- 343
-cite$ -- 366
-duplicate$ -- 6694
-empty$ -- 10279
-format.name$ -- 4327
-if$ -- 32859
-int.to.chr$ -- 14
+            3152 strings with 81088 characters,
+and the built_in function-call counts, 171078 in all, are:
+= -- 14666
+> -- 11406
+< -- 187
++ -- 3824
+- -- 4049
+* -- 14085
+:= -- 31757
+add.period$ -- 365
+call.type$ -- 365
+change.case$ -- 2400
+chr.to.int$ -- 354
+cite$ -- 378
+duplicate$ -- 6932
+empty$ -- 10648
+format.name$ -- 4667
+if$ -- 34408
+int.to.chr$ -- 15
 int.to.str$ -- 0
-missing$ -- 342
-newline$ -- 1063
-num.names$ -- 1404
-pop$ -- 2486
+missing$ -- 353
+newline$ -- 1099
+num.names$ -- 1453
+pop$ -- 2570
 preamble$ -- 1
-purify$ -- 2327
+purify$ -- 2398
 quote$ -- 0
-skip$ -- 5849
+skip$ -- 6055
 stack$ -- 0
-substring$ -- 7908
-swap$ -- 102
-text.length$ -- 1
+substring$ -- 8212
+swap$ -- 114
+text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 3159
+type$ -- 3267
 warning$ -- 7
-while$ -- 1360
+while$ -- 1403
 width$ -- 0
-write$ -- 3519
-(There were 16 warnings)
+write$ -- 3638
+(There were 8 warnings)
