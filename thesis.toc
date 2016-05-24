@@ -9,8 +9,8 @@
 \contentsline {subsection}{\numberline {1.1.2}Interaction with a gas disk}{11}{subsection.1.1.2}
 \contentsline {subsection}{\numberline {1.1.3}Observations of MBHBs}{20}{subsection.1.1.3}
 \contentsline {section}{\numberline {1.2}Part II: Stellar Black Hole + Neutron Star Binaries}{23}{section.1.2}
-\contentsline {subsection}{\numberline {1.2.1}An analogy form Faraday}{25}{subsection.1.2.1}
-\contentsline {subsection}{\numberline {1.2.2}The Black Hole Batterey}{26}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.1}An analogy from Faraday}{25}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}The Black Hole Battery}{26}{subsection.1.2.2}
 \contentsline {section}{\numberline {1.3}Outline of thesis}{29}{section.1.3}
 \contentsline {part}{I\hspace {1em}Massive Black Hole Binaries}{31}{part.1}
 \contentsline {chapter}{\numberline {2}Accretion into the Central Cavity}{33}{chapter.2}
