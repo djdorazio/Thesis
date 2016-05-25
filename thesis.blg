@@ -5,55 +5,50 @@ The style file: apj.bst
 Reallocated field_info (elt_size=4) to 14568 items from 5000.
 Database file #1: refs/refs.bib
 Warning--string name "n/a" is undefined
---line 5987 of file refs/refs.bib
+--line 5989 of file refs/refs.bib
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
-Warning--to sort, need author or key in LIGOIndia
-Warning--to sort, need author or key in FERMIGBM:2009
-Warning--to sort, need author or key in FERMIGBM:2015
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-Warning--empty author in LIGOIndia
-Warning--empty journal in LIGOIndia
 Warning--empty journal in AndradeSantos:2016
 Warning--empty publisher in WaldGR:1984
 You've used 368 entries,
             3085 wiz_defined-function locations,
-            3174 strings with 81524 characters,
-and the built_in function-call counts, 172301 in all, are:
-= -- 14777
-> -- 11470
-< -- 189
-+ -- 3845
-- -- 4070
-* -- 14176
-:= -- 31985
+            3178 strings with 81633 characters,
+and the built_in function-call counts, 172468 in all, are:
+= -- 14790
+> -- 11506
+< -- 192
++ -- 3854
+- -- 4079
+* -- 14171
+:= -- 32060
 add.period$ -- 368
 call.type$ -- 368
-change.case$ -- 2418
+change.case$ -- 2421
 chr.to.int$ -- 357
-cite$ -- 381
+cite$ -- 370
 duplicate$ -- 6987
-empty$ -- 10732
-format.name$ -- 4694
-if$ -- 34657
+empty$ -- 10720
+format.name$ -- 4706
+if$ -- 34679
 int.to.chr$ -- 15
 int.to.str$ -- 0
 missing$ -- 356
 newline$ -- 1108
-num.names$ -- 1465
-pop$ -- 2588
+num.names$ -- 1477
+pop$ -- 2581
 preamble$ -- 1
-purify$ -- 2416
+purify$ -- 2419
 quote$ -- 0
-skip$ -- 6103
+skip$ -- 6106
 stack$ -- 0
-substring$ -- 8275
+substring$ -- 8269
 swap$ -- 114
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 3294
-warning$ -- 7
-while$ -- 1415
+warning$ -- 2
+while$ -- 1424
 width$ -- 0
-write$ -- 3668
-(There were 8 warnings)
+write$ -- 3672
+(There were 3 warnings)

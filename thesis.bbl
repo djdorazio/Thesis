@@ -1,15 +1,6 @@
 \begin{thebibliography}{}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
-\bibitem[{FER(2009)}]{FERMIGBM:2009}
- 2009, FERMI GBM charecteristics
-
-\bibitem[{FER(2015)}]{FERMIGBM:2015}
- 2015, FERMI GBM charecteristics
-
-\bibitem[{LIG(2016)}]{LIGOIndia}
- 2016
-
 \bibitem[{{Aasi} {et~al.}(2016){Aasi}, {Abbott}, {Abbott}, {Abbott},
   {Abernathy}, {Acernese}, {Ackley}, {Adams}, {Adams}, {Addesso}, \&
   et~al.}]{ContWaveLIGO:2016}
@@ -481,6 +472,12 @@ Fabbiano, G., Wang, J., Elvis, M., \& Risaliti, G. 2011, Nature, 477, 431
   {Shapiro}}]{FarrisShap:2011}
 ---. 2011, \prd, 84, 024024
 
+\bibitem[{FERMI-GBM(2009)}]{FERMIGBM:2009}
+FERMI-GBM. 2009, FERMI GBM characteristics - http://gammaray.msfc.nasa.gov/gbm/
+
+\bibitem[{FERMI-GBM(2015)}]{FERMIGBM:2015}
+---. 2015, FERMI GBM characteristics - http://gammaray.msfc.nasa.gov/gbm/
+
 \bibitem[{{Ferrarese} \& {Ford}(2005)}]{ff05}
 {Ferrarese}, L., \& {Ford}, H. 2005, \ssr, 116, 523
 
@@ -825,6 +822,9 @@ Landau, L.~D., \& Lifschitz, E.~M. 1959, Fluid Mechanics (Addison-Wesley)
 \bibitem[{{Li} {et~al.}(2016){Li}, {Wang}, {Ho}, {Lu}, {Qiu}, {Du}, {Hu},
   {Huang}, {Zhang}, {Wang}, \& {Bai}}]{LiWang:2016}
 {Li}, Y.-R., {Wang}, J.-M., {Ho}, L.~C., {et~al.} 2016, \apj, 822, 4
+
+\bibitem[{LIGO-India(2015)}]{LIGOIndia}
+LIGO-India. 2015, http://gw-indigo.org/
 
 \bibitem[{{LIGO Scientific Collaboration} {et~al.}(2015){LIGO Scientific
   Collaboration}, {Aasi}, {Abbott}, {Abbott}, {Abbott}, {Abernathy}, {Ackley},
