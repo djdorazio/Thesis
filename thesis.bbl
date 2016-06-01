@@ -46,6 +46,9 @@ Andrade-Santos, F., Bogdan, A., Romani, R.~W., {et~al.} 2016,
   {Bailer-Jones}}]{Andrae+2013}
 {Andrae}, R., {Kim}, D.-W., \& {Bailer-Jones}, C.~A.~L. 2013, \aap, 554, A137
 
+\bibitem[{{Antonucci}(1993)}]{Antonucci:1993}
+{Antonucci}, R. 1993, \araa, 31, 473
+
 \bibitem[{{Armitage} \& {Natarajan}(2002)}]{ArmNat:2002:ApJL}
 {Armitage}, P.~J., \& {Natarajan}, P. 2002, \apjl, 567, L9
 
@@ -102,6 +105,9 @@ Barnes, J.~E., \& Hernquist, L. 1996, \apj, 471, 115
 \bibitem[{{Baruteau} {et~al.}(2012){Baruteau}, {Ramirez-Ruiz}, \&
   {Masset}}]{Baruteau:2012}
 {Baruteau}, C., {Ramirez-Ruiz}, E., \& {Masset}, F. 2012, \mnras, 423, L65
+
+\bibitem[{{Barvainis}(1987)}]{Barvainis:1987}
+{Barvainis}, R. 1987, \apj, 320, 537
 
 \bibitem[{{Baumgarte} \& {Shapiro}(2003)}]{BaumShap:2003}
 {Baumgarte}, T.~W., \& {Shapiro}, S.~L. 2003, \apj, 585, 930
@@ -403,6 +409,9 @@ Dunhill, A.~C., Alexander, R.~D., Nixon, C.~J., \& King, A.~R. 2014, Monthly
 \bibitem[{{Edgar}(2008)}]{Edgar:2008}
 ---. 2008, ArXiv e-prints, arXiv:0807.0625
 
+\bibitem[{Elitzur(2006)}]{Elitzur:2006}
+Elitzur, M. 2006, New Astronomy Reviews, 50, 728
+
 \bibitem[{{Ellis} {et~al.}(2012){Ellis}, {Siemens}, \&
   {Creighton}}]{EllisSiemens:2012}
 {Ellis}, J.~A., {Siemens}, X., \& {Creighton}, J.~D.~E. 2012, \apj, 756, 175
@@ -571,6 +580,15 @@ Goodman, J. 2003, \mnras, 339, 937
   {Christensen}}]{Graham+2015b}
 ---. 2015{\natexlab{b}}, \mnras, 453, 1562
 
+\bibitem[{Granato \& Danese(1994)}]{GranatoDanese:1994}
+Granato, G.~L., \& Danese, L. 1994, Monthly Notices of the Royal Astronomical
+  Society, 268, 235
+
+\bibitem[{Granato {et~al.}(1997)Granato, Danese, \&
+  Franceschini}]{Granato:1997}
+Granato, G.~L., Danese, L., \& Franceschini, A. 1997, The Astrophysical
+  Journal, 486, 147
+
 \bibitem[{{Haehnelt} \& {Kauffmann}(2002)}]{HK2002}
 {Haehnelt}, M.~G., \& {Kauffmann}, G. 2002, \mnras, 336, L61
 
@@ -652,6 +670,9 @@ Hirata, K., Kajita, T., Koshiba, M., Nakahata, M., \& Oyama, Y. 1987, Physical
 \bibitem[{Holz \& Hughes(2005)}]{HolzHughes:2005}
 Holz, D.~E., \& Hughes, S.~A. 2005, The Astrophysical Journal, 629, 15
 
+\bibitem[{{H{\"o}nig} \& {Kishimoto}(2010)}]{HonigII:2010}
+{H{\"o}nig}, S.~F., \& {Kishimoto}, M. 2010, \aap, 523, A27
+
 \bibitem[{{Hopkins} {et~al.}(2007){Hopkins}, {Bundy}, {Hernquist}, \&
   {Ellis}}]{Hopkins2007a}
 {Hopkins}, P.~F., {Bundy}, K., {Hernquist}, L., \& {Ellis}, R.~S. 2007, \apj,
@@ -684,6 +705,10 @@ Jackson, J.~D. 1991, Classical Electrodynamics, 3rd edn. (New Jersey, USA: John
 
 \bibitem[{{Jiang} {et~al.}(2014){Jiang}, {Stone}, \& {Davis}}]{Jiang+2014}
 {Jiang}, Y.-F., {Stone}, J.~M., \& {Davis}, S.~W. 2014, \apj, 796, 106
+
+\bibitem[{Jun {et~al.}(2015)Jun, Stern, Graham, Djorgovski, Mainzer, Cutri,
+  Drake, \& Mahabal}]{Jun:2015}
+Jun, H.~D., Stern, D., Graham, M.~J., {et~al.} 2015, arXiv.org, 1511.01515v1
 
 \bibitem[{{Kanagawa} {et~al.}(2015){Kanagawa}, {Tanaka}, {Muto}, {Tanigawa}, \&
   {Takeuchi}}]{Kanagawa:2015}
@@ -771,6 +796,9 @@ Komossa, S. 2006, Memorie della Societ{\`a} Astronomica Italiana, 77, 733
 \bibitem[{Krolak \& Schutz(1987)}]{KrolakSchutz:1987}
 Krolak, A., \& Schutz, B.~F. 1987, General Relativity and Gravitation, 19, 1163
 
+\bibitem[{Krolik \& Begelman(1988)}]{KrolikBegelman:1988}
+Krolik, J.~H., \& Begelman, M.~C. 1988, Astrophysical Journal, 329, 702
+
 \bibitem[{{Lai}(2012)}]{DLai:2012}
 {Lai}, D. 2012, \apjl, 757, L3
 
@@ -786,6 +814,9 @@ Krolak, A., \& Schutz, B.~F. 1987, General Relativity and Gravitation, 19, 1163
 
 \bibitem[{Landau \& Lifschitz(1959)}]{LandauLifschitz:Fluids}
 Landau, L.~D., \& Lifschitz, E.~M. 1959, Fluid Mechanics (Addison-Wesley)
+
+\bibitem[{{Laor} \& {Draine}(1993)}]{LaorDraine:1993}
+{Laor}, A., \& {Draine}, B.~T. 1993, \apj, 402, 441
 
 \bibitem[{{Law} {et~al.}(2009){Law}, {Kulkarni}, {Dekany}, {Ofek}, {Quimby},
   {Nugent}, {Surace}, {Grillmair}, {Bloom}, {Kasliwal}, {Bildsten}, {Brown},
@@ -926,6 +957,10 @@ MacFadyen, A.~I., \& Milosavljevi{\'c}, M. 2008, \apj, 672, 83
 Mandel, I., \& O'Shaughnessy, R. 2010, Classical and Quantum Gravity, 27,
   114007
 
+\bibitem[{Manske {et~al.}(1998)Manske, Henning, \& Men'shchikov}]{Manske:1998}
+Manske, V., Henning, T., \& Men'shchikov, A.~B. 1998, Astronomy and
+  Astrophysics, 331, 52
+
 \bibitem[{{Martini}(2004)}]{PMartini:2004}
 {Martini}, P. 2004, Coevolution of Black Holes and Galaxies, 169
 
@@ -975,6 +1010,12 @@ Milosavljevi{\'c}, M., \& Phinney, E.~S. 2005, \apj, 622, L93
   {Lazio}}]{Chiara:2015}
 {Mingarelli}, C.~M.~F., {Levin}, J., \& {Lazio}, T.~J.~W. 2015, \apjl, 814, L20
 
+\bibitem[{{Mor} \& {Netzer}(2012)}]{MorNetzer:2012}
+{Mor}, R., \& {Netzer}, H. 2012, \mnras, 420, 526
+
+\bibitem[{{Mor} \& {Trakhtenbrot}(2011)}]{MorTrakhtenbrot:2011}
+{Mor}, R., \& {Trakhtenbrot}, B. 2011, \apjl, 737, L36
+
 \bibitem[{Mu{\~n}oz \& Lai(2016)}]{MunozLai:2016}
 Mu{\~n}oz, D.~J., \& Lai, D. 2016, arXiv.org, arXiv:1604.00004
 
@@ -1002,6 +1043,23 @@ Mu{\~n}oz, D.~J., \& Lai, D. 2016, arXiv.org, arXiv:1604.00004
   {Kley}}]{NelsonKley:2000}
 {Nelson}, R.~P., {Papaloizou}, J.~C.~B., {Masset}, F., \& {Kley}, W. 2000,
   \mnras, 318, 18
+
+\bibitem[{Nenkova {et~al.}(2002)Nenkova, Ivezic, \& Elitzur}]{Nenkova:2002}
+Nenkova, M., Ivezic, Z., \& Elitzur, M. 2002, The Astrophysical Journal, 570,
+  L9
+
+\bibitem[{{Nenkova} {et~al.}(2008{\natexlab{a}}){Nenkova}, {Sirocky},
+  {Ivezi{\'c}}, \& {Elitzur}}]{NenkovaI:2008}
+{Nenkova}, M., {Sirocky}, M.~M., {Ivezi{\'c}}, {\v Z}., \& {Elitzur}, M.
+  2008{\natexlab{a}}, \apj, 685, 147
+
+\bibitem[{{Nenkova} {et~al.}(2008{\natexlab{b}}){Nenkova}, {Sirocky},
+  {Nikutta}, {Ivezi{\'c}}, \& {Elitzur}}]{NenkovaII:2008}
+{Nenkova}, M., {Sirocky}, M.~M., {Nikutta}, R., {Ivezi{\'c}}, {\v Z}., \&
+  {Elitzur}, M. 2008{\natexlab{b}}, \apj, 685, 160
+
+\bibitem[{{Netzer}(2015)}]{Netzer:2015:rev}
+{Netzer}, H. 2015, \araa, 53, 365
 
 \bibitem[{Nishizawa {et~al.}(2011)Nishizawa, Taruya, \&
   Saito}]{Nishizawa:StndSirens:2011}
@@ -1109,6 +1167,12 @@ Phinney, E.~S. 2009, Astro2010: The Astronomy and Astrophysics Decadal Survey,
 \bibitem[{{Pichardo} {et~al.}(2005){Pichardo}, {Sparke}, \&
   {Aguilar}}]{PSA:2005}
 {Pichardo}, B., {Sparke}, L.~S., \& {Aguilar}, L.~A. 2005, \mnras, 359, 521
+
+\bibitem[{Pier \& Krolik(1992)}]{PierKrolikI:1992b}
+Pier, E.~A., \& Krolik, J.~H. 1992, Astrophysical Journal, 401, 99
+
+\bibitem[{Pier \& Krolik(1993)}]{PierKrolikII:1993}
+---. 1993, Astrophysical Journal v.418, 418, 673
 
 \bibitem[{{Piro}(2012)}]{Piro:2012}
 {Piro}, A.~L. 2012, \apj, 755, 80
@@ -1226,6 +1290,10 @@ Rodriguez, C., Taylor, G.~B., Zavala, R.~T., {et~al.} 2006, The Astrophysical
 {Rossi}, E.~M., {Lodato}, G., {Armitage}, P.~J., {Pringle}, J.~E., \& {King},
   A.~R. 2010, \mnras, 401, 2021
 
+\bibitem[{Rowan-Robinson(1995)}]{RowanRobinson:1995}
+Rowan-Robinson, M. 1995, Monthly Notices of the Royal Astronomical Society,
+  272, 737
+
 \bibitem[{{Rudak} \& {Paczynski}(1981)}]{RP:Excretion:1981}
 {Rudak}, B., \& {Paczynski}, B. 1981, \actaa, 31, 13
 
@@ -1238,6 +1306,11 @@ Rodriguez, C., Taylor, G.~B., Zavala, R.~T., {et~al.} 2006, The Astrophysical
 \bibitem[{Saslaw {et~al.}(1974)Saslaw, Valtonen, \& Aarseth}]{Saslaw:1974}
 Saslaw, W.~C., Valtonen, M.~J., \& Aarseth, S.~J. 1974, Astrophysical Journal,
   190, 253
+
+\bibitem[{Schartmann {et~al.}(2005)Schartmann, Meisenheimer, Camenzind, Wolf,
+  \& Henning}]{Schartmann:2005}
+Schartmann, M., Meisenheimer, K., Camenzind, M., Wolf, S., \& Henning, T. 2005,
+  arXiv.org, 861
 
 \bibitem[{{Schmidt}(1963)}]{Schmidt:1963}
 {Schmidt}, M. 1963, \nat, 197, 1040
@@ -1396,6 +1469,9 @@ Taylor, S.~R., \& Gair, J.~R. 2012, Physical Review D, 86, 023502
 
 \bibitem[{{Valtonen} {et~al.}(2008)}]{Valtonen+2008}
 {Valtonen}, M.~J., {et~al.} 2008, \nat, 452, 851
+
+\bibitem[{van Bemmel \& Dullemond(2003)}]{vanBemmelDullemond:2003}
+van Bemmel, I.~M., \& Dullemond, C.~P. 2003, Astronomy and Astrophysics, 404, 1
 
 \bibitem[{{van Kerkwijk} {et~al.}(2010){van Kerkwijk}, {Rappaport}, {Breton},
   {Justham}, {Podsiadlowski}, \& {Han}}]{Kerkwijk+2010}

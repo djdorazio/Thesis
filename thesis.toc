@@ -1,6 +1,6 @@
-\contentsline {chapter}{List of Figures}{vi}{chapter*.1}
-\contentsline {chapter}{List of Tables}{xxxi}{chapter*.2}
-\contentsline {chapter}{Acknowledgements}{xxxii}{chapter*.3}
+\contentsline {chapter}{List of Figures}{vii}{chapter*.1}
+\contentsline {chapter}{List of Tables}{xxxiv}{chapter*.2}
+\contentsline {chapter}{Acknowledgements}{xxxv}{chapter*.3}
 \contentsline {chapter}{\numberline {1}Overview}{1}{chapter.1}
 \contentsline {subsection}{\numberline {1.0.1}The gravitational side}{2}{subsection.1.0.1}
 \contentsline {subsection}{\numberline {1.0.2}The electromagnetic side}{6}{subsection.1.0.2}
@@ -76,34 +76,49 @@
 \contentsline {subsection}{\numberline {5.0.3}Disk Precession.}{173}{subsection.5.0.3}
 \contentsline {subsection}{\numberline {5.0.4}Archival UV data.}{174}{subsection.5.0.4}
 \contentsline {chapter}{\numberline {6}A Lighthouse in the Dust}{179}{chapter.6}
-\contentsline {part}{II\hspace {1em}Neutron Star - Black Hole Binaries}{180}{part.2}
-\contentsline {chapter}{\numberline {7}Rindler Dipoles}{182}{chapter.7}
-\contentsline {section}{\numberline {7.1}Introduction}{182}{section.7.1}
-\contentsline {section}{\numberline {7.2}Set-up and Limits}{185}{section.7.2}
-\contentsline {subsection}{\numberline {7.2.1}Rindler Spacetime}{185}{subsection.7.2.1}
-\contentsline {subsection}{\numberline {7.2.2}Electrodynamical Properties of an Event Horizon and the Horizon Battery}{188}{subsection.7.2.2}
-\contentsline {section}{\numberline {7.3}A magnetic Dipole in arbitrary motion}{192}{section.7.3}
-\contentsline {subsection}{\numberline {7.3.1}The Electromagnetic Four-Potential}{192}{subsection.7.3.1}
-\contentsline {section}{\numberline {7.4}A Freely Falling Dipole Solution}{199}{section.7.4}
-\contentsline {section}{\numberline {7.5}A Boosted, Freely Falling Dipole Solution}{205}{section.7.5}
-\contentsline {section}{\numberline {7.6}Rindler Dipole}{214}{section.7.6}
-\contentsline {section}{\numberline {7.7}Rindler Dipole Boosted Parallel to the Horizon}{218}{section.7.7}
-\contentsline {section}{\numberline {7.8}Consequences for the BH-NS Binary}{224}{section.7.8}
-\contentsline {subsection}{\numberline {7.8.1}Voltage, Luminosity, and Energy}{224}{subsection.7.8.1}
-\contentsline {subsection}{\numberline {7.8.2}NS plummet into a SMBH}{234}{subsection.7.8.2}
-\contentsline {section}{\numberline {7.9}Conclusions}{239}{section.7.9}
-\contentsline {section}{\numberline {7.10}Detailed Solution to the Field Equations}{242}{section.7.10}
-\contentsline {subsection}{\numberline {7.10.1}Point Charge}{243}{subsection.7.10.1}
-\contentsline {subsection}{\numberline {7.10.2}A General Dipole Solution}{245}{subsection.7.10.2}
-\contentsline {section}{\numberline {7.11}Dipole Moments}{250}{section.7.11}
-\contentsline {chapter}{\numberline {8}Bright Transients from Black Hole - Neutron Star Mergers}{254}{chapter.8}
-\contentsline {section}{\numberline {8.1}introduction}{254}{section.8.1}
-\contentsline {subsection}{\numberline {8.1.1}The power of the battery}{256}{subsection.8.1.1}
-\contentsline {section}{\numberline {8.2}Curvature radiation}{261}{section.8.2}
-\contentsline {section}{\numberline {8.3}Fireball}{265}{section.8.3}
-\contentsline {subsection}{\numberline {8.3.1}pair production}{266}{subsection.8.3.1}
-\contentsline {subsection}{\numberline {8.3.2}Expansion and Emission}{269}{subsection.8.3.2}
-\contentsline {section}{\numberline {8.4}Post Merger}{274}{section.8.4}
-\contentsline {section}{\numberline {8.5}Observability}{276}{section.8.5}
-\contentsline {section}{\numberline {8.6}Conclusion}{280}{section.8.6}
-\contentsline {section}{\numberline {8.7}Parameter Dependence of Curvature Spectra}{281}{section.8.7}
+\contentsline {section}{\numberline {6.1}Introduction}{179}{section.6.1}
+\contentsline {section}{\numberline {6.2}Model Setup}{182}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}The Dust}{182}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}MBHB Central Source}{183}{subsection.6.2.2}
+\contentsline {subsection}{\numberline {6.2.3}System Scales}{185}{subsection.6.2.3}
+\contentsline {section}{\numberline {6.3}Model Derivation}{186}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}Isotropic Emission From a Central Source}{186}{subsection.6.3.1}
+\contentsline {subsubsection}{\numberline {6.3.1.1}Spherical Dust Shell}{186}{subsubsection.6.3.1.1}
+\contentsline {subsubsection}{\numberline {6.3.1.2}Torus Shell}{189}{subsubsection.6.3.1.2}
+\contentsline {subsection}{\numberline {6.3.2}Non-Isotropic, Doppler Boosted Emission - The Lighthouse}{190}{subsection.6.3.2}
+\contentsline {section}{\numberline {6.4}Results}{192}{section.6.4}
+\contentsline {subsection}{\numberline {6.4.1}Sphere}{192}{subsection.6.4.1}
+\contentsline {subsection}{\numberline {6.4.2}Geometrically Thin Torus}{198}{subsection.6.4.2}
+\contentsline {section}{\numberline {6.5}Discussion and Conclusion}{201}{section.6.5}
+\contentsline {section}{\numberline {6.6}Conclusions}{207}{section.6.6}
+\contentsline {part}{II\hspace {1em}Neutron Star - Black Hole Binaries}{208}{part.2}
+\contentsline {chapter}{\numberline {7}Rindler Dipoles}{210}{chapter.7}
+\contentsline {section}{\numberline {7.1}Introduction}{210}{section.7.1}
+\contentsline {section}{\numberline {7.2}Set-up and Limits}{213}{section.7.2}
+\contentsline {subsection}{\numberline {7.2.1}Rindler Spacetime}{213}{subsection.7.2.1}
+\contentsline {subsection}{\numberline {7.2.2}Electrodynamical Properties of an Event Horizon and the Horizon Battery}{216}{subsection.7.2.2}
+\contentsline {section}{\numberline {7.3}A magnetic Dipole in arbitrary motion}{220}{section.7.3}
+\contentsline {subsection}{\numberline {7.3.1}The Electromagnetic Four-Potential}{220}{subsection.7.3.1}
+\contentsline {section}{\numberline {7.4}A Freely Falling Dipole Solution}{227}{section.7.4}
+\contentsline {section}{\numberline {7.5}A Boosted, Freely Falling Dipole Solution}{233}{section.7.5}
+\contentsline {section}{\numberline {7.6}Rindler Dipole}{242}{section.7.6}
+\contentsline {section}{\numberline {7.7}Rindler Dipole Boosted Parallel to the Horizon}{246}{section.7.7}
+\contentsline {section}{\numberline {7.8}Consequences for the BH-NS Binary}{252}{section.7.8}
+\contentsline {subsection}{\numberline {7.8.1}Voltage, Luminosity, and Energy}{252}{subsection.7.8.1}
+\contentsline {subsection}{\numberline {7.8.2}NS plummet into a SMBH}{262}{subsection.7.8.2}
+\contentsline {section}{\numberline {7.9}Conclusions}{267}{section.7.9}
+\contentsline {section}{\numberline {7.10}Detailed Solution to the Field Equations}{270}{section.7.10}
+\contentsline {subsection}{\numberline {7.10.1}Point Charge}{271}{subsection.7.10.1}
+\contentsline {subsection}{\numberline {7.10.2}A General Dipole Solution}{273}{subsection.7.10.2}
+\contentsline {section}{\numberline {7.11}Dipole Moments}{278}{section.7.11}
+\contentsline {chapter}{\numberline {8}Bright Transients from Black Hole - Neutron Star Mergers}{282}{chapter.8}
+\contentsline {section}{\numberline {8.1}introduction}{282}{section.8.1}
+\contentsline {subsection}{\numberline {8.1.1}The power of the battery}{284}{subsection.8.1.1}
+\contentsline {section}{\numberline {8.2}Curvature radiation}{289}{section.8.2}
+\contentsline {section}{\numberline {8.3}Fireball}{293}{section.8.3}
+\contentsline {subsection}{\numberline {8.3.1}pair production}{294}{subsection.8.3.1}
+\contentsline {subsection}{\numberline {8.3.2}Expansion and Emission}{297}{subsection.8.3.2}
+\contentsline {section}{\numberline {8.4}Post Merger}{302}{section.8.4}
+\contentsline {section}{\numberline {8.5}Observability}{304}{section.8.5}
+\contentsline {section}{\numberline {8.6}Conclusion}{308}{section.8.6}
+\contentsline {section}{\numberline {8.7}Parameter Dependence of Curvature Spectra}{309}{section.8.7}
