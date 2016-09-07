@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  1 JUN 2016 19:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  7 SEP 2016 10:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -731,9 +731,6 @@ Package: setspace 2011/12/19 v6.7a set line spacing
 ))
 (./thesis.aux
 
-LaTeX Warning: Label `Table:params' multiply defined.
-
-
 LaTeX Warning: Label `Eq:nullrepeat' multiply defined.
 
 
@@ -856,11 +853,11 @@ LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
 (./abstract.tex
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 4.
-LaTeX Font Info:    Try loading font information for U+msa on input line 38.
+LaTeX Font Info:    Try loading font information for U+msa on input line 40.
  (/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 38.
+LaTeX Font Info:    Try loading font information for U+msb on input line 40.
 (/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )) [0
@@ -960,13 +957,18 @@ ar bi-nary (solid black curves),
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [23]
+Overfull \hbox (11.45961pt too wide) in paragraph at lines 56--56
+ [][] [][][]\T1/ptm/m/n/12 The frac-tional am-pli-tude of IR vari-abil-ity $\OM
+L/cmm/m/it/12 A[] \OT1/cmr/m/n/12 = ^^A\OML/cmm/m/it/12 L[]=L[]$ \T1/ptm/m/n/12
+ rel-a-tive to the UV/optical 
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [24]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [25]
-Overfull \hbox (13.7192pt too wide) in paragraph at lines 67--67
+[25]
+Overfull \hbox (13.7192pt too wide) in paragraph at lines 68--68
  [][] [][][]\T1/ptm/m/n/12 Diagram demon-strat-ing the re-la-tion-ship be-tween
  source tra-jec-tory co-or-di-nates $\OML/cmm/m/it/12 X[]\OT1/cmr/m/n/12 (\OML/
 cmm/m/it/12 ^^\\OT1/cmr/m/n/12 )$\T1/ptm/m/n/12 , 
@@ -979,7 +981,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [27]
-Overfull \hbox (0.28114pt too wide) in paragraph at lines 76--76
+Overfull \hbox (0.28114pt too wide) in paragraph at lines 77--77
  [][] [][][]\T1/ptm/m/n/12 Spacetime di-a-gram in the Rindler frame de-pict-ing
  the world-line of a source boosted 
  []
@@ -991,7 +993,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [29]
-Overfull \hbox (13.45058pt too wide) in paragraph at lines 81--81
+Overfull \hbox (13.45058pt too wide) in paragraph at lines 82--82
  \T1/ptm/m/n/12 most y-axis la-bels). Lu-mi-nosi-ties and volt-ages are com-put
 ed for $\OML/cmm/m/it/12 M \OT1/cmr/m/n/12 = 10\OML/cmm/m/it/12 M[]; \OT1/cmr/m
 /n/12 10[]\OML/cmm/m/it/12 M[]$\T1/ptm/m/n/12 , 
@@ -1001,7 +1003,7 @@ ed for $\OML/cmm/m/it/12 M \OT1/cmr/m/n/12 = 10\OML/cmm/m/it/12 M[]; \OT1/cmr/m
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [30]
-Overfull \hbox (2.76482pt too wide) in paragraph at lines 85--85
+Overfull \hbox (2.76482pt too wide) in paragraph at lines 86--86
  \T1/ptm/m/n/12 black sphere de-picts the BH hori-zon or-bit-ing out of the pag
 e. In green is a schematic 
  []
@@ -1034,68 +1036,66 @@ mm/m/it/12 :\OT1/cmr/m/n/12 24\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 0\OML/cmm/m/it
 \tf@lot=\write7
 \openout7 = `thesis.lot'.
 
- (./acknowledge.tex
+
 Underfull \vbox (badness 4242) has occurred while \output is active []
 
  [34
 
 ]
-[35] [36]) [37] (./chapters/ch0_introduction.tex
+(./acknowledge.tex [35] [36]) [37] (./chapters/ch0_introduction.tex
 Chapter 1.
 [1
 
 ]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 56.
+(hyperref)                than one, level fixed on input line 159.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [2]
-[3]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 5954) has occurred while \output is active []
 
- [4]
+ [3]
+[4]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [5]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+[6]
+Underfull \vbox (badness 6236) has occurred while \output is active []
 
- [6]
-[7] [8] [9]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+ [7]
+[8] [9] [10]
+Underfull \vbox (badness 6236) has occurred while \output is active []
 
- [10]
-[11] <figures/ch0/TypeI_Duffell.png, id=1898, 300.12125pt x 300.12125pt>
+ [11]
+[12] <figures/ch0/TypeI_Duffell.png, id=1940, 300.12125pt x 300.12125pt>
 File: figures/ch0/TypeI_Duffell.png Graphic file (type png)
 
 <use figures/ch0/TypeI_Duffell.png>
-Package pdftex.def Info: figures/ch0/TypeI_Duffell.png used on input line 427.
+Package pdftex.def Info: figures/ch0/TypeI_Duffell.png used on input line 569.
 (pdftex.def)             Requested size: 88.23734pt x 88.23734pt.
 
-<figures/ch0/JupiterTypeII.png, id=1899, 215.3646pt x 219.7008pt>
+<figures/ch0/JupiterTypeII.png, id=1941, 215.3646pt x 219.7008pt>
 File: figures/ch0/JupiterTypeII.png Graphic file (type png)
 
 <use figures/ch0/JupiterTypeII.png>
-Package pdftex.def Info: figures/ch0/JupiterTypeII.png used on input line 429.
+Package pdftex.def Info: figures/ch0/JupiterTypeII.png used on input line 571.
 (pdftex.def)             Requested size: 86.1443pt x 87.87875pt.
 
-<figures/ch0/q1_CentralCav.png, id=1901, 216.81pt x 218.9781pt>
+<figures/ch0/q1_CentralCav.png, id=1943, 216.81pt x 218.9781pt>
 File: figures/ch0/q1_CentralCav.png Graphic file (type png)
 
 <use figures/ch0/q1_CentralCav.png>
-Package pdftex.def Info: figures/ch0/q1_CentralCav.png used on input line 431.
+Package pdftex.def Info: figures/ch0/q1_CentralCav.png used on input line 573.
 (pdftex.def)             Requested size: 86.72246pt x 87.58968pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [12 <./figures/ch0/TypeI_Duffell.png> <./figures/ch0/JupiterTypeII.png> <./fig
+ [13 <./figures/ch0/TypeI_Duffell.png> <./figures/ch0/JupiterTypeII.png> <./fig
 ures/ch0/q1_CentralCav.png>]
 Underfull \vbox (badness 1297) has occurred while \output is active []
-
- [13]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [14]
 Underfull \vbox (badness 6236) has occurred while \output is active []
@@ -1104,74 +1104,76 @@ Underfull \vbox (badness 6236) has occurred while \output is active []
 Underfull \vbox (badness 6236) has occurred while \output is active []
 
  [16]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 6236) has occurred while \output is active []
 
  [17]
-Underfull \vbox (badness 1297) has occurred while \output is active []
+Underfull \vbox (badness 6236) has occurred while \output is active []
 
  [18]
-
-LaTeX Warning: Reference `ch:PG132_a' on page 19 undefined on input line 706.
-
-<figures/ch0/PTF_xsiGtr1_vs_z_M_P_alph_I90.pdf, id=2185, 433.62pt x 433.62pt>
+[19]
+<figures/ch0/PTF_xsiGtr1_vs_z_M_P_alph_I90.pdf, id=2239, 433.62pt x 433.62pt>
 File: figures/ch0/PTF_xsiGtr1_vs_z_M_P_alph_I90.pdf Graphic file (type pdf)
 
 <use figures/ch0/PTF_xsiGtr1_vs_z_M_P_alph_I90.pdf>
 Package pdftex.def Info: figures/ch0/PTF_xsiGtr1_vs_z_M_P_alph_I90.pdf used on 
-input line 733.
+input line 875.
 (pdftex.def)             Requested size: 238.49173pt x 238.49173pt.
 
-Overfull \hbox (3.61424pt too wide) in paragraph at lines 733--734
+Overfull \hbox (3.61424pt too wide) in paragraph at lines 875--876
  [] 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [19]
+ [20]
 Underfull \vbox (badness 2846) has occurred while \output is active []
 
- [20 <./figures/ch0/PTF_xsiGtr1_vs_z_M_P_alph_I90.pdf>]
-Underfull \vbox (badness 2237) has occurred while \output is active []
+ [21 <./figures/ch0/PTF_xsiGtr1_vs_z_M_P_alph_I90.pdf>]
+Overfull \hbox (60.77188pt too wide) in paragraph at lines 913--934
+\T1/ptm/m/n/12 vari-abil-ity (\T1/ptm/m/it/12 e.g. \T1/ptm/m/n/12 OJ 287 ([][]L
+ehto & Val-to-nen[][] [][]1996[][]) and the tidal dis-rup-tion can-di-date SDSS
+ J120136.02+300305.5
+ []
 
- [21]
-Underfull \vbox (badness 1342) has occurred while \output is active []
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [22]
-<figures/ch0/BHNS_TDs.pdf, id=2369, 506.14865pt x 504.72014pt>
+[23] <figures/ch0/BHNS_TDs.pdf, id=2431, 506.14865pt x 504.72014pt>
 File: figures/ch0/BHNS_TDs.pdf Graphic file (type pdf)
 
 <use figures/ch0/BHNS_TDs.pdf>
-Package pdftex.def Info: figures/ch0/BHNS_TDs.pdf used on input line 899.
+Package pdftex.def Info: figures/ch0/BHNS_TDs.pdf used on input line 1053.
 (pdftex.def)             Requested size: 167.02957pt x 166.55815pt.
 
-Underfull \hbox (badness 1424) in paragraph at lines 901--901
+Underfull \hbox (badness 1424) in paragraph at lines 1055--1055
 []\T1/ptm/m/n/12 Figure 1.3: |Ap-prox-i-mate val-ues of
  []
 
-[23]
+[24]
 Underfull \vbox (badness 6236) has occurred while \output is active []
 
- [24 <./figures/ch0/BHNS_TDs.pdf>] [25]
-<figures/ch0/UI_schematic.pdf, id=2539, 389.21208pt x 326.78786pt>
+ [25 <./figures/ch0/BHNS_TDs.pdf>] [26]
+<figures/ch0/UI_schematic.pdf, id=2598, 389.21208pt x 326.78786pt>
 File: figures/ch0/UI_schematic.pdf Graphic file (type pdf)
 
 <use figures/ch0/UI_schematic.pdf>
-Package pdftex.def Info: figures/ch0/UI_schematic.pdf used on input line 1007.
+Package pdftex.def Info: figures/ch0/UI_schematic.pdf used on input line 1161.
 (pdftex.def)             Requested size: 128.44038pt x 107.84032pt.
- [26 <./figures/ch0/UI_schematic.pdf>]
+ [27 <./figures/ch0/UI_schematic.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [27]
-Underfull \vbox (badness 6236) has occurred while \output is active []
-
  [28]
-[29]) (./chapters/PartI.tex [30] [31
+Underfull \vbox (badness 2626) has occurred while \output is active []
+
+ [29]
+[30]) (./chapters/PartI.tex [31] [32
 
 ]) (./chapters/ch1_CavAccretion.tex
-[32]
+[33]
 Chapter 2.
-[33
+[34
 
 ]
 Overfull \hbox (17.00833pt too wide) in paragraph at lines 141--166
@@ -1182,35 +1184,35 @@ Overfull \hbox (17.00833pt too wide) in paragraph at lines 141--166
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [34]
-[35]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [36]
+ [35]
+[36]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [37]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [38]
-Underfull \vbox (badness 3260) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [39]
-[40]
+Underfull \vbox (badness 3260) has occurred while \output is active []
+
+ [40]
+[41]
 
 LaTeX Warning: Float too large for page by 56.8438pt on input line 424.
 
-[41] [42]
+[42] [43]
 Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [43]
-Underfull \vbox (badness 4556) has occurred while \output is active []
 
  [44]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 4556) has occurred while \output is active []
 
  [45]
-<figures//ch1//binary4.png, id=2867, 576.2328pt x 576.2328pt>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [46]
+<figures//ch1//binary4.png, id=2925, 576.2328pt x 576.2328pt>
 File: figures//ch1//binary4.png Graphic file (type png)
 
 <use figures//ch1//binary4.png>
@@ -1219,11 +1221,11 @@ Package pdftex.def Info: figures//ch1//binary4.png used on input line 607.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [46 <./figures//ch1//binary4.png>] [47]
+ [47 <./figures//ch1//binary4.png>] [48]
 Underfull \vbox (badness 2626) has occurred while \output is active []
 
- [48]
-<figures/ch1/Stream_AsymmMode_3panel.pdf, id=2888, 1026.36005pt x 368.32788pt>
+ [49]
+<figures/ch1/Stream_AsymmMode_3panel.pdf, id=2946, 1026.36005pt x 368.32788pt>
 File: figures/ch1/Stream_AsymmMode_3panel.pdf Graphic file (type pdf)
 
 <use figures/ch1/Stream_AsymmMode_3panel.pdf>
@@ -1233,10 +1235,10 @@ line 730.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [49]
-[50 <./figures/ch1/Stream_AsymmMode_3panel.pdf>]
+ [50]
+[51 <./figures/ch1/Stream_AsymmMode_3panel.pdf>]
 <figures/ch1/2DDens_q1_Danvisc_MM_a01_M1G_100a_r24y78_FIG_2000_SHARP_STREAMINSE
-T.pdf, id=2954, 389.70273pt x 418.87448pt>
+T.pdf, id=3012, 389.70273pt x 418.87448pt>
 File: figures/ch1/2DDens_q1_Danvisc_MM_a01_M1G_100a_r24y78_FIG_2000_SHARP_STREA
 MINSET.pdf Graphic file (type pdf)
 
@@ -1246,7 +1248,7 @@ Package pdftex.def Info: figures/ch1/2DDens_q1_Danvisc_MM_a01_M1G_100a_r24y78_F
 IG_2000_SHARP_STREAMINSET.pdf used on input line 792.
 (pdftex.def)             Requested size: 132.49716pt x 142.41544pt.
 
-<figures/ch1/2DDens_q1_Danvisc_MM_a01_M1G_100a_r24y78_FIG3_4000.pdf, id=2955, 3
+<figures/ch1/2DDens_q1_Danvisc_MM_a01_M1G_100a_r24y78_FIG3_4000.pdf, id=3013, 3
 90.34633pt x 415.37943pt>
 File: figures/ch1/2DDens_q1_Danvisc_MM_a01_M1G_100a_r24y78_FIG3_4000.pdf Graphi
 c file (type pdf)
@@ -1256,7 +1258,7 @@ Package pdftex.def Info: figures/ch1/2DDens_q1_Danvisc_MM_a01_M1G_100a_r24y78_F
 IG3_4000.pdf used on input line 793.
 (pdftex.def)             Requested size: 132.71599pt x 141.22713pt.
 
-<figures/ch1/2DDens_q05_Danvisc_MM_a01_M1G_100a_r24y78_FIG_4004.pdf, id=2956, 3
+<figures/ch1/2DDens_q05_Danvisc_MM_a01_M1G_100a_r24y78_FIG_4004.pdf, id=3014, 3
 91.1081pt x 415.75743pt>
 File: figures/ch1/2DDens_q05_Danvisc_MM_a01_M1G_100a_r24y78_FIG_4004.pdf Graphi
 c file (type pdf)
@@ -1266,7 +1268,7 @@ Package pdftex.def Info: figures/ch1/2DDens_q05_Danvisc_MM_a01_M1G_100a_r24y78_
 FIG_4004.pdf used on input line 795.
 (pdftex.def)             Requested size: 132.97499pt x 141.35565pt.
 
-<figures/ch1/2DDens_q25_Danvisc_MM_a01_M1G_100a_r24y78_FIG_4004.pdf, id=2957, 3
+<figures/ch1/2DDens_q25_Danvisc_MM_a01_M1G_100a_r24y78_FIG_4004.pdf, id=3015, 3
 90.69615pt x 416.28142pt>
 File: figures/ch1/2DDens_q25_Danvisc_MM_a01_M1G_100a_r24y78_FIG_4004.pdf Graphi
 c file (type pdf)
@@ -1276,7 +1278,7 @@ Package pdftex.def Info: figures/ch1/2DDens_q25_Danvisc_MM_a01_M1G_100a_r24y78_
 FIG_4004.pdf used on input line 796.
 (pdftex.def)             Requested size: 132.83493pt x 141.5338pt.
 
-<figures/ch1/2DDens_q075_Danvisc_MM_a01_M1G_100a_r24y78_FIG_4010.pdf, id=2958, 
+<figures/ch1/2DDens_q075_Danvisc_MM_a01_M1G_100a_r24y78_FIG_4010.pdf, id=3016, 
 389.92134pt x 415.83925pt>
 File: figures/ch1/2DDens_q075_Danvisc_MM_a01_M1G_100a_r24y78_FIG_4010.pdf Graph
 ic file (type pdf)
@@ -1286,7 +1288,7 @@ Package pdftex.def Info: figures/ch1/2DDens_q075_Danvisc_MM_a01_M1G_100a_r24y78
 _FIG_4010.pdf used on input line 797.
 (pdftex.def)             Requested size: 132.57149pt x 141.38347pt.
 
-<figures/ch1/2DDens_q001_Danvisc_MM_a01_M1G_100a_r24y78_FIG_4000.pdf, id=2959, 
+<figures/ch1/2DDens_q001_Danvisc_MM_a01_M1G_100a_r24y78_FIG_4000.pdf, id=3017, 
 390.4197pt x 416.49109pt>
 File: figures/ch1/2DDens_q001_Danvisc_MM_a01_M1G_100a_r24y78_FIG_4000.pdf Graph
 ic file (type pdf)
@@ -1300,7 +1302,7 @@ _FIG_4000.pdf used on input line 798.
 LaTeX Warning: Float too large for page by 24.1094pt on input line 820.
 
 
-<figures/ch1/AzAvg_FulVsc_q1_100a_M1G_alph01_Resr024y78.pdf, id=2962, 650.43pt 
+<figures/ch1/AzAvg_FulVsc_q1_100a_M1G_alph01_Resr024y78.pdf, id=3020, 650.43pt 
 x 505.89pt>
 File: figures/ch1/AzAvg_FulVsc_q1_100a_M1G_alph01_Resr024y78.pdf Graphic file (
 type pdf)
@@ -1309,7 +1311,7 @@ Package pdftex.def Info: figures/ch1/AzAvg_FulVsc_q1_100a_M1G_alph01_Resr024y78
 .pdf used on input line 842.
 (pdftex.def)             Requested size: 253.66667pt x 197.2963pt.
 
-<figures/ch1/AzAvg_FulVsc_q05_100a_M1G_alph01_Resr024y78.pdf, id=2963, 650.43pt
+<figures/ch1/AzAvg_FulVsc_q05_100a_M1G_alph01_Resr024y78.pdf, id=3021, 650.43pt
  x 505.89pt>
 File: figures/ch1/AzAvg_FulVsc_q05_100a_M1G_alph01_Resr024y78.pdf Graphic file 
 (type pdf)
@@ -1318,7 +1320,7 @@ Package pdftex.def Info: figures/ch1/AzAvg_FulVsc_q05_100a_M1G_alph01_Resr024y7
 8.pdf used on input line 843.
 (pdftex.def)             Requested size: 253.66667pt x 197.2963pt.
 
-<figures/ch1/AzAvg_FulVsc_q25_100a_M1G_alph01_Resr024y78.pdf, id=2964, 650.43pt
+<figures/ch1/AzAvg_FulVsc_q25_100a_M1G_alph01_Resr024y78.pdf, id=3022, 650.43pt
  x 505.89pt>
 File: figures/ch1/AzAvg_FulVsc_q25_100a_M1G_alph01_Resr024y78.pdf Graphic file 
 (type pdf)
@@ -1327,7 +1329,7 @@ Package pdftex.def Info: figures/ch1/AzAvg_FulVsc_q25_100a_M1G_alph01_Resr024y7
 8.pdf used on input line 844.
 (pdftex.def)             Requested size: 253.66667pt x 197.2963pt.
 
-<figures/ch1/AzAvg_FulVsc_q001_100a_M1G_alph01_Resr024y78.pdf, id=2965, 650.43p
+<figures/ch1/AzAvg_FulVsc_q001_100a_M1G_alph01_Resr024y78.pdf, id=3023, 650.43p
 t x 505.89pt>
 File: figures/ch1/AzAvg_FulVsc_q001_100a_M1G_alph01_Resr024y78.pdf Graphic file
  (type pdf)
@@ -1344,19 +1346,19 @@ Overfull \hbox (57.57835pt too wide) in paragraph at lines 840--847
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [51]
-[52 <./figures/ch1/2DDens_q1_Danvisc_MM_a01_M1G_100a_r24y78_FIG_2000_SHARP_STRE
+ [52]
+[53 <./figures/ch1/2DDens_q1_Danvisc_MM_a01_M1G_100a_r24y78_FIG_2000_SHARP_STRE
 AMINSET.pdf> <./figures/ch1/2DDens_q1_Danvisc_MM_a01_M1G_100a_r24y78_FIG3_4000.
 pdf> <./figures/ch1/2DDens_q05_Danvisc_MM_a01_M1G_100a_r24y78_FIG_4004.pdf> <./
 figures/ch1/2DDens_q25_Danvisc_MM_a01_M1G_100a_r24y78_FIG_4004.pdf> <./figures/
 ch1/2DDens_q075_Danvisc_MM_a01_M1G_100a_r24y78_FIG_4010.pdf> <./figures/ch1/2DD
-ens_q001_Danvisc_MM_a01_M1G_100a_r24y78_FIG_4000.pdf>] [53 <./figures/ch1/AzAvg
+ens_q001_Danvisc_MM_a01_M1G_100a_r24y78_FIG_4000.pdf>] [54 <./figures/ch1/AzAvg
 _FulVsc_q1_100a_M1G_alph01_Resr024y78.pdf> <./figures/ch1/AzAvg_FulVsc_q05_100a
 _M1G_alph01_Resr024y78.pdf> <./figures/ch1/AzAvg_FulVsc_q25_100a_M1G_alph01_Res
 r024y78.pdf> <./figures/ch1/AzAvg_FulVsc_q001_100a_M1G_alph01_Resr024y78.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [54]
+ [55]
 Package epstopdf Info: Source file: <figures/ch1/TRQDENS_EARLY_FulVsc_a01_q1_Re
 sr24y78.eps>
 (epstopdf)                    date: 2013-03-11 18:18:57
@@ -1371,8 +1373,8 @@ FulVsc_a01_q1_Resr24y78-eps-converted-to.pdf figures/ch1/TRQDENS_EARLY_FulVsc_a
 (epstopdf)             \includegraphics on input line 926.
 Package epstopdf Info: Output file is already uptodate.
 
-<figures/ch1/TRQDENS_EARLY_FulVsc_a01_q1_Resr24y78-eps-converted-to.pdf, id=334
-0, 578.16pt x 433.62pt>
+<figures/ch1/TRQDENS_EARLY_FulVsc_a01_q1_Resr24y78-eps-converted-to.pdf, id=339
+8, 578.16pt x 433.62pt>
 File: figures/ch1/TRQDENS_EARLY_FulVsc_a01_q1_Resr24y78-eps-converted-to.pdf Gr
 aphic file (type pdf)
 
@@ -1394,7 +1396,7 @@ _q1_Resr24y78.eps>
 (epstopdf)             \includegraphics on input line 927.
 Package epstopdf Info: Output file is already uptodate.
 
-<figures/ch1/TRQDENS_LATE_FulVsc_a01_q1_Resr24y78-eps-converted-to.pdf, id=3341
+<figures/ch1/TRQDENS_LATE_FulVsc_a01_q1_Resr24y78-eps-converted-to.pdf, id=3399
 , 578.16pt x 433.62pt>
 File: figures/ch1/TRQDENS_LATE_FulVsc_a01_q1_Resr24y78-eps-converted-to.pdf Gra
 phic file (type pdf)
@@ -1417,8 +1419,8 @@ ulVsc_a01_q05_Resr24y78-eps-converted-to.pdf figures/ch1/TRQDENS_LATE_FulVsc_a0
 (epstopdf)             \includegraphics on input line 929.
 Package epstopdf Info: Output file is already uptodate.
 
-<figures/ch1/TRQDENS_LATE_FulVsc_a01_q05_Resr24y78-eps-converted-to.pdf, id=334
-2, 578.16pt x 433.62pt>
+<figures/ch1/TRQDENS_LATE_FulVsc_a01_q05_Resr24y78-eps-converted-to.pdf, id=340
+0, 578.16pt x 433.62pt>
 File: figures/ch1/TRQDENS_LATE_FulVsc_a01_q05_Resr24y78-eps-converted-to.pdf Gr
 aphic file (type pdf)
 
@@ -1440,8 +1442,8 @@ ulVsc_a01_q01_Resr24y78-eps-converted-to.pdf figures/ch1/TRQDENS_LATE_FulVsc_a0
 (epstopdf)             \includegraphics on input line 930.
 Package epstopdf Info: Output file is already uptodate.
 
-<figures/ch1/TRQDENS_LATE_FulVsc_a01_q01_Resr24y78-eps-converted-to.pdf, id=334
-3, 578.16pt x 433.62pt>
+<figures/ch1/TRQDENS_LATE_FulVsc_a01_q01_Resr24y78-eps-converted-to.pdf, id=340
+1, 578.16pt x 433.62pt>
 File: figures/ch1/TRQDENS_LATE_FulVsc_a01_q01_Resr24y78-eps-converted-to.pdf Gr
 aphic file (type pdf)
 
@@ -1463,8 +1465,8 @@ ulVsc_a01_q005_Resr24y78-eps-converted-to.pdf figures/ch1/TRQDENS_LATE_FulVsc_a
 (epstopdf)             \includegraphics on input line 931.
 Package epstopdf Info: Output file is already uptodate.
 
-<figures/ch1/TRQDENS_LATE_FulVsc_a01_q005_Resr24y78-eps-converted-to.pdf, id=33
-44, 578.16pt x 433.62pt>
+<figures/ch1/TRQDENS_LATE_FulVsc_a01_q005_Resr24y78-eps-converted-to.pdf, id=34
+02, 578.16pt x 433.62pt>
 File: figures/ch1/TRQDENS_LATE_FulVsc_a01_q005_Resr24y78-eps-converted-to.pdf G
 raphic file (type pdf)
 
@@ -1486,8 +1488,8 @@ ulVsc_a01_q001_Resr24y78-eps-converted-to.pdf figures/ch1/TRQDENS_LATE_FulVsc_a
 (epstopdf)             \includegraphics on input line 932.
 Package epstopdf Info: Output file is already uptodate.
 
-<figures/ch1/TRQDENS_LATE_FulVsc_a01_q001_Resr24y78-eps-converted-to.pdf, id=33
-45, 578.16pt x 433.62pt>
+<figures/ch1/TRQDENS_LATE_FulVsc_a01_q001_Resr24y78-eps-converted-to.pdf, id=34
+03, 578.16pt x 433.62pt>
 File: figures/ch1/TRQDENS_LATE_FulVsc_a01_q001_Resr24y78-eps-converted-to.pdf G
 raphic file (type pdf)
 
@@ -1500,7 +1502,7 @@ Package pdftex.def Info: figures/ch1/TRQDENS_LATE_FulVsc_a01_q001_Resr24y78-eps
 LaTeX Warning: Float too large for page by 22.06293pt on input line 952.
 
 
-<figures/ch1/Mdot_vs_t_q1_FulVsc_alph01_ResMidLo.pdf, id=3356, 551.05875pt x 73
+<figures/ch1/Mdot_vs_t_q1_FulVsc_alph01_ResMidLo.pdf, id=3414, 551.05875pt x 73
 1.73375pt>
 File: figures/ch1/Mdot_vs_t_q1_FulVsc_alph01_ResMidLo.pdf Graphic file (type pd
 f)
@@ -1509,7 +1511,7 @@ Package pdftex.def Info: figures/ch1/Mdot_vs_t_q1_FulVsc_alph01_ResMidLo.pdf us
 ed on input line 982.
 (pdftex.def)             Requested size: 209.4045pt x 278.0617pt.
 
-<figures/ch1/Mdot_vs_t_q05_FulVsc_alph01_ResMidLo.pdf, id=3357, 551.05875pt x 7
+<figures/ch1/Mdot_vs_t_q05_FulVsc_alph01_ResMidLo.pdf, id=3415, 551.05875pt x 7
 31.73375pt>
 File: figures/ch1/Mdot_vs_t_q05_FulVsc_alph01_ResMidLo.pdf Graphic file (type p
 df)
@@ -1518,7 +1520,7 @@ Package pdftex.def Info: figures/ch1/Mdot_vs_t_q05_FulVsc_alph01_ResMidLo.pdf u
 sed on input line 983.
 (pdftex.def)             Requested size: 209.4045pt x 278.0617pt.
 
-<figures/ch1/Mdot_vs_t_q25_FulVsc_alph01_ResMidLo.pdf, id=3358, 551.05875pt x 7
+<figures/ch1/Mdot_vs_t_q25_FulVsc_alph01_ResMidLo.pdf, id=3416, 551.05875pt x 7
 31.73375pt>
 File: figures/ch1/Mdot_vs_t_q25_FulVsc_alph01_ResMidLo.pdf Graphic file (type p
 df)
@@ -1527,7 +1529,7 @@ Package pdftex.def Info: figures/ch1/Mdot_vs_t_q25_FulVsc_alph01_ResMidLo.pdf u
 sed on input line 984.
 (pdftex.def)             Requested size: 209.4045pt x 278.0617pt.
 
-<figures/ch1/Mdot_vs_t_q075_FulVsc_alph01_ResMidLo.pdf, id=3359, 551.05875pt x 
+<figures/ch1/Mdot_vs_t_q075_FulVsc_alph01_ResMidLo.pdf, id=3417, 551.05875pt x 
 731.73375pt>
 File: figures/ch1/Mdot_vs_t_q075_FulVsc_alph01_ResMidLo.pdf Graphic file (type 
 pdf)
@@ -1540,7 +1542,7 @@ used on input line 985.
 LaTeX Warning: Float too large for page by 2.48225pt on input line 989.
 
 
-<figures/ch1/Mdot_vs_t_q001_FulVsc_alph01_ResMidLo.pdf, id=3360, 551.05875pt x 
+<figures/ch1/Mdot_vs_t_q001_FulVsc_alph01_ResMidLo.pdf, id=3418, 551.05875pt x 
 731.73375pt>
 File: figures/ch1/Mdot_vs_t_q001_FulVsc_alph01_ResMidLo.pdf Graphic file (type 
 pdf)
@@ -1549,7 +1551,7 @@ Package pdftex.def Info: figures/ch1/Mdot_vs_t_q001_FulVsc_alph01_ResMidLo.pdf
 used on input line 997.
 (pdftex.def)             Requested size: 209.4045pt x 278.0617pt.
 
-<figures/ch1/Mdot_vs_t_q0003_FulVsc_alph01_ResMidLo.pdf, id=3361, 551.05875pt x
+<figures/ch1/Mdot_vs_t_q0003_FulVsc_alph01_ResMidLo.pdf, id=3419, 551.05875pt x
  731.73375pt>
 File: figures/ch1/Mdot_vs_t_q0003_FulVsc_alph01_ResMidLo.pdf Graphic file (type
  pdf)
@@ -1558,35 +1560,35 @@ Package pdftex.def Info: figures/ch1/Mdot_vs_t_q0003_FulVsc_alph01_ResMidLo.pdf
  used on input line 998.
 (pdftex.def)             Requested size: 209.4045pt x 278.0617pt.
 
-[55] [56 <./figures/ch1/TRQDENS_EARLY_FulVsc_a01_q1_Resr24y78-eps-converted-to.
+[56] [57 <./figures/ch1/TRQDENS_EARLY_FulVsc_a01_q1_Resr24y78-eps-converted-to.
 pdf> <./figures/ch1/TRQDENS_LATE_FulVsc_a01_q1_Resr24y78-eps-converted-to.pdf> 
 <./figures/ch1/TRQDENS_LATE_FulVsc_a01_q05_Resr24y78-eps-converted-to.pdf> <./f
 igures/ch1/TRQDENS_LATE_FulVsc_a01_q01_Resr24y78-eps-converted-to.pdf> <./figur
 es/ch1/TRQDENS_LATE_FulVsc_a01_q005_Resr24y78-eps-converted-to.pdf> <./figures/
-ch1/TRQDENS_LATE_FulVsc_a01_q001_Resr24y78-eps-converted-to.pdf>] [57 <./figure
+ch1/TRQDENS_LATE_FulVsc_a01_q001_Resr24y78-eps-converted-to.pdf>] [58 <./figure
 s/ch1/Mdot_vs_t_q1_FulVsc_alph01_ResMidLo.pdf> <./figures/ch1/Mdot_vs_t_q05_Ful
 Vsc_alph01_ResMidLo.pdf
 
-pdfTeX warning: /usr/texbin/pdflatex (file ./figures/ch1/Mdot_vs_t_q05_FulVsc_a
-lph01_ResMidLo.pdf): PDF inclusion: multiple pdfs with page group included in a
- single page
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures/ch1/Mdot_vs_t_q05_
+FulVsc_alph01_ResMidLo.pdf): PDF inclusion: multiple pdfs with page group inclu
+ded in a single page
 > <./figures/ch1/Mdot_vs_t_q25_FulVsc_alph01_ResMidLo.pdf
 
-pdfTeX warning: /usr/texbin/pdflatex (file ./figures/ch1/Mdot_vs_t_q25_FulVsc_a
-lph01_ResMidLo.pdf): PDF inclusion: multiple pdfs with page group included in a
- single page
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures/ch1/Mdot_vs_t_q25_
+FulVsc_alph01_ResMidLo.pdf): PDF inclusion: multiple pdfs with page group inclu
+ded in a single page
 > <./figures/ch1/Mdot_vs_t_q075_FulVsc_alph01_ResMidLo.pdf
 
-pdfTeX warning: /usr/texbin/pdflatex (file ./figures/ch1/Mdot_vs_t_q075_FulVsc_
-alph01_ResMidLo.pdf): PDF inclusion: multiple pdfs with page group included in 
-a single page
->] [58 <./figures/ch1/Mdot_vs_t_q001_FulVsc_alph01_ResMidLo.pdf> <./figures/ch1
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures/ch1/Mdot_vs_t_q075
+_FulVsc_alph01_ResMidLo.pdf): PDF inclusion: multiple pdfs with page group incl
+uded in a single page
+>] [59 <./figures/ch1/Mdot_vs_t_q001_FulVsc_alph01_ResMidLo.pdf> <./figures/ch1
 /Mdot_vs_t_q0003_FulVsc_alph01_ResMidLo.pdf
 
-pdfTeX warning: /usr/texbin/pdflatex (file ./figures/ch1/Mdot_vs_t_q0003_FulVsc
-_alph01_ResMidLo.pdf): PDF inclusion: multiple pdfs with page group included in
- a single page
->] [59]
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures/ch1/Mdot_vs_t_q000
+3_FulVsc_alph01_ResMidLo.pdf): PDF inclusion: multiple pdfs with page group inc
+luded in a single page
+>] [60]
 
 LaTeX Warning: Float too large for page by 90.16833pt on input line 1110.
 
@@ -1601,14 +1603,14 @@ f>
 -converted-to.pdf figures/ch1/Mbin_o_Mq0.eps>
 (epstopdf)             \includegraphics on input line 1118.
 Package epstopdf Info: Output file is already uptodate.
-<figures/ch1/Mbin_o_Mq0-eps-converted-to.pdf, id=4067, 794.97pt x 505.89pt>
+<figures/ch1/Mbin_o_Mq0-eps-converted-to.pdf, id=4125, 794.97pt x 505.89pt>
 File: figures/ch1/Mbin_o_Mq0-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figures/ch1/Mbin_o_Mq0-eps-converted-to.pdf>
 Package pdftex.def Info: figures/ch1/Mbin_o_Mq0-eps-converted-to.pdf used on in
 put line 1118.
 (pdftex.def)             Requested size: 238.49284pt x 151.76816pt.
- [60 <./figures/ch1/Mbin_o_Mq0-eps-converted-to.pdf>] [61]
+ [61 <./figures/ch1/Mbin_o_Mq0-eps-converted-to.pdf>] [62]
 Package epstopdf Info: Source file: <figures/ch1/RCE_2LogFit.eps>
 (epstopdf)                    date: 2013-05-01 16:11:24
 (epstopdf)                    size: 32667 bytes
@@ -1621,14 +1623,14 @@ s-converted-to.pdf figures/ch1/RCE_2LogFit.eps>
 (epstopdf)             \includegraphics on input line 1186.
 Package epstopdf Info: Output file is already uptodate.
 
-<figures/ch1/RCE_2LogFit-eps-converted-to.pdf, id=4127, 578.16pt x 433.62pt>
+<figures/ch1/RCE_2LogFit-eps-converted-to.pdf, id=4184, 578.16pt x 433.62pt>
 File: figures/ch1/RCE_2LogFit-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figures/ch1/RCE_2LogFit-eps-converted-to.pdf>
 Package pdftex.def Info: figures/ch1/RCE_2LogFit-eps-converted-to.pdf used on i
 nput line 1186.
 (pdftex.def)             Requested size: 231.2599pt x 173.44492pt.
- [62] [63 <./figures/ch1/RCE_2LogFit-eps-converted-to.pdf>] [64] [65]
+ [63] [64 <./figures/ch1/RCE_2LogFit-eps-converted-to.pdf>] [65] [66]
 Overfull \hbox (3.64845pt too wide) in paragraph at lines 1327--1327
 [][]\T1/ptm/m/n/10 Movie ver-sions of the snap-shots in Fig-ure [][]2.3[][] are
  avail-able at http://www.astro.columbia.edu/$\OMS/cmsy/m/n/10 ^^X$\T1/ptm/m/n/
@@ -1640,8 +1642,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 1335--1347
 
  []
 
-[66] [67] [68]
-<figures/ch1/Mdot_vs_t_q1_FulVsc_alph01_ResLoLo.pdf, id=4235, 542.025pt x 722.7
+[67] [68] [69]
+<figures/ch1/Mdot_vs_t_q1_FulVsc_alph01_ResLoLo.pdf, id=4294, 542.025pt x 722.7
 pt>
 File: figures/ch1/Mdot_vs_t_q1_FulVsc_alph01_ResLoLo.pdf Graphic file (type pdf
 )
@@ -1650,7 +1652,7 @@ Package pdftex.def Info: figures/ch1/Mdot_vs_t_q1_FulVsc_alph01_ResLoLo.pdf use
 d on input line 1420.
 (pdftex.def)             Requested size: 243.90898pt x 325.21199pt.
 
-<figures/ch1/2DDens_q1_Danvisc_MM_a01_M1G_100a_r24y78_alphFIG_4000.pdf, id=4238
+<figures/ch1/2DDens_q1_Danvisc_MM_a01_M1G_100a_r24y78_alphFIG_4000.pdf, id=4297
 , 391.0033pt x 411.78503pt>
 File: figures/ch1/2DDens_q1_Danvisc_MM_a01_M1G_100a_r24y78_alphFIG_4000.pdf Gra
 phic file (type pdf)
@@ -1660,7 +1662,7 @@ Package pdftex.def Info: figures/ch1/2DDens_q1_Danvisc_MM_a01_M1G_100a_r24y78_a
 lphFIG_4000.pdf used on input line 1445.
 (pdftex.def)             Requested size: 113.38805pt x 119.4146pt.
 
-<figures/ch1/2DDens_q1_Danvisc_MM_a02_M1G_100a_r24y78_FIG_4000.pdf, id=4239, 39
+<figures/ch1/2DDens_q1_Danvisc_MM_a02_M1G_100a_r24y78_FIG_4000.pdf, id=4298, 39
 1.0033pt x 414.69891pt>
 File: figures/ch1/2DDens_q1_Danvisc_MM_a02_M1G_100a_r24y78_FIG_4000.pdf Graphic
  file (type pdf)
@@ -1670,7 +1672,7 @@ Package pdftex.def Info: figures/ch1/2DDens_q1_Danvisc_MM_a02_M1G_100a_r24y78_F
 IG_4000.pdf used on input line 1446.
 (pdftex.def)             Requested size: 113.38805pt x 120.2596pt.
 
-<figures/ch1/2DDens_q1_Danvisc_MM_a04_M1G_100a_r24y78_FIG_4002.pdf, id=4240, 39
+<figures/ch1/2DDens_q1_Danvisc_MM_a04_M1G_100a_r24y78_FIG_4002.pdf, id=4299, 39
 0.34721pt x 411.9967pt>
 File: figures/ch1/2DDens_q1_Danvisc_MM_a04_M1G_100a_r24y78_FIG_4002.pdf Graphic
  file (type pdf)
@@ -1680,7 +1682,7 @@ Package pdftex.def Info: figures/ch1/2DDens_q1_Danvisc_MM_a04_M1G_100a_r24y78_F
 IG_4002.pdf used on input line 1447.
 (pdftex.def)             Requested size: 113.19778pt x 119.47597pt.
 
-<figures/ch1/2DDens_q1_Danvisc_MM_a1_M1G_100a_r24y78_FIG_4000.pdf, id=4241, 390
+<figures/ch1/2DDens_q1_Danvisc_MM_a1_M1G_100a_r24y78_FIG_4000.pdf, id=4300, 390
 .34721pt x 411.34065pt>
 File: figures/ch1/2DDens_q1_Danvisc_MM_a1_M1G_100a_r24y78_FIG_4000.pdf Graphic 
 file (type pdf)
@@ -1690,7 +1692,7 @@ Package pdftex.def Info: figures/ch1/2DDens_q1_Danvisc_MM_a1_M1G_100a_r24y78_FI
 G_4000.pdf used on input line 1448.
 (pdftex.def)             Requested size: 113.19778pt x 119.28572pt.
 
-<figures/ch1/Mdot_vs_t_q1_FulVsc_alph01_ResMidLo_ALLt_FIG9.pdf, id=4244, 326.38
+<figures/ch1/Mdot_vs_t_q1_FulVsc_alph01_ResMidLo_ALLt_FIG9.pdf, id=4303, 326.38
 187pt x 586.2942pt>
 File: figures/ch1/Mdot_vs_t_q1_FulVsc_alph01_ResMidLo_ALLt_FIG9.pdf Graphic fil
 e (type pdf)
@@ -1700,7 +1702,7 @@ Package pdftex.def Info: figures/ch1/Mdot_vs_t_q1_FulVsc_alph01_ResMidLo_ALLt_F
 IG9.pdf used on input line 1467.
 (pdftex.def)             Requested size: 146.87047pt x 263.82996pt.
 
-<figures/ch1/Mdot_vs_t_q1_FulVsc_alph02_ResMidLo_ALLt_FIG9.pdf, id=4245, 350.32
+<figures/ch1/Mdot_vs_t_q1_FulVsc_alph02_ResMidLo_ALLt_FIG9.pdf, id=4304, 350.32
 841pt x 586.5049pt>
 File: figures/ch1/Mdot_vs_t_q1_FulVsc_alph02_ResMidLo_ALLt_FIG9.pdf Graphic fil
 e (type pdf)
@@ -1710,7 +1712,7 @@ Package pdftex.def Info: figures/ch1/Mdot_vs_t_q1_FulVsc_alph02_ResMidLo_ALLt_F
 IG9.pdf used on input line 1468.
 (pdftex.def)             Requested size: 157.64632pt x 263.92476pt.
 
-<figures/ch1/Mdot_vs_t_q1_FulVsc_alph04_ResMidLo_ALLt_FIG9.pdf, id=4246, 350.14
+<figures/ch1/Mdot_vs_t_q1_FulVsc_alph04_ResMidLo_ALLt_FIG9.pdf, id=4305, 350.14
 674pt x 585.53392pt>
 File: figures/ch1/Mdot_vs_t_q1_FulVsc_alph04_ResMidLo_ALLt_FIG9.pdf Graphic fil
 e (type pdf)
@@ -1720,7 +1722,7 @@ Package pdftex.def Info: figures/ch1/Mdot_vs_t_q1_FulVsc_alph04_ResMidLo_ALLt_F
 IG9.pdf used on input line 1469.
 (pdftex.def)             Requested size: 157.56458pt x 263.48782pt.
 
-<figures/ch1/Mdot_vs_t_q1_FulVsc_alph1_ResMidLo_ALLt_FIG9.pdf, id=4247, 353.267
+<figures/ch1/Mdot_vs_t_q1_FulVsc_alph1_ResMidLo_ALLt_FIG9.pdf, id=4306, 353.267
 9pt x 586.60715pt>
 File: figures/ch1/Mdot_vs_t_q1_FulVsc_alph1_ResMidLo_ALLt_FIG9.pdf Graphic file
  (type pdf)
@@ -1733,17 +1735,17 @@ G9.pdf used on input line 1470.
 
 LaTeX Warning: Float too large for page by 10.57317pt on input line 1478.
 
-[69] [70 <./figures/ch1/Mdot_vs_t_q1_FulVsc_alph01_ResLoLo.pdf>] [71 <./figures
+[70] [71 <./figures/ch1/Mdot_vs_t_q1_FulVsc_alph01_ResLoLo.pdf>] [72 <./figures
 /ch1/2DDens_q1_Danvisc_MM_a01_M1G_100a_r24y78_alphFIG_4000.pdf> <./figures/ch1/
 2DDens_q1_Danvisc_MM_a02_M1G_100a_r24y78_FIG_4000.pdf> <./figures/ch1/2DDens_q1
 _Danvisc_MM_a04_M1G_100a_r24y78_FIG_4002.pdf> <./figures/ch1/2DDens_q1_Danvisc_
-MM_a1_M1G_100a_r24y78_FIG_4000.pdf>] [72 <./figures/ch1/Mdot_vs_t_q1_FulVsc_alp
+MM_a1_M1G_100a_r24y78_FIG_4000.pdf>] [73 <./figures/ch1/Mdot_vs_t_q1_FulVsc_alp
 h01_ResMidLo_ALLt_FIG9.pdf> <./figures/ch1/Mdot_vs_t_q1_FulVsc_alph02_ResMidLo_
 ALLt_FIG9.pdf> <./figures/ch1/Mdot_vs_t_q1_FulVsc_alph04_ResMidLo_ALLt_FIG9.pdf
 > <./figures/ch1/Mdot_vs_t_q1_FulVsc_alph1_ResMidLo_ALLt_FIG9.pdf>]
 Underfull \vbox (badness 1052) has occurred while \output is active []
 
- [73]
+ [74]
 Overfull \hbox (21.63513pt too wide) in paragraph at lines 1509--1516
 []\T1/ptm/m/n/12 For the $\OML/cmm/m/it/12 q \OT1/cmr/m/n/12 = 1\OML/cmm/m/it/1
 2 :\OT1/cmr/m/n/12 0$ \T1/ptm/m/n/12 case, we per-form two higher-resolution ru
@@ -1751,7 +1753,7 @@ ns ($[]$ and $[]$
  []
 
 
-<figures/ch1/2DDens_q01_Danvisc_MM_a01_M1G_100a_r35y78_FIG_4000.pdf, id=4760, 3
+<figures/ch1/2DDens_q01_Danvisc_MM_a01_M1G_100a_r35y78_FIG_4000.pdf, id=4818, 3
 91.07133pt x 416.65501pt>
 File: figures/ch1/2DDens_q01_Danvisc_MM_a01_M1G_100a_r35y78_FIG_4000.pdf Graphi
 c file (type pdf)
@@ -1761,7 +1763,7 @@ Package pdftex.def Info: figures/ch1/2DDens_q01_Danvisc_MM_a01_M1G_100a_r35y78_
 FIG_4000.pdf used on input line 1533.
 (pdftex.def)             Requested size: 113.40778pt x 120.82686pt.
 
-<figures/ch1/2DDens_q01_Danvisc_MM_a01_M1G_100a_r24y78_FIG_4014.pdf, id=4761, 3
+<figures/ch1/2DDens_q01_Danvisc_MM_a01_M1G_100a_r24y78_FIG_4014.pdf, id=4819, 3
 90.4197pt x 418.4464pt>
 File: figures/ch1/2DDens_q01_Danvisc_MM_a01_M1G_100a_r24y78_FIG_4014.pdf Graphi
 c file (type pdf)
@@ -1771,7 +1773,7 @@ Package pdftex.def Info: figures/ch1/2DDens_q01_Danvisc_MM_a01_M1G_100a_r24y78_
 FIG_4014.pdf used on input line 1534.
 (pdftex.def)             Requested size: 113.2188pt x 121.34634pt.
 
-<figures/ch1/2DDens_q01_Danvisc_MM_a01_M1G_100a_r24y52_FIG_4000.pdf, id=4762, 3
+<figures/ch1/2DDens_q01_Danvisc_MM_a01_M1G_100a_r24y52_FIG_4000.pdf, id=4820, 3
 91.07133pt x 420.4018pt>
 File: figures/ch1/2DDens_q01_Danvisc_MM_a01_M1G_100a_r24y52_FIG_4000.pdf Graphi
 c file (type pdf)
@@ -1781,7 +1783,7 @@ Package pdftex.def Info: figures/ch1/2DDens_q01_Danvisc_MM_a01_M1G_100a_r24y52_
 FIG_4000.pdf used on input line 1535.
 (pdftex.def)             Requested size: 113.40778pt x 121.91339pt.
 
-<figures/ch1/2DDens_q01_Danvisc_MM_a01_M1G_100a_r17y39_FIG_4000.pdf, id=4763, 3
+<figures/ch1/2DDens_q01_Danvisc_MM_a01_M1G_100a_r17y39_FIG_4000.pdf, id=4821, 3
 90.34633pt x 417.14282pt>
 File: figures/ch1/2DDens_q01_Danvisc_MM_a01_M1G_100a_r17y39_FIG_4000.pdf Graphi
 c file (type pdf)
@@ -1791,11 +1793,11 @@ Package pdftex.def Info: figures/ch1/2DDens_q01_Danvisc_MM_a01_M1G_100a_r17y39_
 FIG_4000.pdf used on input line 1536.
 (pdftex.def)             Requested size: 113.19753pt x 120.9683pt.
 
-[74] [75 <./figures/ch1/2DDens_q01_Danvisc_MM_a01_M1G_100a_r35y78_FIG_4000.pdf>
+[75] [76 <./figures/ch1/2DDens_q01_Danvisc_MM_a01_M1G_100a_r35y78_FIG_4000.pdf>
  <./figures/ch1/2DDens_q01_Danvisc_MM_a01_M1G_100a_r24y78_FIG_4014.pdf> <./figu
 res/ch1/2DDens_q01_Danvisc_MM_a01_M1G_100a_r24y52_FIG_4000.pdf> <./figures/ch1/
 2DDens_q01_Danvisc_MM_a01_M1G_100a_r17y39_FIG_4000.pdf>]
-<figures/ch1/Mdot_vs_t_q01_FulVsc_alph01_ResLoLo.pdf, id=4942, 551.05875pt x 73
+<figures/ch1/Mdot_vs_t_q01_FulVsc_alph01_ResLoLo.pdf, id=4999, 551.05875pt x 73
 1.73375pt>
 File: figures/ch1/Mdot_vs_t_q01_FulVsc_alph01_ResLoLo.pdf Graphic file (type pd
 f)
@@ -1804,7 +1806,7 @@ Package pdftex.def Info: figures/ch1/Mdot_vs_t_q01_FulVsc_alph01_ResLoLo.pdf us
 ed on input line 1580.
 (pdftex.def)             Requested size: 198.38098pt x 263.42395pt.
 
-<figures/ch1/Mdot_vs_t_q01_FulVsc_alph01_ResMidLo.pdf, id=4943, 551.05875pt x 7
+<figures/ch1/Mdot_vs_t_q01_FulVsc_alph01_ResMidLo.pdf, id=5000, 551.05875pt x 7
 31.73375pt>
 File: figures/ch1/Mdot_vs_t_q01_FulVsc_alph01_ResMidLo.pdf Graphic file (type p
 df)
@@ -1813,7 +1815,7 @@ Package pdftex.def Info: figures/ch1/Mdot_vs_t_q01_FulVsc_alph01_ResMidLo.pdf u
 sed on input line 1581.
 (pdftex.def)             Requested size: 198.38098pt x 263.42395pt.
 
-<figures/ch1/Mdot_vs_t_q01_FulVsc_alph01_ResMidMid.pdf, id=4944, 551.05875pt x 
+<figures/ch1/Mdot_vs_t_q01_FulVsc_alph01_ResMidMid.pdf, id=5001, 551.05875pt x 
 731.73375pt>
 File: figures/ch1/Mdot_vs_t_q01_FulVsc_alph01_ResMidMid.pdf Graphic file (type 
 pdf)
@@ -1822,7 +1824,7 @@ Package pdftex.def Info: figures/ch1/Mdot_vs_t_q01_FulVsc_alph01_ResMidMid.pdf
 used on input line 1582.
 (pdftex.def)             Requested size: 198.38098pt x 263.42395pt.
 
-<figures/ch1/Mdot_vs_t_q01_FulVsc_alph01_ResHiHi.pdf, id=4945, 551.05875pt x 73
+<figures/ch1/Mdot_vs_t_q01_FulVsc_alph01_ResHiHi.pdf, id=5002, 551.05875pt x 73
 1.73375pt>
 File: figures/ch1/Mdot_vs_t_q01_FulVsc_alph01_ResHiHi.pdf Graphic file (type pd
 f)
@@ -1834,34 +1836,34 @@ ed on input line 1583.
 
 LaTeX Warning: Float too large for page by 9.47931pt on input line 1596.
 
-[76] [77 <./figures/ch1/Mdot_vs_t_q01_FulVsc_alph01_ResLoLo.pdf> <./figures/ch1
+[77] [78 <./figures/ch1/Mdot_vs_t_q01_FulVsc_alph01_ResLoLo.pdf> <./figures/ch1
 /Mdot_vs_t_q01_FulVsc_alph01_ResMidLo.pdf
 
-pdfTeX warning: /usr/texbin/pdflatex (file ./figures/ch1/Mdot_vs_t_q01_FulVsc_a
-lph01_ResMidLo.pdf): PDF inclusion: multiple pdfs with page group included in a
- single page
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures/ch1/Mdot_vs_t_q01_
+FulVsc_alph01_ResMidLo.pdf): PDF inclusion: multiple pdfs with page group inclu
+ded in a single page
 > <./figures/ch1/Mdot_vs_t_q01_FulVsc_alph01_ResMidMid.pdf
 
-pdfTeX warning: /usr/texbin/pdflatex (file ./figures/ch1/Mdot_vs_t_q01_FulVsc_a
-lph01_ResMidMid.pdf): PDF inclusion: multiple pdfs with page group included in 
-a single page
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures/ch1/Mdot_vs_t_q01_
+FulVsc_alph01_ResMidMid.pdf): PDF inclusion: multiple pdfs with page group incl
+uded in a single page
 > <./figures/ch1/Mdot_vs_t_q01_FulVsc_alph01_ResHiHi.pdf
 
-pdfTeX warning: /usr/texbin/pdflatex (file ./figures/ch1/Mdot_vs_t_q01_FulVsc_a
-lph01_ResHiHi.pdf): PDF inclusion: multiple pdfs with page group included in a 
-single page
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures/ch1/Mdot_vs_t_q01_
+FulVsc_alph01_ResHiHi.pdf): PDF inclusion: multiple pdfs with page group includ
+ed in a single page
 >]
 Underfull \vbox (badness 6236) has occurred while \output is active []
 
- [78]
-<figures/ch1/Observable_CBDs_q1_alph01.pdf, id=5222, 510.48477pt x 536.04263pt>
+ [79]
+<figures/ch1/Observable_CBDs_q1_alph01.pdf, id=5279, 510.48477pt x 536.04263pt>
 File: figures/ch1/Observable_CBDs_q1_alph01.pdf Graphic file (type pdf)
 <use figures/ch1/Observable_CBDs_q1_alph01.pdf>
 Package pdftex.def Info: figures/ch1/Observable_CBDs_q1_alph01.pdf used on inpu
 t line 1666.
 (pdftex.def)             Requested size: 229.71602pt x 241.21695pt.
 
-<figures/ch1/Observable_CBDs_q001_alph01.pdf, id=5223, 512.00443pt x 536.45824p
+<figures/ch1/Observable_CBDs_q001_alph01.pdf, id=5280, 512.00443pt x 536.45824p
 t>
 File: figures/ch1/Observable_CBDs_q001_alph01.pdf Graphic file (type pdf)
  <use figures/ch1/Observable_CBDs_q001_alph01.pdf>
@@ -1873,16 +1875,16 @@ Overfull \hbox (10.36089pt too wide) in paragraph at lines 1664--1669
  []$ 
  []
 
-[79] [80 <./figures/ch1/Observable_CBDs_q1_alph01.pdf> <./figures/ch1/Observabl
-e_CBDs_q001_alph01.pdf>] [81]
+[80] [81 <./figures/ch1/Observable_CBDs_q1_alph01.pdf> <./figures/ch1/Observabl
+e_CBDs_q001_alph01.pdf>] [82]
 Underfull \vbox (badness 1642) has occurred while \output is active []
 
- [82]
-[83] [84] [85] [86]
+ [83]
+[84] [85] [86] [87]
 Underfull \vbox (badness 6236) has occurred while \output is active []
 
- [87]
-[88] [89pdfTeX warning (ext4): destination with the same identifier (name{equat
+ [88]
+[89] [90pdfTeX warning (ext4): destination with the same identifier (name{equat
 ion.2.6.18}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -1904,7 +1906,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [90pdfTeX warning (ext4): destination with the same identifier (name{equation.
+ [91pdfTeX warning (ext4): destination with the same identifier (name{equation.
 2.6.20}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -1931,19 +1933,19 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 Underfull \vbox (badness 8075) has occurred while \output is active []
 
- [91]
+ [92]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [92]
-[93] <figures/ch1/ViscRing_tau032_Jan2013.pdf, id=5792, 433.62pt x 578.16pt>
+ [93]
+[94] <figures/ch1/ViscRing_tau032_Jan2013.pdf, id=5849, 433.62pt x 578.16pt>
 File: figures/ch1/ViscRing_tau032_Jan2013.pdf Graphic file (type pdf)
 
 <use figures/ch1/ViscRing_tau032_Jan2013.pdf>
 Package pdftex.def Info: figures/ch1/ViscRing_tau032_Jan2013.pdf used on input 
 line 2106.
 (pdftex.def)             Requested size: 216.80946pt x 289.07928pt.
- [94] [95 <./figures/ch1/ViscRing_tau032_Jan2013.pdf>]
-<figures/ch1/CartShear_Res512_64_t1_NoVisc.pdf, id=5839, 288.0893pt x 570.9643p
+ [95] [96 <./figures/ch1/ViscRing_tau032_Jan2013.pdf>]
+<figures/ch1/CartShear_Res512_64_t1_NoVisc.pdf, id=5896, 288.0893pt x 570.9643p
 t>
 File: figures/ch1/CartShear_Res512_64_t1_NoVisc.pdf Graphic file (type pdf)
  <use figures/ch1/CartShear_Res512_64_t1_NoVisc.pdf>
@@ -1951,7 +1953,7 @@ Package pdftex.def Info: figures/ch1/CartShear_Res512_64_t1_NoVisc.pdf used on
 input line 2144.
 (pdftex.def)             Requested size: 115.23367pt x 228.38167pt.
 
-<figures/ch1/CartShear_Res128_16_t1.pdf, id=5840, 289.08pt x 578.16pt>
+<figures/ch1/CartShear_Res128_16_t1.pdf, id=5897, 289.08pt x 578.16pt>
 File: figures/ch1/CartShear_Res128_16_t1.pdf Graphic file (type pdf)
 
 <use figures/ch1/CartShear_Res128_16_t1.pdf>
@@ -1959,7 +1961,7 @@ Package pdftex.def Info: figures/ch1/CartShear_Res128_16_t1.pdf used on input l
 ine 2145.
 (pdftex.def)             Requested size: 115.62994pt x 231.2599pt.
 
-<figures/ch1/CartShear_Res512_64_t1.pdf, id=5841, 289.08pt x 578.16pt>
+<figures/ch1/CartShear_Res512_64_t1.pdf, id=5898, 289.08pt x 578.16pt>
 File: figures/ch1/CartShear_Res512_64_t1.pdf Graphic file (type pdf)
 
 <use figures/ch1/CartShear_Res512_64_t1.pdf>
@@ -1967,7 +1969,7 @@ Package pdftex.def Info: figures/ch1/CartShear_Res512_64_t1.pdf used on input l
 ine 2146.
 (pdftex.def)             Requested size: 115.62994pt x 231.2599pt.
 
-<figures/ch1/CartShear_Res512_24_t1.pdf, id=5842, 289.08pt x 578.16pt>
+<figures/ch1/CartShear_Res512_24_t1.pdf, id=5899, 289.08pt x 578.16pt>
 File: figures/ch1/CartShear_Res512_24_t1.pdf Graphic file (type pdf)
 
 <use figures/ch1/CartShear_Res512_24_t1.pdf>
@@ -1982,22 +1984,22 @@ Overfull \hbox (3.45879pt too wide) in paragraph at lines 2141--2149
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [96])
-(./chapters/ch2_CBDTrans.tex [97] [98 <./figures/ch1/CartShear_Res512_64_t1_NoV
+ [97])
+(./chapters/ch2_CBDTrans.tex [98] [99 <./figures/ch1/CartShear_Res512_64_t1_NoV
 isc.pdf> <./figures/ch1/CartShear_Res128_16_t1.pdf> <./figures/ch1/CartShear_Re
 s512_64_t1.pdf> <./figures/ch1/CartShear_Res512_24_t1.pdf>]
 Chapter 3.
-[99
+[100
 
 ]
 Underfull \vbox (badness 6236) has occurred while \output is active []
 
- [100]
+ [101]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [101]
-[102] [103]
-<figures/ch2/3D_RochePot_q0p1.pdf, id=6069, 335.94469pt x 221.92642pt>
+ [102]
+[103] [104]
+<figures/ch2/3D_RochePot_q0p1.pdf, id=6128, 335.94469pt x 221.92642pt>
 File: figures/ch2/3D_RochePot_q0p1.pdf Graphic file (type pdf)
 
 <use figures/ch2/3D_RochePot_q0p1.pdf>
@@ -2005,7 +2007,7 @@ Package pdftex.def Info: figures/ch2/3D_RochePot_q0p1.pdf used on input line 27
 9.
 (pdftex.def)             Requested size: 184.77014pt x 122.0599pt.
 
-<figures/ch2/Crit_CJ_Curves_q0p1_L3crit.pdf, id=6072, 395.82169pt x 372.11853pt
+<figures/ch2/Crit_CJ_Curves_q0p1_L3crit.pdf, id=6131, 395.82169pt x 372.11853pt
 >
 File: figures/ch2/Crit_CJ_Curves_q0p1_L3crit.pdf Graphic file (type pdf)
  <use figures/ch2/Crit_CJ_Curves_q0p1_L3crit.pdf>
@@ -2015,12 +2017,12 @@ ut line 299.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [104 <./figures/ch2/3D_RochePot_q0p1.pdf>] [105 <./figures/ch2/Crit_CJ_Curves_
+ [105 <./figures/ch2/3D_RochePot_q0p1.pdf>] [106 <./figures/ch2/Crit_CJ_Curves_
 q0p1_L3crit.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [106]
-<figures/ch2/Excluded_Regions_q_vVirial_DarkGreen.pdf, id=6170, 401.5pt x 611.9
+ [107]
+<figures/ch2/Excluded_Regions_q_vVirial_DarkGreen.pdf, id=6229, 401.5pt x 611.9
 6329pt>
 File: figures/ch2/Excluded_Regions_q_vVirial_DarkGreen.pdf Graphic file (type p
 df)
@@ -2031,9 +2033,9 @@ sed on input line 383.
 
 Underfull \vbox (badness 6236) has occurred while \output is active []
 
- [107]
-[108 <./figures/ch2/Excluded_Regions_q_vVirial_DarkGreen.pdf>] [109]
-<figures/ch2/q0p0001_ecc0_norb1_Vprof4_Np256_r2p5_Rk5AdptStep.png, id=6222, 325
+ [108]
+[109 <./figures/ch2/Excluded_Regions_q_vVirial_DarkGreen.pdf>] [110]
+<figures/ch2/q0p0001_ecc0_norb1_Vprof4_Np256_r2p5_Rk5AdptStep.png, id=6281, 325
 .215pt x 289.08pt>
 File: figures/ch2/q0p0001_ecc0_norb1_Vprof4_Np256_r2p5_Rk5AdptStep.png Graphic 
 file (type png)
@@ -2043,7 +2045,7 @@ Package pdftex.def Info: figures/ch2/q0p0001_ecc0_norb1_Vprof4_Np256_r2p5_Rk5Ad
 ptStep.png used on input line 520.
 (pdftex.def)             Requested size: 123.58298pt x 109.85153pt.
 
-<figures/ch2/q0p001_ecc0_norb1_Vprof4_Np256_r2p5_Rk5AdptStep.png, id=6223, 325.
+<figures/ch2/q0p001_ecc0_norb1_Vprof4_Np256_r2p5_Rk5AdptStep.png, id=6282, 325.
 215pt x 289.08pt>
 File: figures/ch2/q0p001_ecc0_norb1_Vprof4_Np256_r2p5_Rk5AdptStep.png Graphic f
 ile (type png)
@@ -2053,7 +2055,7 @@ Package pdftex.def Info: figures/ch2/q0p001_ecc0_norb1_Vprof4_Np256_r2p5_Rk5Adp
 tStep.png used on input line 521.
 (pdftex.def)             Requested size: 123.58298pt x 109.85153pt.
 
-<figures/ch2/q0p01_ecc0_norb1_Vprof4_Np256_r2p5_Rk5AdptStep.png, id=6224, 325.2
+<figures/ch2/q0p01_ecc0_norb1_Vprof4_Np256_r2p5_Rk5AdptStep.png, id=6283, 325.2
 15pt x 289.08pt>
 File: figures/ch2/q0p01_ecc0_norb1_Vprof4_Np256_r2p5_Rk5AdptStep.png Graphic fi
 le (type png)
@@ -2063,7 +2065,7 @@ Package pdftex.def Info: figures/ch2/q0p01_ecc0_norb1_Vprof4_Np256_r2p5_Rk5Adpt
 Step.png used on input line 522.
 (pdftex.def)             Requested size: 123.58298pt x 109.85153pt.
 
-<figures/ch2/q0p1_ecc0_norb1_Vprof4_Np256_r2p5_Rk5AdptStep.png, id=6225, 325.21
+<figures/ch2/q0p1_ecc0_norb1_Vprof4_Np256_r2p5_Rk5AdptStep.png, id=6284, 325.21
 5pt x 289.08pt>
 File: figures/ch2/q0p1_ecc0_norb1_Vprof4_Np256_r2p5_Rk5AdptStep.png Graphic fil
 e (type png)
@@ -2073,7 +2075,7 @@ Package pdftex.def Info: figures/ch2/q0p1_ecc0_norb1_Vprof4_Np256_r2p5_Rk5AdptS
 tep.png used on input line 523.
 (pdftex.def)             Requested size: 123.58298pt x 109.85153pt.
 
-<figures/ch2/q0p3_ecc0_norb1_Vprof4_Np256_r2p5_Rk5AdptStep.png, id=6226, 325.21
+<figures/ch2/q0p3_ecc0_norb1_Vprof4_Np256_r2p5_Rk5AdptStep.png, id=6285, 325.21
 5pt x 289.08pt>
 File: figures/ch2/q0p3_ecc0_norb1_Vprof4_Np256_r2p5_Rk5AdptStep.png Graphic fil
 e (type png)
@@ -2083,7 +2085,7 @@ Package pdftex.def Info: figures/ch2/q0p3_ecc0_norb1_Vprof4_Np256_r2p5_Rk5AdptS
 tep.png used on input line 524.
 (pdftex.def)             Requested size: 123.58298pt x 109.85153pt.
 
-<figures/ch2/q1_ecc0_norb1_Vprof4_Np256_r2p5_Rk5AdptStep.png, id=6227, 325.215p
+<figures/ch2/q1_ecc0_norb1_Vprof4_Np256_r2p5_Rk5AdptStep.png, id=6286, 325.215p
 t x 289.08pt>
 File: figures/ch2/q1_ecc0_norb1_Vprof4_Np256_r2p5_Rk5AdptStep.png Graphic file 
 (type png)
@@ -2093,7 +2095,7 @@ Package pdftex.def Info: figures/ch2/q1_ecc0_norb1_Vprof4_Np256_r2p5_Rk5AdptSte
 p.png used on input line 525.
 (pdftex.def)             Requested size: 123.58298pt x 109.85153pt.
 
-<figures/ch2/q0p0001_ecc0_norb100_Vprof4_Np256_r2p5_Rk5AdptStep.png, id=6234, 3
+<figures/ch2/q0p0001_ecc0_norb100_Vprof4_Np256_r2p5_Rk5AdptStep.png, id=6293, 3
 25.215pt x 289.08pt>
 File: figures/ch2/q0p0001_ecc0_norb100_Vprof4_Np256_r2p5_Rk5AdptStep.png Graphi
 c file (type png)
@@ -2103,7 +2105,7 @@ Package pdftex.def Info: figures/ch2/q0p0001_ecc0_norb100_Vprof4_Np256_r2p5_Rk5
 AdptStep.png used on input line 548.
 (pdftex.def)             Requested size: 123.58298pt x 109.85153pt.
 
-<figures/ch2/q0p001_ecc0_norb100_Vprof4_Np256_r2p5_Rk5AdptStep.png, id=6235, 32
+<figures/ch2/q0p001_ecc0_norb100_Vprof4_Np256_r2p5_Rk5AdptStep.png, id=6294, 32
 5.215pt x 289.08pt>
 File: figures/ch2/q0p001_ecc0_norb100_Vprof4_Np256_r2p5_Rk5AdptStep.png Graphic
  file (type png)
@@ -2113,7 +2115,7 @@ Package pdftex.def Info: figures/ch2/q0p001_ecc0_norb100_Vprof4_Np256_r2p5_Rk5A
 dptStep.png used on input line 549.
 (pdftex.def)             Requested size: 123.58298pt x 109.85153pt.
 
-<figures/ch2/q0p01_ecc0_norb100_Vprof4_Np256_r2p5_Rk5AdptStep.png, id=6236, 325
+<figures/ch2/q0p01_ecc0_norb100_Vprof4_Np256_r2p5_Rk5AdptStep.png, id=6295, 325
 .215pt x 289.08pt>
 File: figures/ch2/q0p01_ecc0_norb100_Vprof4_Np256_r2p5_Rk5AdptStep.png Graphic 
 file (type png)
@@ -2123,7 +2125,7 @@ Package pdftex.def Info: figures/ch2/q0p01_ecc0_norb100_Vprof4_Np256_r2p5_Rk5Ad
 ptStep.png used on input line 550.
 (pdftex.def)             Requested size: 123.58298pt x 109.85153pt.
 
-<figures/ch2/q0p1_ecc0_norb100_Vprof4_Np256_r2p5_Rk5AdptStep.png, id=6237, 325.
+<figures/ch2/q0p1_ecc0_norb100_Vprof4_Np256_r2p5_Rk5AdptStep.png, id=6296, 325.
 215pt x 289.08pt>
 File: figures/ch2/q0p1_ecc0_norb100_Vprof4_Np256_r2p5_Rk5AdptStep.png Graphic f
 ile (type png)
@@ -2133,7 +2135,7 @@ Package pdftex.def Info: figures/ch2/q0p1_ecc0_norb100_Vprof4_Np256_r2p5_Rk5Adp
 tStep.png used on input line 551.
 (pdftex.def)             Requested size: 123.58298pt x 109.85153pt.
 
-<figures/ch2/q0p3_ecc0_norb100_Vprof4_Np256_r2p5_Rk5AdptStep.png, id=6238, 325.
+<figures/ch2/q0p3_ecc0_norb100_Vprof4_Np256_r2p5_Rk5AdptStep.png, id=6297, 325.
 215pt x 289.08pt>
 File: figures/ch2/q0p3_ecc0_norb100_Vprof4_Np256_r2p5_Rk5AdptStep.png Graphic f
 ile (type png)
@@ -2143,7 +2145,7 @@ Package pdftex.def Info: figures/ch2/q0p3_ecc0_norb100_Vprof4_Np256_r2p5_Rk5Adp
 tStep.png used on input line 552.
 (pdftex.def)             Requested size: 123.58298pt x 109.85153pt.
 
-<figures/ch2/q1_ecc0_norb100_Vprof4_Np256_r2p5_Rk5AdptStep.png, id=6239, 325.21
+<figures/ch2/q1_ecc0_norb100_Vprof4_Np256_r2p5_Rk5AdptStep.png, id=6298, 325.21
 5pt x 289.08pt>
 File: figures/ch2/q1_ecc0_norb100_Vprof4_Np256_r2p5_Rk5AdptStep.png Graphic fil
 e (type png)
@@ -2153,7 +2155,7 @@ Package pdftex.def Info: figures/ch2/q1_ecc0_norb100_Vprof4_Np256_r2p5_Rk5AdptS
 tep.png used on input line 553.
 (pdftex.def)             Requested size: 123.58298pt x 109.85153pt.
 
-<figures/ch2/q0p02_ecc0_norb100_Vprof4_Np256_r2p5_Rk5AdptStep.png, id=6242, 325
+<figures/ch2/q0p02_ecc0_norb100_Vprof4_Np256_r2p5_Rk5AdptStep.png, id=6301, 325
 .215pt x 289.08pt>
 File: figures/ch2/q0p02_ecc0_norb100_Vprof4_Np256_r2p5_Rk5AdptStep.png Graphic 
 file (type png)
@@ -2163,7 +2165,7 @@ Package pdftex.def Info: figures/ch2/q0p02_ecc0_norb100_Vprof4_Np256_r2p5_Rk5Ad
 ptStep.png used on input line 569.
 (pdftex.def)             Requested size: 123.58298pt x 109.85153pt.
 
-<figures/ch2/q0p04_ecc0_norb100_Vprof4_Np256_r2p5_Rk5AdptStep.png, id=6243, 325
+<figures/ch2/q0p04_ecc0_norb100_Vprof4_Np256_r2p5_Rk5AdptStep.png, id=6302, 325
 .215pt x 289.08pt>
 File: figures/ch2/q0p04_ecc0_norb100_Vprof4_Np256_r2p5_Rk5AdptStep.png Graphic 
 file (type png)
@@ -2173,7 +2175,7 @@ Package pdftex.def Info: figures/ch2/q0p04_ecc0_norb100_Vprof4_Np256_r2p5_Rk5Ad
 ptStep.png used on input line 570.
 (pdftex.def)             Requested size: 123.58298pt x 109.85153pt.
 
-<figures/ch2/q0p06_ecc0_norb100_Vprof4_Np256_r2p5_Rk5AdptStep.png, id=6244, 325
+<figures/ch2/q0p06_ecc0_norb100_Vprof4_Np256_r2p5_Rk5AdptStep.png, id=6303, 325
 .215pt x 289.08pt>
 File: figures/ch2/q0p06_ecc0_norb100_Vprof4_Np256_r2p5_Rk5AdptStep.png Graphic 
 file (type png)
@@ -2183,7 +2185,7 @@ Package pdftex.def Info: figures/ch2/q0p06_ecc0_norb100_Vprof4_Np256_r2p5_Rk5Ad
 ptStep.png used on input line 571.
 (pdftex.def)             Requested size: 123.58298pt x 109.85153pt.
 
-<figures/ch2/q0p08_ecc0_norb100_Vprof4_Np256_r2p5_Rk5AdptStep.png, id=6245, 325
+<figures/ch2/q0p08_ecc0_norb100_Vprof4_Np256_r2p5_Rk5AdptStep.png, id=6304, 325
 .215pt x 289.08pt>
 File: figures/ch2/q0p08_ecc0_norb100_Vprof4_Np256_r2p5_Rk5AdptStep.png Graphic 
 file (type png)
@@ -2192,18 +2194,18 @@ file (type png)
 Package pdftex.def Info: figures/ch2/q0p08_ecc0_norb100_Vprof4_Np256_r2p5_Rk5Ad
 ptStep.png used on input line 572.
 (pdftex.def)             Requested size: 123.58298pt x 109.85153pt.
- [110]
-[111 <./figures/ch2/q0p0001_ecc0_norb1_Vprof4_Np256_r2p5_Rk5AdptStep.png> <./fi
+ [111]
+[112 <./figures/ch2/q0p0001_ecc0_norb1_Vprof4_Np256_r2p5_Rk5AdptStep.png> <./fi
 gures/ch2/q0p001_ecc0_norb1_Vprof4_Np256_r2p5_Rk5AdptStep.png> <./figures/ch2/q
 0p01_ecc0_norb1_Vprof4_Np256_r2p5_Rk5AdptStep.png> <./figures/ch2/q0p1_ecc0_nor
 b1_Vprof4_Np256_r2p5_Rk5AdptStep.png> <./figures/ch2/q0p3_ecc0_norb1_Vprof4_Np2
 56_r2p5_Rk5AdptStep.png> <./figures/ch2/q1_ecc0_norb1_Vprof4_Np256_r2p5_Rk5Adpt
-Step.png>] [112 <./figures/ch2/q0p0001_ecc0_norb100_Vprof4_Np256_r2p5_Rk5AdptSt
+Step.png>] [113 <./figures/ch2/q0p0001_ecc0_norb100_Vprof4_Np256_r2p5_Rk5AdptSt
 ep.png> <./figures/ch2/q0p001_ecc0_norb100_Vprof4_Np256_r2p5_Rk5AdptStep.png> <
 ./figures/ch2/q0p01_ecc0_norb100_Vprof4_Np256_r2p5_Rk5AdptStep.png> <./figures/
 ch2/q0p1_ecc0_norb100_Vprof4_Np256_r2p5_Rk5AdptStep.png> <./figures/ch2/q0p3_ec
 c0_norb100_Vprof4_Np256_r2p5_Rk5AdptStep.png> <./figures/ch2/q1_ecc0_norb100_Vp
-rof4_Np256_r2p5_Rk5AdptStep.png>] [113 <./figures/ch2/q0p02_ecc0_norb100_Vprof4
+rof4_Np256_r2p5_Rk5AdptStep.png>] [114 <./figures/ch2/q0p02_ecc0_norb100_Vprof4
 _Np256_r2p5_Rk5AdptStep.png> <./figures/ch2/q0p04_ecc0_norb100_Vprof4_Np256_r2p
 5_Rk5AdptStep.png> <./figures/ch2/q0p06_ecc0_norb100_Vprof4_Np256_r2p5_Rk5AdptS
 tep.png> <./figures/ch2/q0p08_ecc0_norb100_Vprof4_Np256_r2p5_Rk5AdptStep.png>]
@@ -2217,16 +2219,16 @@ m/n/12 .
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [114]
-<figures/ch2/Gap_Closing_Mach_All.pdf, id=6316, 940.53041pt x 613.41824pt>
+ [115]
+<figures/ch2/Gap_Closing_Mach_All.pdf, id=6376, 940.53041pt x 613.41824pt>
 File: figures/ch2/Gap_Closing_Mach_All.pdf Graphic file (type pdf)
 
 <use figures/ch2/Gap_Closing_Mach_All.pdf>
 Package pdftex.def Info: figures/ch2/Gap_Closing_Mach_All.pdf used on input lin
 e 675.
 (pdftex.def)             Requested size: 235.13202pt x 153.35419pt.
- [115]
-<figures/ch2/ISO_rmx100_Dens2D_Norb1000_q1_alpha9e-06_Mach3.png, id=6326, 578.1
+ [116]
+<figures/ch2/ISO_rmx100_Dens2D_Norb1000_q1_alpha9e-06_Mach3.png, id=6385, 578.1
 6pt x 433.62pt>
 File: figures/ch2/ISO_rmx100_Dens2D_Norb1000_q1_alpha9e-06_Mach3.png Graphic fi
 le (type png)
@@ -2236,7 +2238,7 @@ Package pdftex.def Info: figures/ch2/ISO_rmx100_Dens2D_Norb1000_q1_alpha9e-06_M
 ach3.png used on input line 704.
 (pdftex.def)             Requested size: 138.76123pt x 104.07092pt.
 
-<figures/ch2/ISO_rmx100_Dens2D_Norb01000_q1_alpha3p6e-05_Mach6.png, id=6327, 57
+<figures/ch2/ISO_rmx100_Dens2D_Norb01000_q1_alpha3p6e-05_Mach6.png, id=6386, 57
 8.16pt x 433.62pt>
 File: figures/ch2/ISO_rmx100_Dens2D_Norb01000_q1_alpha3p6e-05_Mach6.png Graphic
  file (type png)
@@ -2246,7 +2248,7 @@ Package pdftex.def Info: figures/ch2/ISO_rmx100_Dens2D_Norb01000_q1_alpha3p6e-0
 5_Mach6.png used on input line 706.
 (pdftex.def)             Requested size: 138.76123pt x 104.07092pt.
 
-<figures/ch2/ADI_rmx100_Dens2D_Norb1000_q1_alpha9e-06_Mach3.png, id=6328, 578.1
+<figures/ch2/ADI_rmx100_Dens2D_Norb1000_q1_alpha9e-06_Mach3.png, id=6387, 578.1
 6pt x 433.62pt>
 File: figures/ch2/ADI_rmx100_Dens2D_Norb1000_q1_alpha9e-06_Mach3.png Graphic fi
 le (type png)
@@ -2256,7 +2258,7 @@ Package pdftex.def Info: figures/ch2/ADI_rmx100_Dens2D_Norb1000_q1_alpha9e-06_M
 ach3.png used on input line 708.
 (pdftex.def)             Requested size: 138.76123pt x 104.07092pt.
 
-<figures/ch2/ADI_rmx100_Dens2D_Norb1000_q1_alpha3p6e-05_Mach6.png, id=6329, 578
+<figures/ch2/ADI_rmx100_Dens2D_Norb1000_q1_alpha3p6e-05_Mach6.png, id=6388, 578
 .16pt x 433.62pt>
 File: figures/ch2/ADI_rmx100_Dens2D_Norb1000_q1_alpha3p6e-05_Mach6.png Graphic 
 file (type png)
@@ -2265,22 +2267,22 @@ file (type png)
 Package pdftex.def Info: figures/ch2/ADI_rmx100_Dens2D_Norb1000_q1_alpha3p6e-05
 _Mach6.png used on input line 710.
 (pdftex.def)             Requested size: 138.76123pt x 104.07092pt.
- [116 <./figures/ch2/Gap_Closing_Mach_All.pdf>] [117 <./figures/ch2/ISO_rmx100_
+ [117 <./figures/ch2/Gap_Closing_Mach_All.pdf>] [118 <./figures/ch2/ISO_rmx100_
 Dens2D_Norb1000_q1_alpha9e-06_Mach3.png> <./figures/ch2/ISO_rmx100_Dens2D_Norb0
 1000_q1_alpha3p6e-05_Mach6.png> <./figures/ch2/ADI_rmx100_Dens2D_Norb1000_q1_al
 pha9e-06_Mach3.png> <./figures/ch2/ADI_rmx100_Dens2D_Norb1000_q1_alpha3p6e-05_M
 ach6.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [118]
-[119]
+ [119]
+[120]
 Overfull \hbox (6.02725pt too wide) in paragraph at lines 852--872
 []\T1/ptm/b/n/12 A lop-sided, pre-cess-ing cav-ity ap-pears: \T1/ptm/m/n/12 The
  hy-dro-dy-nam-i-cal study in-tro-duces a phe-nomenon
  []
 
-[120]
-<figures/ch2/Dens2D_Norb5000_q0p001_alpha0p01_Mach20.png, id=6478, 578.16pt x 4
+[121]
+<figures/ch2/Dens2D_Norb5000_q0p001_alpha0p01_Mach20.png, id=6537, 578.16pt x 4
 33.62pt>
 File: figures/ch2/Dens2D_Norb5000_q0p001_alpha0p01_Mach20.png Graphic file (typ
 e png)
@@ -2289,7 +2291,7 @@ Package pdftex.def Info: figures/ch2/Dens2D_Norb5000_q0p001_alpha0p01_Mach20.pn
 g used on input line 882.
 (pdftex.def)             Requested size: 179.22774pt x 134.4208pt.
 
-<figures/ch2/Dens2D_Norb5000_q0p01_alpha0p01_Mach20.png, id=6479, 578.16pt x 43
+<figures/ch2/Dens2D_Norb5000_q0p01_alpha0p01_Mach20.png, id=6538, 578.16pt x 43
 3.62pt>
 File: figures/ch2/Dens2D_Norb5000_q0p01_alpha0p01_Mach20.png Graphic file (type
  png)
@@ -2298,7 +2300,7 @@ Package pdftex.def Info: figures/ch2/Dens2D_Norb5000_q0p01_alpha0p01_Mach20.png
  used on input line 884.
 (pdftex.def)             Requested size: 179.22774pt x 134.4208pt.
 
-<figures/ch2/Dens2D_Norb5000_q0p03_alpha0p01_Mach20.png, id=6480, 578.16pt x 43
+<figures/ch2/Dens2D_Norb5000_q0p03_alpha0p01_Mach20.png, id=6539, 578.16pt x 43
 3.62pt>
 File: figures/ch2/Dens2D_Norb5000_q0p03_alpha0p01_Mach20.png Graphic file (type
  png)
@@ -2307,7 +2309,7 @@ Package pdftex.def Info: figures/ch2/Dens2D_Norb5000_q0p03_alpha0p01_Mach20.png
  used on input line 886.
 (pdftex.def)             Requested size: 179.22774pt x 134.4208pt.
 
-<figures/ch2/Dens2D_Norb5000_q0p05_alpha0p01_Mach20.png, id=6481, 578.16pt x 43
+<figures/ch2/Dens2D_Norb5000_q0p05_alpha0p01_Mach20.png, id=6540, 578.16pt x 43
 3.62pt>
 File: figures/ch2/Dens2D_Norb5000_q0p05_alpha0p01_Mach20.png Graphic file (type
  png)
@@ -2316,7 +2318,7 @@ Package pdftex.def Info: figures/ch2/Dens2D_Norb5000_q0p05_alpha0p01_Mach20.png
  used on input line 888.
 (pdftex.def)             Requested size: 179.22774pt x 134.4208pt.
 
-<figures/ch2/Dens2D_Norb5000_q0p1_alpha0p01_Mach20.png, id=6482, 578.16pt x 433
+<figures/ch2/Dens2D_Norb5000_q0p1_alpha0p01_Mach20.png, id=6541, 578.16pt x 433
 .62pt>
 File: figures/ch2/Dens2D_Norb5000_q0p1_alpha0p01_Mach20.png Graphic file (type 
 png)
@@ -2325,7 +2327,7 @@ Package pdftex.def Info: figures/ch2/Dens2D_Norb5000_q0p1_alpha0p01_Mach20.png
 used on input line 890.
 (pdftex.def)             Requested size: 179.22774pt x 134.4208pt.
 
-<figures/ch2/Dens2D_Norb5000_q1_alpha0p01_Mach20.png, id=6483, 578.16pt x 433.6
+<figures/ch2/Dens2D_Norb5000_q1_alpha0p01_Mach20.png, id=6542, 578.16pt x 433.6
 2pt>
 File: figures/ch2/Dens2D_Norb5000_q1_alpha0p01_Mach20.png Graphic file (type pn
 g)
@@ -2345,8 +2347,8 @@ il-ity and the tran-si-tion to a time-dependent,
  []
 
 
-<figures/ch2/1Panel_AllLpoints_PScalDens_ZVCInOut_Norb0001p00_q0p001.png, id=64
-87, 444.4605pt x 433.62pt>
+<figures/ch2/1Panel_AllLpoints_PScalDens_ZVCInOut_Norb0001p00_q0p001.png, id=65
+46, 444.4605pt x 433.62pt>
 File: figures/ch2/1Panel_AllLpoints_PScalDens_ZVCInOut_Norb0001p00_q0p001.png G
 raphic file (type png)
 
@@ -2355,8 +2357,8 @@ Package pdftex.def Info: figures/ch2/1Panel_AllLpoints_PScalDens_ZVCInOut_Norb0
 001p00_q0p001.png used on input line 937.
 (pdftex.def)             Requested size: 133.33917pt x 130.087pt.
 
-<figures/ch2/1Panel_AllLpoints_PScalDens_ZVCInOut_Norb0002p00_q0p001.png, id=64
-88, 444.4605pt x 433.62pt>
+<figures/ch2/1Panel_AllLpoints_PScalDens_ZVCInOut_Norb0002p00_q0p001.png, id=65
+47, 444.4605pt x 433.62pt>
 File: figures/ch2/1Panel_AllLpoints_PScalDens_ZVCInOut_Norb0002p00_q0p001.png G
 raphic file (type png)
 
@@ -2365,8 +2367,8 @@ Package pdftex.def Info: figures/ch2/1Panel_AllLpoints_PScalDens_ZVCInOut_Norb0
 002p00_q0p001.png used on input line 938.
 (pdftex.def)             Requested size: 133.33917pt x 130.087pt.
 
-<figures/ch2/1Panel_AllLpoints_PScalDens_ZVCInOut_Norb0004p00_q0p001.png, id=64
-89, 444.4605pt x 433.62pt>
+<figures/ch2/1Panel_AllLpoints_PScalDens_ZVCInOut_Norb0004p00_q0p001.png, id=65
+48, 444.4605pt x 433.62pt>
 File: figures/ch2/1Panel_AllLpoints_PScalDens_ZVCInOut_Norb0004p00_q0p001.png G
 raphic file (type png)
 
@@ -2375,8 +2377,8 @@ Package pdftex.def Info: figures/ch2/1Panel_AllLpoints_PScalDens_ZVCInOut_Norb0
 004p00_q0p001.png used on input line 939.
 (pdftex.def)             Requested size: 133.33917pt x 130.087pt.
 
-<figures/ch2/1Panel_AllLpoints_PScalDens_ZVCInOut_Norb0008p00_q0p001.png, id=64
-90, 444.4605pt x 433.62pt>
+<figures/ch2/1Panel_AllLpoints_PScalDens_ZVCInOut_Norb0008p00_q0p001.png, id=65
+49, 444.4605pt x 433.62pt>
 File: figures/ch2/1Panel_AllLpoints_PScalDens_ZVCInOut_Norb0008p00_q0p001.png G
 raphic file (type png)
 
@@ -2385,8 +2387,8 @@ Package pdftex.def Info: figures/ch2/1Panel_AllLpoints_PScalDens_ZVCInOut_Norb0
 008p00_q0p001.png used on input line 940.
 (pdftex.def)             Requested size: 133.33917pt x 130.087pt.
 
-<figures/ch2/1Panel_AllLpoints_PScalDens_ZVCInOut_Norb0001p00_q0p01.png, id=649
-1, 444.4605pt x 433.62pt>
+<figures/ch2/1Panel_AllLpoints_PScalDens_ZVCInOut_Norb0001p00_q0p01.png, id=655
+0, 444.4605pt x 433.62pt>
 File: figures/ch2/1Panel_AllLpoints_PScalDens_ZVCInOut_Norb0001p00_q0p01.png Gr
 aphic file (type png)
 
@@ -2395,8 +2397,8 @@ Package pdftex.def Info: figures/ch2/1Panel_AllLpoints_PScalDens_ZVCInOut_Norb0
 001p00_q0p01.png used on input line 943.
 (pdftex.def)             Requested size: 133.33917pt x 130.087pt.
 
-<figures/ch2/1Panel_AllLpoints_PScalDens_ZVCInOut_Norb0002p00_q0p01.png, id=649
-2, 444.4605pt x 433.62pt>
+<figures/ch2/1Panel_AllLpoints_PScalDens_ZVCInOut_Norb0002p00_q0p01.png, id=655
+1, 444.4605pt x 433.62pt>
 File: figures/ch2/1Panel_AllLpoints_PScalDens_ZVCInOut_Norb0002p00_q0p01.png Gr
 aphic file (type png)
 
@@ -2405,8 +2407,8 @@ Package pdftex.def Info: figures/ch2/1Panel_AllLpoints_PScalDens_ZVCInOut_Norb0
 002p00_q0p01.png used on input line 944.
 (pdftex.def)             Requested size: 133.33917pt x 130.087pt.
 
-<figures/ch2/1Panel_AllLpoints_PScalDens_ZVCInOut_Norb0004p00_q0p01.png, id=649
-3, 444.4605pt x 433.62pt>
+<figures/ch2/1Panel_AllLpoints_PScalDens_ZVCInOut_Norb0004p00_q0p01.png, id=655
+2, 444.4605pt x 433.62pt>
 File: figures/ch2/1Panel_AllLpoints_PScalDens_ZVCInOut_Norb0004p00_q0p01.png Gr
 aphic file (type png)
 
@@ -2415,8 +2417,8 @@ Package pdftex.def Info: figures/ch2/1Panel_AllLpoints_PScalDens_ZVCInOut_Norb0
 004p00_q0p01.png used on input line 945.
 (pdftex.def)             Requested size: 133.33917pt x 130.087pt.
 
-<figures/ch2/1Panel_AllLpoints_PScalDens_ZVCInOut_Norb0008p00_q0p01.png, id=649
-4, 444.4605pt x 433.62pt>
+<figures/ch2/1Panel_AllLpoints_PScalDens_ZVCInOut_Norb0008p00_q0p01.png, id=655
+3, 444.4605pt x 433.62pt>
 File: figures/ch2/1Panel_AllLpoints_PScalDens_ZVCInOut_Norb0008p00_q0p01.png Gr
 aphic file (type png)
 
@@ -2425,8 +2427,8 @@ Package pdftex.def Info: figures/ch2/1Panel_AllLpoints_PScalDens_ZVCInOut_Norb0
 008p00_q0p01.png used on input line 946.
 (pdftex.def)             Requested size: 133.33917pt x 130.087pt.
 
-<figures/ch2/1Panel_AllLpoints_PScalDens_ZVCInOut_Norb0001p00_q0p05.png, id=649
-5, 444.4605pt x 433.62pt>
+<figures/ch2/1Panel_AllLpoints_PScalDens_ZVCInOut_Norb0001p00_q0p05.png, id=655
+4, 444.4605pt x 433.62pt>
 File: figures/ch2/1Panel_AllLpoints_PScalDens_ZVCInOut_Norb0001p00_q0p05.png Gr
 aphic file (type png)
 
@@ -2435,8 +2437,8 @@ Package pdftex.def Info: figures/ch2/1Panel_AllLpoints_PScalDens_ZVCInOut_Norb0
 001p00_q0p05.png used on input line 949.
 (pdftex.def)             Requested size: 133.33917pt x 130.087pt.
 
-<figures/ch2/1Panel_AllLpoints_PScalDens_ZVCInOut_Norb0002p00_q0p05.png, id=649
-6, 444.4605pt x 433.62pt>
+<figures/ch2/1Panel_AllLpoints_PScalDens_ZVCInOut_Norb0002p00_q0p05.png, id=655
+5, 444.4605pt x 433.62pt>
 File: figures/ch2/1Panel_AllLpoints_PScalDens_ZVCInOut_Norb0002p00_q0p05.png Gr
 aphic file (type png)
 
@@ -2445,8 +2447,8 @@ Package pdftex.def Info: figures/ch2/1Panel_AllLpoints_PScalDens_ZVCInOut_Norb0
 002p00_q0p05.png used on input line 950.
 (pdftex.def)             Requested size: 133.33917pt x 130.087pt.
 
-<figures/ch2/1Panel_AllLpoints_PScalDens_ZVCInOut_Norb0004p00_q0p05.png, id=649
-7, 444.4605pt x 433.62pt>
+<figures/ch2/1Panel_AllLpoints_PScalDens_ZVCInOut_Norb0004p00_q0p05.png, id=655
+6, 444.4605pt x 433.62pt>
 File: figures/ch2/1Panel_AllLpoints_PScalDens_ZVCInOut_Norb0004p00_q0p05.png Gr
 aphic file (type png)
 
@@ -2455,8 +2457,8 @@ Package pdftex.def Info: figures/ch2/1Panel_AllLpoints_PScalDens_ZVCInOut_Norb0
 004p00_q0p05.png used on input line 951.
 (pdftex.def)             Requested size: 133.33917pt x 130.087pt.
 
-<figures/ch2/1Panel_AllLpoints_PScalDens_ZVCInOut_Norb0008p00_q0p05.png, id=649
-8, 444.4605pt x 433.62pt>
+<figures/ch2/1Panel_AllLpoints_PScalDens_ZVCInOut_Norb0008p00_q0p05.png, id=655
+7, 444.4605pt x 433.62pt>
 File: figures/ch2/1Panel_AllLpoints_PScalDens_ZVCInOut_Norb0008p00_q0p05.png Gr
 aphic file (type png)
 
@@ -2469,11 +2471,11 @@ Overfull \hbox (18.6017pt too wide) in paragraph at lines 934--954
  []$ 
  []
 
-[121] [122 <./figures/ch2/Dens2D_Norb5000_q0p001_alpha0p01_Mach20.png> <./figur
+[122] [123 <./figures/ch2/Dens2D_Norb5000_q0p001_alpha0p01_Mach20.png> <./figur
 es/ch2/Dens2D_Norb5000_q0p01_alpha0p01_Mach20.png> <./figures/ch2/Dens2D_Norb50
 00_q0p03_alpha0p01_Mach20.png> <./figures/ch2/Dens2D_Norb5000_q0p05_alpha0p01_M
 ach20.png> <./figures/ch2/Dens2D_Norb5000_q0p1_alpha0p01_Mach20.png> <./figures
-/ch2/Dens2D_Norb5000_q1_alpha0p01_Mach20.png>] [123 <./figures/ch2/1Panel_AllLp
+/ch2/Dens2D_Norb5000_q1_alpha0p01_Mach20.png>] [124 <./figures/ch2/1Panel_AllLp
 oints_PScalDens_ZVCInOut_Norb0001p00_q0p001.png> <./figures/ch2/1Panel_AllLpoin
 ts_PScalDens_ZVCInOut_Norb0002p00_q0p001.png> <./figures/ch2/1Panel_AllLpoints_
 PScalDens_ZVCInOut_Norb0004p00_q0p001.png> <./figures/ch2/1Panel_AllLpoints_PSc
@@ -2488,27 +2490,27 @@ _q0p05.png> <./figures/ch2/1Panel_AllLpoints_PScalDens_ZVCInOut_Norb0008p00_q0p
 05.png>]
 Underfull \vbox (badness 6236) has occurred while \output is active []
 
- [124]
-[125] [126]
+ [125]
+[126] [127]
 Underfull \hbox (badness 10000) in paragraph at lines 1080--1083
 
  []
 
-<figures/ch2/StdS_100.pdf, id=6566, 578.16pt x 433.62pt>
+<figures/ch2/StdS_100.pdf, id=6626, 578.16pt x 433.62pt>
 File: figures/ch2/StdS_100.pdf Graphic file (type pdf)
 
 <use figures/ch2/StdS_100.pdf>
 Package pdftex.def Info: figures/ch2/StdS_100.pdf used on input line 1133.
 (pdftex.def)             Requested size: 173.44933pt x 130.087pt.
 
-<figures/ch2/StdP_100.pdf, id=6567, 578.16pt x 433.62pt>
+<figures/ch2/StdP_100.pdf, id=6627, 578.16pt x 433.62pt>
 File: figures/ch2/StdP_100.pdf Graphic file (type pdf)
 
 <use figures/ch2/StdP_100.pdf>
 Package pdftex.def Info: figures/ch2/StdP_100.pdf used on input line 1134.
 (pdftex.def)             Requested size: 173.44933pt x 130.087pt.
 
-<figures/ch2/StdTot_100.pdf, id=6568, 578.16pt x 433.62pt>
+<figures/ch2/StdTot_100.pdf, id=6628, 578.16pt x 433.62pt>
 File: figures/ch2/StdTot_100.pdf Graphic file (type pdf)
 
 <use figures/ch2/StdTot_100.pdf>
@@ -2519,15 +2521,15 @@ Overfull \hbox (26.5325pt too wide) in paragraph at lines 1131--1137
  []$ 
  []
 
-[127] [128 <./figures/ch2/StdS_100.pdf> <./figures/ch2/StdP_100.pdf
+[128] [129 <./figures/ch2/StdS_100.pdf> <./figures/ch2/StdP_100.pdf
 
-pdfTeX warning: /usr/texbin/pdflatex (file ./figures/ch2/StdP_100.pdf): PDF inc
-lusion: multiple pdfs with page group included in a single page
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures/ch2/StdP_100.pdf):
+ PDF inclusion: multiple pdfs with page group included in a single page
 > <./figures/ch2/StdTot_100.pdf
 
-pdfTeX warning: /usr/texbin/pdflatex (file ./figures/ch2/StdTot_100.pdf): PDF i
-nclusion: multiple pdfs with page group included in a single page
->] <figures/ch2/edsk1_100.pdf, id=6732, 578.16pt x 433.62pt>
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures/ch2/StdTot_100.pdf
+): PDF inclusion: multiple pdfs with page group included in a single page
+>] <figures/ch2/edsk1_100.pdf, id=6793, 578.16pt x 433.62pt>
 File: figures/ch2/edsk1_100.pdf Graphic file (type pdf)
 
 <use figures/ch2/edsk1_100.pdf>
@@ -2536,8 +2538,8 @@ Package pdftex.def Info: figures/ch2/edsk1_100.pdf used on input line 1206.
 
 Underfull \vbox (badness 6300) has occurred while \output is active []
 
- [129 <./figures/ch2/edsk1_100.pdf>]
-<figures/ch2/Dens2D_Norb0390_q0p01_alpha0p9_Mach30.png, id=6785, 578.16pt x 433
+ [130 <./figures/ch2/edsk1_100.pdf>]
+<figures/ch2/Dens2D_Norb0390_q0p01_alpha0p9_Mach30.png, id=6844, 578.16pt x 433
 .62pt>
 File: figures/ch2/Dens2D_Norb0390_q0p01_alpha0p9_Mach30.png Graphic file (type 
 png)
@@ -2546,7 +2548,7 @@ Package pdftex.def Info: figures/ch2/Dens2D_Norb0390_q0p01_alpha0p9_Mach30.png
 used on input line 1235.
 (pdftex.def)             Requested size: 144.53964pt x 108.40472pt.
 
-<figures/ch2/Dens2D_Norb0390_q0p1_alpha0p9_Mach30.png, id=6786, 578.16pt x 433.
+<figures/ch2/Dens2D_Norb0390_q0p1_alpha0p9_Mach30.png, id=6845, 578.16pt x 433.
 62pt>
 File: figures/ch2/Dens2D_Norb0390_q0p1_alpha0p9_Mach30.png Graphic file (type p
 ng)
@@ -2557,15 +2559,15 @@ sed on input line 1236.
 
 Underfull \vbox (badness 2809) has occurred while \output is active []
 
- [130 <./figures/ch2/Dens2D_Norb0390_q0p01_alpha0p9_Mach30.png> <./figures/ch2/
-Dens2D_Norb0390_q0p1_alpha0p9_Mach30.png>] [131]
-Underfull \vbox (badness 6236) has occurred while \output is active []
-
- [132]
+ [131 <./figures/ch2/Dens2D_Norb0390_q0p01_alpha0p9_Mach30.png> <./figures/ch2/
+Dens2D_Norb0390_q0p1_alpha0p9_Mach30.png>] [132]
 Underfull \vbox (badness 6236) has occurred while \output is active []
 
  [133]
-[134]
+Underfull \vbox (badness 6236) has occurred while \output is active []
+
+ [134]
+[135]
 Overfull \hbox (9.99197pt too wide) in paragraph at lines 1451--1454
 \T1/ptm/m/n/12 We fol-low [][]Mur-ray[][] ([][]1994[][]) and [][]Mur-ray & Der-
 mott[][] ([][]2000[][]) to add an ex-ter-nal vis-cous force $\OT1/cmr/bx/n/12 F
@@ -2575,7 +2577,7 @@ mott[][] ([][]2000[][]) to add an ex-ter-nal vis-cous force $\OT1/cmr/bx/n/12 F
 
 Underfull \vbox (badness 2088) has occurred while \output is active []
 
- [135pdfTeX warning (ext4): destination with the same identifier (name{equation
+ [136pdfTeX warning (ext4): destination with the same identifier (name{equation
 .3.5.10}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -2610,7 +2612,7 @@ l.1499 \begin{equation}
                        
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [136pdfTeX warning (ext4): destination with the same identifier (name{equation
+ [137pdfTeX warning (ext4): destination with the same identifier (name{equation
 .3.5.10}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -2619,14 +2621,14 @@ l.1535 \begin{equation}
                        ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [137pdfTeX warning (ext4): destination with the same identifier (name{equation
+ [138pdfTeX warning (ext4): destination with the same identifier (name{equation
 .3.5.13}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.1576 \end{equation}
-                     ] [138]
-<figures/ch2/LinStab_Re_Im_Visc.pdf, id=6919, 501.875pt x 315.1775pt>
+                     ] [139]
+<figures/ch2/LinStab_Re_Im_Visc.pdf, id=6978, 501.875pt x 315.1775pt>
 File: figures/ch2/LinStab_Re_Im_Visc.pdf Graphic file (type pdf)
 
 <use figures/ch2/LinStab_Re_Im_Visc.pdf>
@@ -2634,14 +2636,14 @@ Package pdftex.def Info: figures/ch2/LinStab_Re_Im_Visc.pdf used on input line
 1637.
 (pdftex.def)             Requested size: 225.84166pt x 141.82855pt.
 
-<figures/ch2/Tinst.pdf, id=6920, 501.875pt x 305.14pt>
+<figures/ch2/Tinst.pdf, id=6979, 501.875pt x 305.14pt>
 File: figures/ch2/Tinst.pdf Graphic file (type pdf)
 
 <use figures/ch2/Tinst.pdf>
 Package pdftex.def Info: figures/ch2/Tinst.pdf used on input line 1638.
 (pdftex.def)             Requested size: 268.50429pt x 163.2506pt.
 
-<figures/ch2/ViscL4vsL5_xTorb.pdf, id=6921, 974.31183pt x 611.15044pt>
+<figures/ch2/ViscL4vsL5_xTorb.pdf, id=6980, 974.31183pt x 611.15044pt>
 File: figures/ch2/ViscL4vsL5_xTorb.pdf Graphic file (type pdf)
 
 <use figures/ch2/ViscL4vsL5_xTorb.pdf>
@@ -2649,7 +2651,7 @@ Package pdftex.def Info: figures/ch2/ViscL4vsL5_xTorb.pdf used on input line 16
 60.
 (pdftex.def)             Requested size: 233.83961pt x 146.6791pt.
 
-<figures/ch2/q0p0001_Visc0p001_Vprof4_Np1e4_50norb_Rk5AdptStep.png, id=6924, 32
+<figures/ch2/q0p0001_Visc0p001_Vprof4_Np1e4_50norb_Rk5AdptStep.png, id=6983, 32
 5.215pt x 289.08pt>
 File: figures/ch2/q0p0001_Visc0p001_Vprof4_Np1e4_50norb_Rk5AdptStep.png Graphic
  file (type png)
@@ -2659,7 +2661,7 @@ Package pdftex.def Info: figures/ch2/q0p0001_Visc0p001_Vprof4_Np1e4_50norb_Rk5A
 dptStep.png used on input line 1686.
 (pdftex.def)             Requested size: 123.58298pt x 109.85153pt.
 
-<figures/ch2/q0p001_Visc0p001_Vprof4_Np1e4_50norb_Rk5AdptStep.png, id=6925, 325
+<figures/ch2/q0p001_Visc0p001_Vprof4_Np1e4_50norb_Rk5AdptStep.png, id=6984, 325
 .215pt x 289.08pt>
 File: figures/ch2/q0p001_Visc0p001_Vprof4_Np1e4_50norb_Rk5AdptStep.png Graphic 
 file (type png)
@@ -2669,7 +2671,7 @@ Package pdftex.def Info: figures/ch2/q0p001_Visc0p001_Vprof4_Np1e4_50norb_Rk5Ad
 ptStep.png used on input line 1687.
 (pdftex.def)             Requested size: 123.58298pt x 109.85153pt.
 
-<figures/ch2/q0p01_Visc0p001_Vprof4_Np1e4_50norb_Rk5AdptStep.png, id=6926, 325.
+<figures/ch2/q0p01_Visc0p001_Vprof4_Np1e4_50norb_Rk5AdptStep.png, id=6985, 325.
 215pt x 289.08pt>
 File: figures/ch2/q0p01_Visc0p001_Vprof4_Np1e4_50norb_Rk5AdptStep.png Graphic f
 ile (type png)
@@ -2679,7 +2681,7 @@ Package pdftex.def Info: figures/ch2/q0p01_Visc0p001_Vprof4_Np1e4_50norb_Rk5Adp
 tStep.png used on input line 1688.
 (pdftex.def)             Requested size: 123.58298pt x 109.85153pt.
 
-<figures/ch2/q0p1_Visc0p001_Vprof4_Np1e4_50norb_Rk5AdptStep.png, id=6927, 325.2
+<figures/ch2/q0p1_Visc0p001_Vprof4_Np1e4_50norb_Rk5AdptStep.png, id=6986, 325.2
 15pt x 289.08pt>
 File: figures/ch2/q0p1_Visc0p001_Vprof4_Np1e4_50norb_Rk5AdptStep.png Graphic fi
 le (type png)
@@ -2689,7 +2691,7 @@ Package pdftex.def Info: figures/ch2/q0p1_Visc0p001_Vprof4_Np1e4_50norb_Rk5Adpt
 Step.png used on input line 1689.
 (pdftex.def)             Requested size: 123.58298pt x 109.85153pt.
 
-<figures/ch2/q0p3_Visc0p001_Vprof4_Np1e4_50norb_Rk5AdptStep.png, id=6928, 325.2
+<figures/ch2/q0p3_Visc0p001_Vprof4_Np1e4_50norb_Rk5AdptStep.png, id=6987, 325.2
 15pt x 289.08pt>
 File: figures/ch2/q0p3_Visc0p001_Vprof4_Np1e4_50norb_Rk5AdptStep.png Graphic fi
 le (type png)
@@ -2699,7 +2701,7 @@ Package pdftex.def Info: figures/ch2/q0p3_Visc0p001_Vprof4_Np1e4_50norb_Rk5Adpt
 Step.png used on input line 1690.
 (pdftex.def)             Requested size: 123.58298pt x 109.85153pt.
 
-<figures/ch2/q1_Visc0p001_Vprof4_Np1e4_50norb_Rk5AdptStep.png, id=6929, 325.215
+<figures/ch2/q1_Visc0p001_Vprof4_Np1e4_50norb_Rk5AdptStep.png, id=6988, 325.215
 pt x 289.08pt>
 File: figures/ch2/q1_Visc0p001_Vprof4_Np1e4_50norb_Rk5AdptStep.png Graphic file
  (type png)
@@ -2709,46 +2711,46 @@ Package pdftex.def Info: figures/ch2/q1_Visc0p001_Vprof4_Np1e4_50norb_Rk5AdptSt
 ep.png used on input line 1691.
 (pdftex.def)             Requested size: 123.58298pt x 109.85153pt.
 )
-(./chapters/ch3_PG1302_a.tex [139] [140 <./figures/ch2/LinStab_Re_Im_Visc.pdf> 
+(./chapters/ch3_PG1302_a.tex [140] [141 <./figures/ch2/LinStab_Re_Im_Visc.pdf> 
 <./figures/ch2/Tinst.pdf
 
-pdfTeX warning: /usr/texbin/pdflatex (file ./figures/ch2/Tinst.pdf): PDF inclus
-ion: multiple pdfs with page group included in a single page
->] [141 <./figures/ch2/ViscL4vsL5_xTorb.pdf>] [142 <./figures/ch2/q0p0001_Visc0
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures/ch2/Tinst.pdf): PD
+F inclusion: multiple pdfs with page group included in a single page
+>] [142 <./figures/ch2/ViscL4vsL5_xTorb.pdf>] [143 <./figures/ch2/q0p0001_Visc0
 p001_Vprof4_Np1e4_50norb_Rk5AdptStep.png> <./figures/ch2/q0p001_Visc0p001_Vprof
 4_Np1e4_50norb_Rk5AdptStep.png> <./figures/ch2/q0p01_Visc0p001_Vprof4_Np1e4_50n
 orb_Rk5AdptStep.png> <./figures/ch2/q0p1_Visc0p001_Vprof4_Np1e4_50norb_Rk5AdptS
 tep.png> <./figures/ch2/q0p3_Visc0p001_Vprof4_Np1e4_50norb_Rk5AdptStep.png> <./
 figures/ch2/q1_Visc0p001_Vprof4_Np1e4_50norb_Rk5AdptStep.png>]
 Chapter 4.
-[143
+[144
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [144]
-<figures/ch3/fig1aL.png, id=7197, 367.1316pt x 289.08pt>
+ [145]
+<figures/ch3/fig1aL.png, id=7256, 367.1316pt x 289.08pt>
 File: figures/ch3/fig1aL.png Graphic file (type png)
 
 <use figures/ch3/fig1aL.png>
 Package pdftex.def Info: figures/ch3/fig1aL.png used on input line 199.
 (pdftex.def)             Requested size: 134.73857pt x 106.09335pt.
 
-<figures/ch3/fig1aR.png, id=7198, 469.755pt x 433.62pt>
+<figures/ch3/fig1aR.png, id=7257, 469.755pt x 433.62pt>
 File: figures/ch3/fig1aR.png Graphic file (type png)
 
 <use figures/ch3/fig1aR.png>
 Package pdftex.def Info: figures/ch3/fig1aR.png used on input line 200.
 (pdftex.def)             Requested size: 115.08739pt x 106.23451pt.
 
-<figures/ch3/fig1bL.png, id=7199, 367.1316pt x 289.08pt>
+<figures/ch3/fig1bL.png, id=7258, 367.1316pt x 289.08pt>
 File: figures/ch3/fig1bL.png Graphic file (type png)
 
 <use figures/ch3/fig1bL.png>
 Package pdftex.def Info: figures/ch3/fig1bL.png used on input line 202.
 (pdftex.def)             Requested size: 134.73857pt x 106.09335pt.
 
-<figures/ch3/fig1bR.png, id=7200, 469.755pt x 433.62pt>
+<figures/ch3/fig1bR.png, id=7259, 469.755pt x 433.62pt>
 File: figures/ch3/fig1bR.png Graphic file (type png)
 
 <use figures/ch3/fig1bR.png>
@@ -2757,12 +2759,12 @@ Package pdftex.def Info: figures/ch3/fig1bR.png used on input line 203.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [145 <./figures/ch3/fig1aL.png> <./figures/ch3/fig1aR.png> <./figures/ch3/fig1
+ [146 <./figures/ch3/fig1aL.png> <./figures/ch3/fig1aR.png> <./figures/ch3/fig1
 bL.png> <./figures/ch3/fig1bR.png>]
 Underfull \vbox (badness 1776) has occurred while \output is active []
 
- [146]
-[147] <figures/ch3/fig2.pdf, id=7255, 501.32393pt x 346.81207pt>
+ [147]
+[148] <figures/ch3/fig2.pdf, id=7315, 501.32393pt x 346.81207pt>
 File: figures/ch3/fig2.pdf Graphic file (type pdf)
 
 <use figures/ch3/fig2.pdf>
@@ -2771,9 +2773,9 @@ Package pdftex.def Info: figures/ch3/fig2.pdf used on input line 346.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [148]
-[149 <./figures/ch3/fig2.pdf>]
-<figures/ch3/fig3.pdf, id=7359, 979.00055pt x 526.1298pt>
+ [149]
+[150 <./figures/ch3/fig2.pdf>]
+<figures/ch3/fig3.pdf, id=7417, 979.00055pt x 526.1298pt>
 File: figures/ch3/fig3.pdf Graphic file (type pdf)
 
 <use figures/ch3/fig3.pdf>
@@ -2782,54 +2784,54 @@ Package pdftex.def Info: figures/ch3/fig3.pdf used on input line 437.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [150]
+ [151]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [151 <./figures/ch3/fig3.pdf>] [152]
+ [152 <./figures/ch3/fig3.pdf>] [153]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [153]
-[154] <figures/ch3/fig4.png, id=7444, 794.97pt x 361.35pt>
+ [154]
+[155] <figures/ch3/fig4.png, id=7502, 794.97pt x 361.35pt>
 File: figures/ch3/fig4.png Graphic file (type png)
 
 <use figures/ch3/fig4.png>
 Package pdftex.def Info: figures/ch3/fig4.png used on input line 660.
 (pdftex.def)             Requested size: 238.49284pt x 108.40584pt.
- [155]
+ [156]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [156 <./figures/ch3/fig4.png>] [157]) (./chapters/ch4_PG1302_b.tex [158]
+ [157 <./figures/ch3/fig4.png>] [158]) (./chapters/ch4_PG1302_b.tex [159]
 Chapter 5.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [159
+ [160
 
 ]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [160]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [161]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [162]
-<figures/ch4/fig1_fix.pdf, id=7562, 1253.68375pt x 418.56375pt>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [163]
+<figures/ch4/fig1_fix.pdf, id=7620, 1253.68375pt x 418.56375pt>
 File: figures/ch4/fig1_fix.pdf Graphic file (type pdf)
 
 <use figures/ch4/fig1_fix.pdf>
 Package pdftex.def Info: figures/ch4/fig1_fix.pdf used on input line 300.
 (pdftex.def)             Requested size: 422.77661pt x 141.15378pt.
 
-<figures/ch4/fig2_Type42.pdf, id=7567, 578.16pt x 433.62pt>
+<figures/ch4/fig2_Type42.pdf, id=7625, 578.16pt x 433.62pt>
 File: figures/ch4/fig2_Type42.pdf Graphic file (type pdf)
 
 <use figures/ch4/fig2_Type42.pdf>
 Package pdftex.def Info: figures/ch4/fig2_Type42.pdf used on input line 325.
 (pdftex.def)             Requested size: 446.2658pt x 334.69565pt.
 
-<figures/ch4/fig3.pdf, id=7576, 614.295pt x 794.97pt>
+<figures/ch4/fig3.pdf, id=7634, 614.295pt x 794.97pt>
 File: figures/ch4/fig3.pdf Graphic file (type pdf)
 
 <use figures/ch4/fig3.pdf>
@@ -2843,7 +2845,7 @@ LaTeX Warning: Float too large for page by 2.17996pt on input line 367.
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 387.
 
-[163]pdfTeX warning (ext4): destination with the same identifier (name{equation
+[164]pdfTeX warning (ext4): destination with the same identifier (name{equation
 .5.0.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -2851,26 +2853,26 @@ l.428 \end{align}
                  
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [164 <./figures/ch4/fig1_fix.pdf>] [165 <./figures/ch4/fig2_Type42.pdf>] [166 
+ [165 <./figures/ch4/fig1_fix.pdf>] [166 <./figures/ch4/fig2_Type42.pdf>] [167 
 <./figures/ch4/fig3.pdf>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [167]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [168]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [169]
-Underfull \vbox (badness 3058) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [170]
-[171] [172] [173]
+Underfull \vbox (badness 3058) has occurred while \output is active []
+
+ [171]
+[172] [173] [174]
 
 LaTeX Warning: Command \r invalid in math mode on input line 830.
 
 Missing character: There is no Å in font cmr12!
-[174] <figures/ch4/figMethods1.pdf, id=7837, 614.295pt x 794.97pt>
+[175] <figures/ch4/figMethods1.pdf, id=7895, 614.295pt x 794.97pt>
 File: figures/ch4/figMethods1.pdf Graphic file (type pdf)
 
 <use figures/ch4/figMethods1.pdf>
@@ -2881,21 +2883,21 @@ Overfull \hbox (175.72145pt too wide) in paragraph at lines 1006--1020
 []  []
  []
 
-<figures/ch4/figMethods2.pdf, id=7838, 298.10722pt x 298.10722pt>
+<figures/ch4/figMethods2.pdf, id=7896, 298.10722pt x 298.10722pt>
 File: figures/ch4/figMethods2.pdf Graphic file (type pdf)
 
 <use figures/ch4/figMethods2.pdf>
 Package pdftex.def Info: figures/ch4/figMethods2.pdf used on input line 1036.
 (pdftex.def)             Requested size: 298.10648pt x 298.10648pt.
 
-<figures/ch4/figMethods3a.pdf, id=7839, 578.16pt x 433.62pt>
+<figures/ch4/figMethods3a.pdf, id=7897, 578.16pt x 433.62pt>
 File: figures/ch4/figMethods3a.pdf Graphic file (type pdf)
 
 <use figures/ch4/figMethods3a.pdf>
 Package pdftex.def Info: figures/ch4/figMethods3a.pdf used on input line 1064.
 (pdftex.def)             Requested size: 260.16959pt x 195.1272pt.
 
-<figures/ch4/figMethods3b.pdf, id=7840, 578.16pt x 433.62pt>
+<figures/ch4/figMethods3b.pdf, id=7898, 578.16pt x 433.62pt>
 File: figures/ch4/figMethods3b.pdf Graphic file (type pdf)
 
 <use figures/ch4/figMethods3b.pdf>
@@ -2906,1301 +2908,251 @@ Overfull \hbox (23.60915pt too wide) in paragraph at lines 1061--1069
  []$ 
  []
 
-) (./chapters/ch5_Dust.tex [175] [176 <./figures/ch4/figMethods1.pdf>] [177 <./
-figures/ch4/figMethods2.pdf>] [178 <./figures/ch4/figMethods3a.pdf> <./figures/
-ch4/figMethods3b.pdf>]
+) (./chapters/ch5_Dust_Final.tex [176] [177 <./figures/ch4/figMethods1.pdf>]
+[178 <./figures/ch4/figMethods2.pdf>] [179 <./figures/ch4/figMethods3a.pdf> <./
+figures/ch4/figMethods3b.pdf>]
 Chapter 6.
-[179
+[180
 
 ]
 Underfull \vbox (badness 1292) has occurred while \output is active []
 
- [180]
+ [181]
 Underfull \vbox (badness 6236) has occurred while \output is active []
 
- [181]
-[182] [183]
-<figures/ch5/boosting_Pbin_M.pdf, id=8134, 503.68036pt x 524.41533pt>
+ [182]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [183]
+Underfull \vbox (badness 1648) has occurred while \output is active []
+
+ [184]
+[185] <figures/ch5/boosting_Pbin_M.pdf, id=8201, 503.52628pt x 524.86378pt>
 File: figures/ch5/boosting_Pbin_M.pdf Graphic file (type pdf)
 
 <use figures/ch5/boosting_Pbin_M.pdf>
-Package pdftex.def Info: figures/ch5/boosting_Pbin_M.pdf used on input line 229
+Package pdftex.def Info: figures/ch5/boosting_Pbin_M.pdf used on input line 278
 .
-(pdftex.def)             Requested size: 166.21503pt x 173.05759pt.
- [184] [185 <./figures/ch5/boosting_Pbin_M.pdf>] [186]
-Underfull \vbox (badness 8132) has occurred while \output is active []
+(pdftex.def)             Requested size: 166.16418pt x 173.20558pt.
 
- [187]
-<figures/ch5/tem_schematic.pdf, id=8293, 1016.85217pt x 689.80972pt>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [186]
+[187 <./figures/ch5/boosting_Pbin_M.pdf>]
+Underfull \vbox (badness 6808) has occurred while \output is active []
+
+ [188]
+<figures/ch5/tem_schematic.pdf, id=8346, 1016.85217pt x 689.80972pt>
 File: figures/ch5/tem_schematic.pdf Graphic file (type pdf)
 
 <use figures/ch5/tem_schematic.pdf>
-Package pdftex.def Info: figures/ch5/tem_schematic.pdf used on input line 374.
+Package pdftex.def Info: figures/ch5/tem_schematic.pdf used on input line 399.
 (pdftex.def)             Requested size: 223.70816pt x 151.7586pt.
 
-<figures/ch5/Torus_Schematic.pdf, id=8294, 953.46037pt x 709.778pt>
+<figures/ch5/Torus_Schematic.pdf, id=8347, 953.46037pt x 709.778pt>
 File: figures/ch5/Torus_Schematic.pdf Graphic file (type pdf)
 
 <use figures/ch5/Torus_Schematic.pdf>
-Package pdftex.def Info: figures/ch5/Torus_Schematic.pdf used on input line 375
+Package pdftex.def Info: figures/ch5/Torus_Schematic.pdf used on input line 400
 .
 (pdftex.def)             Requested size: 209.76193pt x 156.15164pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [188]
+ [189]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [189 <./figures/ch5/tem_schematic.pdf> <./figures/ch5/Torus_Schematic.pdf>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [190]
+ [190 <./figures/ch5/tem_schematic.pdf> <./figures/ch5/Torus_Schematic.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [191]
-[192]
 Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [192]
+
+LaTeX Warning: Float too large for page by 37.13828pt on input line 599.
+
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
 
  [193]
-<figures/ch5/AIRplots/DopvsISO_AIRoAUV_J1p5708_numin0_numx5_reclim2_TRHS.png, i
-d=8433, 578.16pt x 433.62pt>
-File: figures/ch5/AIRplots/DopvsISO_AIRoAUV_J1p5708_numin0_numx5_reclim2_TRHS.p
-ng Graphic file (type png)
-
-<use figures/ch5/AIRplots/DopvsISO_AIRoAUV_J1p5708_numin0_numx5_reclim2_TRHS.pn
-g>
-Package pdftex.def Info: figures/ch5/AIRplots/DopvsISO_AIRoAUV_J1p5708_numin0_n
-umx5_reclim2_TRHS.png used on input line 612.
-(pdftex.def)             Requested size: 190.79338pt x 143.09503pt.
-
-Underfull \vbox (badness 6236) has occurred while \output is active []
-
- [194]
-Underfull \vbox (badness 6842) has occurred while \output is active []
-
- [195 <./figures/ch5/AIRplots/DopvsISO_AIRoAUV_J1p5708_numin0_numx5_reclim2_TRH
-S.png>]
-<figures/ch5/AIRplots/Qv_vark__AIRoAUV_J1p5708_numin0_numx5_reclim2_TRHS.png, i
-d=8453, 578.16pt x 433.62pt>
-File: figures/ch5/AIRplots/Qv_vark__AIRoAUV_J1p5708_numin0_numx5_reclim2_TRHS.p
-ng Graphic file (type png)
-
-<use figures/ch5/AIRplots/Qv_vark__AIRoAUV_J1p5708_numin0_numx5_reclim2_TRHS.pn
-g>
-Package pdftex.def Info: figures/ch5/AIRplots/Qv_vark__AIRoAUV_J1p5708_numin0_n
-umx5_reclim2_TRHS.png used on input line 710.
-(pdftex.def)             Requested size: 190.79338pt x 143.09503pt.
-
-Underfull \vbox (badness 2626) has occurred while \output is active []
+[194] [195]
+Underfull \vbox (badness 1102) has occurred while \output is active []
 
  [196]
-<figures/ch5/Sphere/FISO_Sphere_nrm0_Om1_VaryRin_numin0_numx10.png, id=8469, 57
-8.16pt x 433.62pt>
-File: figures/ch5/Sphere/FISO_Sphere_nrm0_Om1_VaryRin_numin0_numx10.png Graphic
- file (type png)
+<figures/ch5/AIRplots/DopvsISO_AIRoAUV_alpha4_TsubCut1800_J1p5708_numin0_numx3_
+reclim50_TRHS2mx.png, id=8506, 578.16pt x 433.62pt>
+File: figures/ch5/AIRplots/DopvsISO_AIRoAUV_alpha4_TsubCut1800_J1p5708_numin0_n
+umx3_reclim50_TRHS2mx.png Graphic file (type png)
 
-<use figures/ch5/Sphere/FISO_Sphere_nrm0_Om1_VaryRin_numin0_numx10.png>
-Package pdftex.def Info: figures/ch5/Sphere/FISO_Sphere_nrm0_Om1_VaryRin_numin0
-_numx10.png used on input line 768.
+<use figures/ch5/AIRplots/DopvsISO_AIRoAUV_alpha4_TsubCut1800_J1p5708_numin0_nu
+mx3_reclim50_TRHS2mx.png>
+Package pdftex.def Info: figures/ch5/AIRplots/DopvsISO_AIRoAUV_alpha4_TsubCut18
+00_J1p5708_numin0_numx3_reclim50_TRHS2mx.png used on input line 776.
 (pdftex.def)             Requested size: 190.79338pt x 143.09503pt.
+ [197]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-<figures/ch5/Sphere/FDop_1R0_Sphere_nrm0__J0_Inc0_VaryRin_numin0_numx10.png, id
-=8470, 578.16pt x 433.62pt>
-File: figures/ch5/Sphere/FDop_1R0_Sphere_nrm0__J0_Inc0_VaryRin_numin0_numx10.pn
-g Graphic file (type png)
+ [198 <./figures/ch5/AIRplots/DopvsISO_AIRoAUV_alpha4_TsubCut1800_J1p5708_numin
+0_numx3_reclim50_TRHS2mx.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-<use figures/ch5/Sphere/FDop_1R0_Sphere_nrm0__J0_Inc0_VaryRin_numin0_numx10.png
->
-Package pdftex.def Info: figures/ch5/Sphere/FDop_1R0_Sphere_nrm0__J0_Inc0_VaryR
-in_numin0_numx10.png used on input line 769.
+ [199]
+<figures/ch5/AIRplots/DopvsAlpha_AIRoAUV_J1p5708_numin0_numx5_reclim2_TRHS.png,
+ id=8542, 578.16pt x 433.62pt>
+File: figures/ch5/AIRplots/DopvsAlpha_AIRoAUV_J1p5708_numin0_numx5_reclim2_TRHS
+.png Graphic file (type png)
+
+<use figures/ch5/AIRplots/DopvsAlpha_AIRoAUV_J1p5708_numin0_numx5_reclim2_TRHS.
+png>
+Package pdftex.def Info: figures/ch5/AIRplots/DopvsAlpha_AIRoAUV_J1p5708_numin0
+_numx5_reclim2_TRHS.png used on input line 915.
 (pdftex.def)             Requested size: 190.79338pt x 143.09503pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [197 <./figures/ch5/AIRplots/Qv_vark__AIRoAUV_J1p5708_numin0_numx5_reclim2_TRH
-S.png>]
-<figures/ch5/Sphere/FDop_Sphere_nrm2p13871_Rde2p73218e+18_VaryInc_numin0_numx10
-.png, id=8479, 578.16pt x 433.62pt>
-File: figures/ch5/Sphere/FDop_Sphere_nrm2p13871_Rde2p73218e+18_VaryInc_numin0_n
-umx10.png Graphic file (type png)
+ [200]
+[201 <./figures/ch5/AIRplots/DopvsAlpha_AIRoAUV_J1p5708_numin0_numx5_reclim2_TR
+HS.png>]
+<figures/ch5/AIRplots/Qv_varnu0_SublimationCutT3000_AIRoAUV_k10_J1p5708_numin0p
+357143_numx0p25_reclim2.png, id=8566, 578.16pt x 433.62pt>
+File: figures/ch5/AIRplots/Qv_varnu0_SublimationCutT3000_AIRoAUV_k10_J1p5708_nu
+min0p357143_numx0p25_reclim2.png Graphic file (type png)
 
-<use figures/ch5/Sphere/FDop_Sphere_nrm2p13871_Rde2p73218e+18_VaryInc_numin0_nu
-mx10.png>
-Package pdftex.def Info: figures/ch5/Sphere/FDop_Sphere_nrm2p13871_Rde2p73218e+
-18_VaryInc_numin0_numx10.png used on input line 800.
+<use figures/ch5/AIRplots/Qv_varnu0_SublimationCutT3000_AIRoAUV_k10_J1p5708_num
+in0p357143_numx0p25_reclim2.png>
+Package pdftex.def Info: figures/ch5/AIRplots/Qv_varnu0_SublimationCutT3000_AIR
+oAUV_k10_J1p5708_numin0p357143_numx0p25_reclim2.png used on input line 971.
 (pdftex.def)             Requested size: 190.79338pt x 143.09503pt.
- [198 <./figures/ch5/Sphere/FISO_Sphere_nrm0_Om1_VaryRin_numin0_numx10.png> <./
-figures/ch5/Sphere/FDop_1R0_Sphere_nrm0__J0_Inc0_VaryRin_numin0_numx10.png>] [1
-99 <./figures/ch5/Sphere/FDop_Sphere_nrm2p13871_Rde2p73218e+18_VaryInc_numin0_n
-umx10.png>]
-<figures/ch5/AIRplots/AIRoAUV_J1p5708_numin0_numx5_reclim2_TRHS.png, id=8503, 5
-78.16pt x 433.62pt>
-File: figures/ch5/AIRplots/AIRoAUV_J1p5708_numin0_numx5_reclim2_TRHS.png Graphi
-c file (type png)
-
-<use figures/ch5/AIRplots/AIRoAUV_J1p5708_numin0_numx5_reclim2_TRHS.png>
-Package pdftex.def Info: figures/ch5/AIRplots/AIRoAUV_J1p5708_numin0_numx5_recl
-im2_TRHS.png used on input line 873.
-(pdftex.def)             Requested size: 156.10529pt x 117.07896pt.
-
-<figures/ch5/AIRplots/AIRoAUV_J0p785398_numin0_numx5_reclim2_TRHS.png, id=8504,
- 578.16pt x 433.62pt>
-File: figures/ch5/AIRplots/AIRoAUV_J0p785398_numin0_numx5_reclim2_TRHS.png Grap
-hic file (type png)
-
-<use figures/ch5/AIRplots/AIRoAUV_J0p785398_numin0_numx5_reclim2_TRHS.png>
-Package pdftex.def Info: figures/ch5/AIRplots/AIRoAUV_J0p785398_numin0_numx5_re
-clim2_TRHS.png used on input line 874.
-(pdftex.def)             Requested size: 156.10529pt x 117.07896pt.
-
-<figures/ch5/AIRplots/AIRoAUV_J0_numin0_numx5_reclim2_TRHS.png, id=8505, 578.16
-pt x 433.62pt>
-File: figures/ch5/AIRplots/AIRoAUV_J0_numin0_numx5_reclim2_TRHS.png Graphic fil
-e (type png)
-
-<use figures/ch5/AIRplots/AIRoAUV_J0_numin0_numx5_reclim2_TRHS.png>
-Package pdftex.def Info: figures/ch5/AIRplots/AIRoAUV_J0_numin0_numx5_reclim2_T
-RHS.png used on input line 875.
-(pdftex.def)             Requested size: 156.10529pt x 117.07896pt.
-
-Overfull \hbox (28.56087pt too wide) in paragraph at lines 870--877
- []$ 
- []
-
-
-<figures/ch5/AIRplots/AIRoAUVDop_J1p5708_numin0_numx5_reclim2.png, id=8511, 578
+ [202 <./figures/ch5/AIRplots/Qv_varnu0_SublimationCutT3000_AIRoAUV_k10_J1p5708
+_numin0p357143_numx0p25_reclim2.png>]
+<figures/ch5/Sphere/FISO_Sphere_nrm0_Om1_VaryRin_numin0_numx5.png, id=8585, 578
 .16pt x 433.62pt>
-File: figures/ch5/AIRplots/AIRoAUVDop_J1p5708_numin0_numx5_reclim2.png Graphic 
+File: figures/ch5/Sphere/FISO_Sphere_nrm0_Om1_VaryRin_numin0_numx5.png Graphic 
 file (type png)
 
-<use figures/ch5/AIRplots/AIRoAUVDop_J1p5708_numin0_numx5_reclim2.png>
-Package pdftex.def Info: figures/ch5/AIRplots/AIRoAUVDop_J1p5708_numin0_numx5_r
-eclim2.png used on input line 898.
-(pdftex.def)             Requested size: 156.10529pt x 117.07896pt.
+<use figures/ch5/Sphere/FISO_Sphere_nrm0_Om1_VaryRin_numin0_numx5.png>
+Package pdftex.def Info: figures/ch5/Sphere/FISO_Sphere_nrm0_Om1_VaryRin_numin0
+_numx5.png used on input line 1035.
+(pdftex.def)             Requested size: 190.79338pt x 143.09503pt.
 
-<figures/ch5/AIRplots/AIRoAUVDop_J0p785398_numin0_numx5_reclim2.png, id=8512, 5
-78.16pt x 433.62pt>
-File: figures/ch5/AIRplots/AIRoAUVDop_J0p785398_numin0_numx5_reclim2.png Graphi
-c file (type png)
+<figures/ch5/Sphere/FDop_R0_Sphere_nrm0__J0_Inc0_VaryRin_numin0_numx5.png, id=8
+586, 578.16pt x 433.62pt>
+File: figures/ch5/Sphere/FDop_R0_Sphere_nrm0__J0_Inc0_VaryRin_numin0_numx5.png 
+Graphic file (type png)
 
-<use figures/ch5/AIRplots/AIRoAUVDop_J0p785398_numin0_numx5_reclim2.png>
-Package pdftex.def Info: figures/ch5/AIRplots/AIRoAUVDop_J0p785398_numin0_numx5
-_reclim2.png used on input line 899.
-(pdftex.def)             Requested size: 156.10529pt x 117.07896pt.
+<use figures/ch5/Sphere/FDop_R0_Sphere_nrm0__J0_Inc0_VaryRin_numin0_numx5.png>
+Package pdftex.def Info: figures/ch5/Sphere/FDop_R0_Sphere_nrm0__J0_Inc0_VaryRi
+n_numin0_numx5.png used on input line 1036.
+(pdftex.def)             Requested size: 190.79338pt x 143.09503pt.
 
-<figures/ch5/AIRplots/AIRoAUVDop_J0_numin0_numx5_reclim2.png, id=8513, 578.16pt
- x 433.62pt>
-File: figures/ch5/AIRplots/AIRoAUVDop_J0_numin0_numx5_reclim2.png Graphic file 
-(type png)
- <use figures/ch5/AIRplots/AIRoAUVDop_J0_numin0_numx5_reclim2.png>
-Package pdftex.def Info: figures/ch5/AIRplots/AIRoAUVDop_J0_numin0_numx5_reclim
-2.png used on input line 900.
-(pdftex.def)             Requested size: 156.10529pt x 117.07896pt.
+[203 <./figures/ch5/Sphere/FISO_Sphere_nrm0_Om1_VaryRin_numin0_numx5.png> <./fi
+gures/ch5/Sphere/FDop_R0_Sphere_nrm0__J0_Inc0_VaryRin_numin0_numx5.png>]
+<figures/ch5/Sphere/FDop_Sphere_nrm0p0105326_Rde2p73218e+18_VaryInc_numin0_numx
+5.png, id=8598, 578.16pt x 433.62pt>
+File: figures/ch5/Sphere/FDop_Sphere_nrm0p0105326_Rde2p73218e+18_VaryInc_numin0
+_numx5.png Graphic file (type png)
 
-Overfull \hbox (28.56087pt too wide) in paragraph at lines 895--902
- []$ 
+<use figures/ch5/Sphere/FDop_Sphere_nrm0p0105326_Rde2p73218e+18_VaryInc_numin0_
+numx5.png>
+Package pdftex.def Info: figures/ch5/Sphere/FDop_Sphere_nrm0p0105326_Rde2p73218
+e+18_VaryInc_numin0_numx5.png used on input line 1075.
+(pdftex.def)             Requested size: 190.79338pt x 143.09503pt.
+
+Overfull \hbox (3.72154pt too wide) in alignment at lines 1096--1106
+ [][][] []
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [200 <./figures/ch5/AIRplots/AIRoAUV_J1p5708_numin0_numx5_reclim2_TRHS.png> <.
-/figures/ch5/AIRplots/AIRoAUV_J0p785398_numin0_numx5_reclim2_TRHS.png> <./figur
-es/ch5/AIRplots/AIRoAUV_J0_numin0_numx5_reclim2_TRHS.png>]
+ [204 <./figures/ch5/Sphere/FDop_Sphere_nrm0p0105326_Rde2p73218e+18_VaryInc_num
+in0_numx5.png>]
+Underfull \vbox (badness 3168) has occurred while \output is active []
+
+ [205]
+<figures/ch5/AIRplots/AIRoAUV_REL_J1p5708_numin0_numx3.png, id=8625, 578.16pt x
+ 433.62pt>
+File: figures/ch5/AIRplots/AIRoAUV_REL_J1p5708_numin0_numx3.png Graphic file (t
+ype png)
+ <use figures/ch5/AIRplots/AIRoAUV_REL_J1p5708_numin0_numx3.png>
+Package pdftex.def Info: figures/ch5/AIRplots/AIRoAUV_REL_J1p5708_numin0_numx3.
+png used on input line 1192.
+(pdftex.def)             Requested size: 156.10529pt x 117.07896pt.
+
+<figures/ch5/AIRplots/AIRoAUV_REL_J0p785398_numin0_numx3.png, id=8626, 578.16pt
+ x 433.62pt>
+File: figures/ch5/AIRplots/AIRoAUV_REL_J0p785398_numin0_numx3.png Graphic file 
+(type png)
+ <use figures/ch5/AIRplots/AIRoAUV_REL_J0p785398_numin0_numx3.png>
+Package pdftex.def Info: figures/ch5/AIRplots/AIRoAUV_REL_J0p785398_numin0_numx
+3.png used on input line 1193.
+(pdftex.def)             Requested size: 156.10529pt x 117.07896pt.
+
+<figures/ch5/AIRplots/AIRoAUV_REL_J0_numin0_numx3.png, id=8627, 578.16pt x 433.
+62pt>
+File: figures/ch5/AIRplots/AIRoAUV_REL_J0_numin0_numx3.png Graphic file (type p
+ng)
+ <use figures/ch5/AIRplots/AIRoAUV_REL_J0_numin0_numx3.png>
+Package pdftex.def Info: figures/ch5/AIRplots/AIRoAUV_REL_J0_numin0_numx3.png u
+sed on input line 1194.
+(pdftex.def)             Requested size: 156.10529pt x 117.07896pt.
+
+Overfull \hbox (28.56087pt too wide) in paragraph at lines 1189--1196
+ []$ 
+ []
+
+
+Overfull \hbox (2.23343pt too wide) in paragraph at lines 1213--1217
+[]\T1/ptm/m/n/12 Figure [][]6.9[][] ex-plores the de-pen-dence of IR vari-abil-
+ity am-pli-tude on dust ge-om-e-try for the Doppler
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [206]
+<figures/ch5/AIRplots/AIRoAUVDop_REL_J1p5708_numin0_numx3.png, id=8640, 578.16p
+t x 433.62pt>
+File: figures/ch5/AIRplots/AIRoAUVDop_REL_J1p5708_numin0_numx3.png Graphic file
+ (type png)
+
+<use figures/ch5/AIRplots/AIRoAUVDop_REL_J1p5708_numin0_numx3.png>
+Package pdftex.def Info: figures/ch5/AIRplots/AIRoAUVDop_REL_J1p5708_numin0_num
+x3.png used on input line 1248.
+(pdftex.def)             Requested size: 156.10529pt x 117.07896pt.
+
+<figures/ch5/AIRplots/AIRoAUVDop_REL_J0p785398_numin0_numx3.png, id=8641, 578.1
+6pt x 433.62pt>
+File: figures/ch5/AIRplots/AIRoAUVDop_REL_J0p785398_numin0_numx3.png Graphic fi
+le (type png)
+
+<use figures/ch5/AIRplots/AIRoAUVDop_REL_J0p785398_numin0_numx3.png>
+Package pdftex.def Info: figures/ch5/AIRplots/AIRoAUVDop_REL_J0p785398_numin0_n
+umx3.png used on input line 1249.
+(pdftex.def)             Requested size: 156.10529pt x 117.07896pt.
+
+<figures/ch5/AIRplots/AIRoAUVDop_REL_J0_numin0_numx3.png, id=8642, 578.16pt x 4
+33.62pt>
+File: figures/ch5/AIRplots/AIRoAUVDop_REL_J0_numin0_numx3.png Graphic file (typ
+e png)
+ <use figures/ch5/AIRplots/AIRoAUVDop_REL_J0_numin0_numx3.png>
+Package pdftex.def Info: figures/ch5/AIRplots/AIRoAUVDop_REL_J0_numin0_numx3.pn
+g used on input line 1250.
+(pdftex.def)             Requested size: 156.10529pt x 117.07896pt.
+
+Overfull \hbox (28.56087pt too wide) in paragraph at lines 1245--1252
+ []$ 
+ []
+
+
 <figures/ch5/ShTor_Thin/FISO_ShTor_Thin_nrm0__Rin2p73218e+18_Inc0_thetaT0p78539
-8_VaryJ_numin0_numx6.png, id=8527, 578.16pt x 433.62pt>
+8_VaryJ_numin0_numx6.png, id=8650, 578.16pt x 433.62pt>
 File: figures/ch5/ShTor_Thin/FISO_ShTor_Thin_nrm0__Rin2p73218e+18_Inc0_thetaT0p
 785398_VaryJ_numin0_numx6.png Graphic file (type png)
 
 <use figures/ch5/ShTor_Thin/FISO_ShTor_Thin_nrm0__Rin2p73218e+18_Inc0_thetaT0p7
 85398_VaryJ_numin0_numx6.png>
 Package pdftex.def Info: figures/ch5/ShTor_Thin/FISO_ShTor_Thin_nrm0__Rin2p7321
-8e+18_Inc0_thetaT0p785398_VaryJ_numin0_numx6.png used on input line 943.
-(pdftex.def)             Requested size: 190.79338pt x 143.09503pt.
-
-<figures/ch5/ShTor_Thin/FDop_ShTor_Thin_nrm0__Rin2p73218e+18_Inc0_thetaT0p78539
-8_VaryJ_numin0_numx6.png, id=8528, 578.16pt x 433.62pt>
-File: figures/ch5/ShTor_Thin/FDop_ShTor_Thin_nrm0__Rin2p73218e+18_Inc0_thetaT0p
-785398_VaryJ_numin0_numx6.png Graphic file (type png)
-
-<use figures/ch5/ShTor_Thin/FDop_ShTor_Thin_nrm0__Rin2p73218e+18_Inc0_thetaT0p7
-85398_VaryJ_numin0_numx6.png>
-Package pdftex.def Info: figures/ch5/ShTor_Thin/FDop_ShTor_Thin_nrm0__Rin2p7321
-8e+18_Inc0_thetaT0p785398_VaryJ_numin0_numx6.png used on input line 944.
-(pdftex.def)             Requested size: 190.79338pt x 143.09503pt.
-
-<figures/ch5/ShTor_Thin/FISO_ShTor_Thin_nrm0__Rin2p73218e+18_Inc0_thetaT1p0472_
-VaryJ_numin0_numx6.png, id=8529, 578.16pt x 433.62pt>
-File: figures/ch5/ShTor_Thin/FISO_ShTor_Thin_nrm0__Rin2p73218e+18_Inc0_thetaT1p
-0472_VaryJ_numin0_numx6.png Graphic file (type png)
-
-<use figures/ch5/ShTor_Thin/FISO_ShTor_Thin_nrm0__Rin2p73218e+18_Inc0_thetaT1p0
-472_VaryJ_numin0_numx6.png>
-Package pdftex.def Info: figures/ch5/ShTor_Thin/FISO_ShTor_Thin_nrm0__Rin2p7321
-8e+18_Inc0_thetaT1p0472_VaryJ_numin0_numx6.png used on input line 945.
-(pdftex.def)             Requested size: 190.79338pt x 143.09503pt.
-
-<figures/ch5/ShTor_Thin/FDop_ShTor_Thin_nrm0__Rin2p73218e+18_Inc0_thetaT1p0472_
-VaryJ_numin0_numx6.png, id=8530, 578.16pt x 433.62pt>
-File: figures/ch5/ShTor_Thin/FDop_ShTor_Thin_nrm0__Rin2p73218e+18_Inc0_thetaT1p
-0472_VaryJ_numin0_numx6.png Graphic file (type png)
-
-<use figures/ch5/ShTor_Thin/FDop_ShTor_Thin_nrm0__Rin2p73218e+18_Inc0_thetaT1p0
-472_VaryJ_numin0_numx6.png>
-Package pdftex.def Info: figures/ch5/ShTor_Thin/FDop_ShTor_Thin_nrm0__Rin2p7321
-8e+18_Inc0_thetaT1p0472_VaryJ_numin0_numx6.png used on input line 946.
-(pdftex.def)             Requested size: 190.79338pt x 143.09503pt.
-
-<figures/ch5/ShTor_Thin/FDop_ShTor_Thin_nrm0__Rin2p73218e+18_Inc1p5708_thetaT0p
-785398_VaryJ_numin0_numx6.png, id=8533, 578.16pt x 433.62pt>
-File: figures/ch5/ShTor_Thin/FDop_ShTor_Thin_nrm0__Rin2p73218e+18_Inc1p5708_the
-taT0p785398_VaryJ_numin0_numx6.png Graphic file (type png)
-
-<use figures/ch5/ShTor_Thin/FDop_ShTor_Thin_nrm0__Rin2p73218e+18_Inc1p5708_thet
-aT0p785398_VaryJ_numin0_numx6.png>
-Package pdftex.def Info: figures/ch5/ShTor_Thin/FDop_ShTor_Thin_nrm0__Rin2p7321
-8e+18_Inc1p5708_thetaT0p785398_VaryJ_numin0_numx6.png used on input line 982.
-(pdftex.def)             Requested size: 190.79338pt x 143.09503pt.
-
-
-LaTeX Warning: Float too large for page by 29.66801pt on input line 1046.
-
-[201 <./figures/ch5/AIRplots/AIRoAUVDop_J1p5708_numin0_numx5_reclim2.png> <./fi
-gures/ch5/AIRplots/AIRoAUVDop_J0p785398_numin0_numx5_reclim2.png> <./figures/ch
-5/AIRplots/AIRoAUVDop_J0_numin0_numx5_reclim2.png>] [202 <./figures/ch5/ShTor_T
-hin/FISO_ShTor_Thin_nrm0__Rin2p73218e+18_Inc0_thetaT0p785398_VaryJ_numin0_numx6
-.png> <./figures/ch5/ShTor_Thin/FDop_ShTor_Thin_nrm0__Rin2p73218e+18_Inc0_theta
-T0p785398_VaryJ_numin0_numx6.png> <./figures/ch5/ShTor_Thin/FISO_ShTor_Thin_nrm
-0__Rin2p73218e+18_Inc0_thetaT1p0472_VaryJ_numin0_numx6.png> <./figures/ch5/ShTo
-r_Thin/FDop_ShTor_Thin_nrm0__Rin2p73218e+18_Inc0_thetaT1p0472_VaryJ_numin0_numx
-6.png> <./figures/ch5/ShTor_Thin/FDop_ShTor_Thin_nrm0__Rin2p73218e+18_Inc1p5708
-_thetaT0p785398_VaryJ_numin0_numx6.png>] [203] [204] [205]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [206])
-(./chapters/PartII.tex [207] [208
-
-]) (./chapters/ch6_Rindler.tex [209]
-Chapter 7.
-[210
-
-]
-<figures/ch6/BHNS_CircuitDiagram.pdf, id=8627, 588.83464pt x 558.26671pt>
-File: figures/ch6/BHNS_CircuitDiagram.pdf Graphic file (type pdf)
-
-<use figures/ch6/BHNS_CircuitDiagram.pdf>
-Package pdftex.def Info: figures/ch6/BHNS_CircuitDiagram.pdf used on input line
- 149.
-(pdftex.def)             Requested size: 206.09521pt x 195.39627pt.
- [211 <./figures/ch6/BHNS_CircuitDiagram.pdf>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [212]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [213]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [214]
-<figures/ch6/MinkRind_STDiagram.pdf, id=8759, 583.4814pt x 583.48146pt>
-File: figures/ch6/MinkRind_STDiagram.pdf Graphic file (type pdf)
-
-<use figures/ch6/MinkRind_STDiagram.pdf>
-Package pdftex.def Info: figures/ch6/MinkRind_STDiagram.pdf used on input line 
-288.
-(pdftex.def)             Requested size: 204.22154pt x 204.22157pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [215]
-[216 <./figures/ch6/MinkRind_STDiagram.pdf>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [217]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [218]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [219]
-[220] <figures/ch6/Retarded_Diagram.pdf, id=8851, 646.05777pt x 591.95445pt>
-File: figures/ch6/Retarded_Diagram.pdf Graphic file (type pdf)
-
-<use figures/ch6/Retarded_Diagram.pdf>
-Package pdftex.def Info: figures/ch6/Retarded_Diagram.pdf used on input line 51
-7.
-(pdftex.def)             Requested size: 226.1236pt x 207.18715pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [221 <./figures/ch6/Retarded_Diagram.pdf>] [222pdfTeX warning (ext4): destinat
-ion with the same identifier (name{equation.7.3.23}) has been already used, dup
-licate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.583 W
-       hen there is only a magnetic dipole moment ${\bf m}$, then $Q^{\alpha...
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [223]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [224]
-Overfull \hbox (0.92076pt too wide) in paragraph at lines 692--694
-[]\T1/ptm/m/n/12 We find the Rindler fields $\OT1/cmr/bx/n/12 E[]$ \T1/ptm/m/n/
-12 and $\OT1/cmr/bx/n/12 B[]$ \T1/ptm/m/n/12 (primed) ex-pressed in terms of Mi
-nkowski fields $\OT1/cmr/bx/n/12 E[]\OML/cmm/m/it/12 ; \OT1/cmr/bx/n/12 B[]$
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [225]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [226]
-Overfull \hbox (3.3048pt too wide) in paragraph at lines 791--797
-\T1/ptm/m/n/12 As a check of the above dipole so-lu-tions, we con-sider a dipol
-e source that is sta-tion-ary in Minkowski
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [227]
-<figures/ch6/Inf_Stat_STDiagram.pdf, id=8975, 569.57323pt x 539.59576pt>
-File: figures/ch6/Inf_Stat_STDiagram.pdf Graphic file (type pdf)
-
-<use figures/ch6/Inf_Stat_STDiagram.pdf>
-Package pdftex.def Info: figures/ch6/Inf_Stat_STDiagram.pdf used on input line 
-838.
-(pdftex.def)             Requested size: 187.95975pt x 178.06715pt.
-
-<figures/ch6/InfandStat_Rind_stDiagram.pdf, id=8976, 594.02965pt x 542.47835pt>
-File: figures/ch6/InfandStat_Rind_stDiagram.pdf Graphic file (type pdf)
-<use figures/ch6/InfandStat_Rind_stDiagram.pdf>
-Package pdftex.def Info: figures/ch6/InfandStat_Rind_stDiagram.pdf used on inpu
-t line 839.
-(pdftex.def)             Requested size: 196.03038pt x 179.0184pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [228pdfTeX warning (ext4): destination with the same identifier (name{equation
-.7.4.39}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.864 T
-       he nonzero field components as viewed by the] [229 <./figures/ch6/Inf_St
-at_STDiagram.pdf> <./figures/ch6/InfandStat_Rind_stDiagram.pdf>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [230]
-<figures/ch6/FmunuINF_t01_x0_Syz.pdf, id=9086, 501.875pt x 520.94624pt>
-File: figures/ch6/FmunuINF_t01_x0_Syz.pdf Graphic file (type pdf)
-
-<use figures/ch6/FmunuINF_t01_x0_Syz.pdf>
-Package pdftex.def Info: figures/ch6/FmunuINF_t01_x0_Syz.pdf used on input line
- 932.
-(pdftex.def)             Requested size: 225.84166pt x 234.42365pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [231]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [232 <./figures/ch6/FmunuINF_t01_x0_Syz.pdf>]
-<figures/ch6/Infall_Rind_Dipole_BJH_t0.pdf, id=9121, 803.0pt x 602.25pt>
-File: figures/ch6/Infall_Rind_Dipole_BJH_t0.pdf Graphic file (type pdf)
-
-<use figures/ch6/Infall_Rind_Dipole_BJH_t0.pdf>
-Package pdftex.def Info: figures/ch6/Infall_Rind_Dipole_BJH_t0.pdf used on inpu
-t line 978.
-(pdftex.def)             Requested size: 208.77507pt x 156.5813pt.
-
-<figures/ch6/Infall_Rind_Dipole_ESig_t0.pdf, id=9122, 803.0pt x 602.25pt>
-File: figures/ch6/Infall_Rind_Dipole_ESig_t0.pdf Graphic file (type pdf)
-
-<use figures/ch6/Infall_Rind_Dipole_ESig_t0.pdf>
-Package pdftex.def Info: figures/ch6/Infall_Rind_Dipole_ESig_t0.pdf used on inp
-ut line 979.
-(pdftex.def)             Requested size: 208.77507pt x 156.5813pt.
-
-<figures/ch6/Infall_Rind_Dipole_BJH_t6gh.pdf, id=9123, 803.0pt x 602.25pt>
-File: figures/ch6/Infall_Rind_Dipole_BJH_t6gh.pdf Graphic file (type pdf)
-
-<use figures/ch6/Infall_Rind_Dipole_BJH_t6gh.pdf>
-Package pdftex.def Info: figures/ch6/Infall_Rind_Dipole_BJH_t6gh.pdf used on in
-put line 980.
-(pdftex.def)             Requested size: 208.77507pt x 156.5813pt.
-
-<figures/ch6/Infall_Rind_Dipole_ESig_t6gh.pdf, id=9124, 803.0pt x 602.25pt>
-File: figures/ch6/Infall_Rind_Dipole_ESig_t6gh.pdf Graphic file (type pdf)
-
-<use figures/ch6/Infall_Rind_Dipole_ESig_t6gh.pdf>
-Package pdftex.def Info: figures/ch6/Infall_Rind_Dipole_ESig_t6gh.pdf used on i
-nput line 981.
-(pdftex.def)             Requested size: 208.77507pt x 156.5813pt.
-
-<figures/ch6/Infall_Rind_Dipole_BJH_t12gh.pdf, id=9125, 803.0pt x 602.25pt>
-File: figures/ch6/Infall_Rind_Dipole_BJH_t12gh.pdf Graphic file (type pdf)
-
-<use figures/ch6/Infall_Rind_Dipole_BJH_t12gh.pdf>
-Package pdftex.def Info: figures/ch6/Infall_Rind_Dipole_BJH_t12gh.pdf used on i
-nput line 982.
-(pdftex.def)             Requested size: 208.77507pt x 156.5813pt.
-
-<figures/ch6/Infall_Rind_Dipole_ESig_t12gh.pdf, id=9126, 803.0pt x 602.25pt>
-File: figures/ch6/Infall_Rind_Dipole_ESig_t12gh.pdf Graphic file (type pdf)
-
-<use figures/ch6/Infall_Rind_Dipole_ESig_t12gh.pdf>
-Package pdftex.def Info: figures/ch6/Infall_Rind_Dipole_ESig_t12gh.pdf used on 
-input line 983.
-(pdftex.def)             Requested size: 208.77507pt x 156.5813pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [233]
-[234 <./figures/ch6/Infall_Rind_Dipole_BJH_t0.pdf> <./figures/ch6/Infall_Rind_D
-ipole_ESig_t0.pdf> <./figures/ch6/Infall_Rind_Dipole_BJH_t6gh.pdf> <./figures/c
-h6/Infall_Rind_Dipole_ESig_t6gh.pdf> <./figures/ch6/Infall_Rind_Dipole_BJH_t12g
-h.pdf> <./figures/ch6/Infall_Rind_Dipole_ESig_t12gh.pdf>]
-<figures/ch6/InfallBoost_stDiagram.pdf, id=9484, 589.24689pt x 542.0041pt>
-File: figures/ch6/InfallBoost_stDiagram.pdf Graphic file (type pdf)
-
-<use figures/ch6/InfallBoost_stDiagram.pdf>
-Package pdftex.def Info: figures/ch6/InfallBoost_stDiagram.pdf used on input li
-ne 1073.
-(pdftex.def)             Requested size: 235.69456pt x 216.79779pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [235]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [236 <./figures/ch6/InfallBoost_stDiagram.pdf>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [237]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [238]
-<figures/ch6/BoostInfall_Rind_Dipole_BJH_t0.pdf, id=9611, 803.0pt x 602.25pt>
-File: figures/ch6/BoostInfall_Rind_Dipole_BJH_t0.pdf Graphic file (type pdf)
-
-<use figures/ch6/BoostInfall_Rind_Dipole_BJH_t0.pdf>
-Package pdftex.def Info: figures/ch6/BoostInfall_Rind_Dipole_BJH_t0.pdf used on
- input line 1209.
-(pdftex.def)             Requested size: 208.77507pt x 156.5813pt.
-
-<figures/ch6/BoostInfall_Rind_Dipole_ESig_t0.pdf, id=9612, 803.0pt x 602.25pt>
-File: figures/ch6/BoostInfall_Rind_Dipole_ESig_t0.pdf Graphic file (type pdf)
-
-<use figures/ch6/BoostInfall_Rind_Dipole_ESig_t0.pdf>
-Package pdftex.def Info: figures/ch6/BoostInfall_Rind_Dipole_ESig_t0.pdf used o
-n input line 1210.
-(pdftex.def)             Requested size: 208.77507pt x 156.5813pt.
-
-<figures/ch6/BoostInfall_Rind_Dipole_BJH_t6gh.pdf, id=9613, 803.0pt x 602.25pt>
-File: figures/ch6/BoostInfall_Rind_Dipole_BJH_t6gh.pdf Graphic file (type pdf)
-<use figures/ch6/BoostInfall_Rind_Dipole_BJH_t6gh.pdf>
-Package pdftex.def Info: figures/ch6/BoostInfall_Rind_Dipole_BJH_t6gh.pdf used 
-on input line 1211.
-(pdftex.def)             Requested size: 208.77507pt x 156.5813pt.
-
-<figures/ch6/BoostInfall_Rind_Dipole_ESig_t6gh.pdf, id=9614, 803.0pt x 602.25pt
->
-File: figures/ch6/BoostInfall_Rind_Dipole_ESig_t6gh.pdf Graphic file (type pdf)
-
- <use figures/ch6/BoostInfall_Rind_Dipole_ESig_t6gh.pdf>
-Package pdftex.def Info: figures/ch6/BoostInfall_Rind_Dipole_ESig_t6gh.pdf used
- on input line 1212.
-(pdftex.def)             Requested size: 208.77507pt x 156.5813pt.
-
-<figures/ch6/BoostInfall_Rind_Dipole_BJH_t12gh.pdf, id=9615, 803.0pt x 602.25pt
->
-File: figures/ch6/BoostInfall_Rind_Dipole_BJH_t12gh.pdf Graphic file (type pdf)
-
- <use figures/ch6/BoostInfall_Rind_Dipole_BJH_t12gh.pdf>
-Package pdftex.def Info: figures/ch6/BoostInfall_Rind_Dipole_BJH_t12gh.pdf used
- on input line 1213.
-(pdftex.def)             Requested size: 208.77507pt x 156.5813pt.
-
-<figures/ch6/BoostInfall_Rind_Dipole_ESig_t12gh.pdf, id=9616, 803.0pt x 602.25p
-t>
-File: figures/ch6/BoostInfall_Rind_Dipole_ESig_t12gh.pdf Graphic file (type pdf
-)
- <use figures/ch6/BoostInfall_Rind_Dipole_ESig_t12gh.pdf>
-Package pdftex.def Info: figures/ch6/BoostInfall_Rind_Dipole_ESig_t12gh.pdf use
-d on input line 1214.
-(pdftex.def)             Requested size: 208.77507pt x 156.5813pt.
-
-
-LaTeX Warning: Float too large for page by 0.22531pt on input line 1227.
-
-
-Underfull \vbox (badness 1681) has occurred while \output is active []
-
- [239]
-[240 <./figures/ch6/BoostInfall_Rind_Dipole_BJH_t0.pdf> <./figures/ch6/BoostInf
-all_Rind_Dipole_ESig_t0.pdf> <./figures/ch6/BoostInfall_Rind_Dipole_BJH_t6gh.pd
-f> <./figures/ch6/BoostInfall_Rind_Dipole_ESig_t6gh.pdf> <./figures/ch6/BoostIn
-fall_Rind_Dipole_BJH_t12gh.pdf> <./figures/ch6/BoostInfall_Rind_Dipole_ESig_t12
-gh.pdf>] [241]
-<figures/ch6/FmunuINFBoost_betx01_t01_x0_Syz.pdf, id=9984, 501.875pt x 520.9462
-4pt>
-File: figures/ch6/FmunuINFBoost_betx01_t01_x0_Syz.pdf Graphic file (type pdf)
- <use figures/ch6/FmunuINFBoost_betx01_t01_x0_Syz.pdf>
-Package pdftex.def Info: figures/ch6/FmunuINFBoost_betx01_t01_x0_Syz.pdf used o
-n input line 1281.
-(pdftex.def)             Requested size: 150.56366pt x 156.28508pt.
-
-<figures/ch6/FmunuINFBoost_betx05_t01_x0_Syz.pdf, id=9985, 501.875pt x 520.9462
-4pt>
-File: figures/ch6/FmunuINFBoost_betx05_t01_x0_Syz.pdf Graphic file (type pdf)
- <use figures/ch6/FmunuINFBoost_betx05_t01_x0_Syz.pdf>
-Package pdftex.def Info: figures/ch6/FmunuINFBoost_betx05_t01_x0_Syz.pdf used o
-n input line 1282.
-(pdftex.def)             Requested size: 150.56366pt x 156.28508pt.
-
-<figures/ch6/FmunuINFBoost_betx09_t01_x0_Syz.pdf, id=9986, 501.875pt x 520.9462
-4pt>
-File: figures/ch6/FmunuINFBoost_betx09_t01_x0_Syz.pdf Graphic file (type pdf)
- <use figures/ch6/FmunuINFBoost_betx09_t01_x0_Syz.pdf>
-Package pdftex.def Info: figures/ch6/FmunuINFBoost_betx09_t01_x0_Syz.pdf used o
-n input line 1283.
-(pdftex.def)             Requested size: 150.56366pt x 156.28508pt.
-
-<figures/ch6/INFBoost_betx01_t1_Jxy_SigH_alph1e4.png, id=9989, 501.875pt x 497.
-86pt>
-File: figures/ch6/INFBoost_betx01_t1_Jxy_SigH_alph1e4.png Graphic file (type pn
-g)
- <use figures/ch6/INFBoost_betx01_t1_Jxy_SigH_alph1e4.png>
-Package pdftex.def Info: figures/ch6/INFBoost_betx01_t1_Jxy_SigH_alph1e4.png us
-ed on input line 1301.
-(pdftex.def)             Requested size: 150.56366pt x 149.35915pt.
-
-<figures/ch6/INFBoost_betx05_t1_Jxy_SigH_alph1e4.png, id=9990, 501.875pt x 497.
-86pt>
-File: figures/ch6/INFBoost_betx05_t1_Jxy_SigH_alph1e4.png Graphic file (type pn
-g)
- <use figures/ch6/INFBoost_betx05_t1_Jxy_SigH_alph1e4.png>
-Package pdftex.def Info: figures/ch6/INFBoost_betx05_t1_Jxy_SigH_alph1e4.png us
-ed on input line 1302.
-(pdftex.def)             Requested size: 150.56366pt x 149.35915pt.
-
-<figures/ch6/INFBoost_betx09_t1_Jxy_SigH_alph1e4.png, id=9991, 501.875pt x 497.
-86pt>
-File: figures/ch6/INFBoost_betx09_t1_Jxy_SigH_alph1e4.png Graphic file (type pn
-g)
- <use figures/ch6/INFBoost_betx09_t1_Jxy_SigH_alph1e4.png>
-Package pdftex.def Info: figures/ch6/INFBoost_betx09_t1_Jxy_SigH_alph1e4.png us
-ed on input line 1303.
-(pdftex.def)             Requested size: 150.56366pt x 149.35915pt.
-
-
-LaTeX Warning: Float too large for page by 0.28632pt on input line 1319.
-
-[242] [243 <./figures/ch6/FmunuINFBoost_betx01_t01_x0_Syz.pdf> <./figures/ch6/F
-munuINFBoost_betx05_t01_x0_Syz.pdf> <./figures/ch6/FmunuINFBoost_betx09_t01_x0_
-Syz.pdf>] [244 <./figures/ch6/INFBoost_betx01_t1_Jxy_SigH_alph1e4.png (PNG copy
-)> <./figures/ch6/INFBoost_betx05_t1_Jxy_SigH_alph1e4.png (PNG copy)> <./figure
-s/ch6/INFBoost_betx09_t1_Jxy_SigH_alph1e4.png (PNG copy)>] [245]
-<figures/ch6/Stationary_Rindler_Dipole_xy45.png, id=10070, 800.9925pt x 654.445
-pt>
-File: figures/ch6/Stationary_Rindler_Dipole_xy45.png Graphic file (type png)
- <use figures/ch6/Stationary_Rindler_Dipole_xy45.png>
-Package pdftex.def Info: figures/ch6/Stationary_Rindler_Dipole_xy45.png used on
- input line 1436.
-(pdftex.def)             Requested size: 240.29959pt x 196.335pt.
-
-<figures/ch6/Stationary_Rindler_Dipole_x.png, id=10071, 800.9925pt x 654.445pt>
-File: figures/ch6/Stationary_Rindler_Dipole_x.png Graphic file (type png)
-<use figures/ch6/Stationary_Rindler_Dipole_x.png>
-Package pdftex.def Info: figures/ch6/Stationary_Rindler_Dipole_x.png used on in
-put line 1437.
-(pdftex.def)             Requested size: 240.29959pt x 196.335pt.
-
-<figures/ch6/Stationary_Rindler_Dipole_y.png, id=10072, 800.9925pt x 654.445pt>
-File: figures/ch6/Stationary_Rindler_Dipole_y.png Graphic file (type png)
-<use figures/ch6/Stationary_Rindler_Dipole_y.png>
-Package pdftex.def Info: figures/ch6/Stationary_Rindler_Dipole_y.png used on in
-put line 1438.
-(pdftex.def)             Requested size: 240.29959pt x 196.335pt.
-
-<figures/ch6/Stationary_Rindler_Dipole_z.png, id=10073, 800.9925pt x 654.445pt>
-File: figures/ch6/Stationary_Rindler_Dipole_z.png Graphic file (type png)
-<use figures/ch6/Stationary_Rindler_Dipole_z.png>
-Package pdftex.def Info: figures/ch6/Stationary_Rindler_Dipole_z.png used on in
-put line 1439.
-(pdftex.def)             Requested size: 240.29959pt x 196.335pt.
-
-Overfull \hbox (30.8442pt too wide) in paragraph at lines 1434--1441
- []$ 
- []
-
-
-Underfull \vbox (badness 7186) has occurred while \output is active []
-
- [246]
-[247 <./figures/ch6/Stationary_Rindler_Dipole_xy45.png (PNG copy)> <./figures/c
-h6/Stationary_Rindler_Dipole_x.png (PNG copy)> <./figures/ch6/Stationary_Rindle
-r_Dipole_y.png (PNG copy)> <./figures/ch6/Stationary_Rindler_Dipole_z.png (PNG 
-copy)>] <figures/ch6/Boost_stDiagram.pdf, id=10084, 593.49641pt x 542.98605pt>
-File: figures/ch6/Boost_stDiagram.pdf Graphic file (type pdf)
-
-<use figures/ch6/Boost_stDiagram.pdf>
-Package pdftex.def Info: figures/ch6/Boost_stDiagram.pdf used on input line 152
-2.
-(pdftex.def)             Requested size: 237.39436pt x 217.19057pt.
-
-Underfull \vbox (badness 1286) has occurred while \output is active []
-
- [248]
-<figures/ch6/FmunuBoost_StrmCont_betx01_t1_xvat_EByz.png, id=10094, 1003.75pt x
- 523.9575pt>
-File: figures/ch6/FmunuBoost_StrmCont_betx01_t1_xvat_EByz.png Graphic file (typ
-e png)
- <use figures/ch6/FmunuBoost_StrmCont_betx01_t1_xvat_EByz.png>
-Package pdftex.def Info: figures/ch6/FmunuBoost_StrmCont_betx01_t1_xvat_EByz.pn
-g used on input line 1570.
-(pdftex.def)             Requested size: 220.82568pt x 115.271pt.
-
-<figures/ch6/FmunuBoost_StrmCont_betx05_t1_xvat_EByz.png, id=10095, 1003.75pt x
- 523.9575pt>
-File: figures/ch6/FmunuBoost_StrmCont_betx05_t1_xvat_EByz.png Graphic file (typ
-e png)
- <use figures/ch6/FmunuBoost_StrmCont_betx05_t1_xvat_EByz.png>
-Package pdftex.def Info: figures/ch6/FmunuBoost_StrmCont_betx05_t1_xvat_EByz.pn
-g used on input line 1571.
-(pdftex.def)             Requested size: 220.82568pt x 115.271pt.
-
-<figures/ch6/FmunuBoost_StrmCont_betx09_t1_xvat_EByz.png, id=10096, 1003.75pt x
- 523.9575pt>
-File: figures/ch6/FmunuBoost_StrmCont_betx09_t1_xvat_EByz.png Graphic file (typ
-e png)
- <use figures/ch6/FmunuBoost_StrmCont_betx09_t1_xvat_EByz.png>
-Package pdftex.def Info: figures/ch6/FmunuBoost_StrmCont_betx09_t1_xvat_EByz.pn
-g used on input line 1572.
-(pdftex.def)             Requested size: 220.82568pt x 115.271pt.
-
-
-LaTeX Warning: Float too large for page by 10.59308pt on input line 1607.
-
-[249 <./figures/ch6/Boost_stDiagram.pdf>] [250 <./figures/ch6/FmunuBoost_StrmCo
-nt_betx01_t1_xvat_EByz.png (PNG copy)> <./figures/ch6/FmunuBoost_StrmCont_betx0
-5_t1_xvat_EByz.png (PNG copy)> <./figures/ch6/FmunuBoost_StrmCont_betx09_t1_xva
-t_EByz.png (PNG copy)>]
-<figures/ch6/Boost_BandJH_t004_beta02_sqr_view.pdf, id=10155, 728.14583pt x 504
-.6702pt>
-File: figures/ch6/Boost_BandJH_t004_beta02_sqr_view.pdf Graphic file (type pdf)
-
- <use figures/ch6/Boost_BandJH_t004_beta02_sqr_view.pdf>
-Package pdftex.def Info: figures/ch6/Boost_BandJH_t004_beta02_sqr_view.pdf used
- on input line 1631.
-(pdftex.def)             Requested size: 225.72287pt x 156.44614pt.
-
-<figures/ch6/Boost_EandSigH_t004_beta02_sqr_view.pdf, id=10156, 728.88583pt x 5
-04.6702pt>
-File: figures/ch6/Boost_EandSigH_t004_beta02_sqr_view.pdf Graphic file (type pd
-f)
- <use figures/ch6/Boost_EandSigH_t004_beta02_sqr_view.pdf>
-Package pdftex.def Info: figures/ch6/Boost_EandSigH_t004_beta02_sqr_view.pdf us
-ed on input line 1632.
-(pdftex.def)             Requested size: 225.95227pt x 156.44614pt.
-
-Overfull \hbox (1.92015pt too wide) in paragraph at lines 1629--1634
- []$ 
- []
-
-[251 <./figures/ch6/Boost_BandJH_t004_beta02_sqr_view.pdf> <./figures/ch6/Boost
-_EandSigH_t004_beta02_sqr_view.pdf>]
-<figures/ch6/Boost_betx01_t10_Jxy_SigH_alph1e4.png, id=10225, 501.875pt x 497.8
-6pt>
-File: figures/ch6/Boost_betx01_t10_Jxy_SigH_alph1e4.png Graphic file (type png)
-
- <use figures/ch6/Boost_betx01_t10_Jxy_SigH_alph1e4.png>
-Package pdftex.def Info: figures/ch6/Boost_betx01_t10_Jxy_SigH_alph1e4.png used
- on input line 1659.
-(pdftex.def)             Requested size: 150.56366pt x 149.35915pt.
-
-<figures/ch6/Boost_betx05_t10_Jxy_SigH_alph1e4.png, id=10226, 501.875pt x 497.8
-6pt>
-File: figures/ch6/Boost_betx05_t10_Jxy_SigH_alph1e4.png Graphic file (type png)
-
- <use figures/ch6/Boost_betx05_t10_Jxy_SigH_alph1e4.png>
-Package pdftex.def Info: figures/ch6/Boost_betx05_t10_Jxy_SigH_alph1e4.png used
- on input line 1660.
-(pdftex.def)             Requested size: 150.56366pt x 149.35915pt.
-
-<figures/ch6/Streams_Boost_betx09_t10_Jxy_SigH_alph1e4.png, id=10227, 501.875pt
- x 497.86pt>
-File: figures/ch6/Streams_Boost_betx09_t10_Jxy_SigH_alph1e4.png Graphic file (t
-ype png)
- <use figures/ch6/Streams_Boost_betx09_t10_Jxy_SigH_alph1e4.png>
-Package pdftex.def Info: figures/ch6/Streams_Boost_betx09_t10_Jxy_SigH_alph1e4.
-png used on input line 1661.
-(pdftex.def)             Requested size: 150.56366pt x 149.35915pt.
-
-
-LaTeX Warning: Float too large for page by 14.78632pt on input line 1666.
-
-
-<figures/ch6/FmunuBoost_betx01_t01_x0_Syz.pdf, id=10230, 501.875pt x 520.94624p
-t>
-File: figures/ch6/FmunuBoost_betx01_t01_x0_Syz.pdf Graphic file (type pdf)
- <use figures/ch6/FmunuBoost_betx01_t01_x0_Syz.pdf>
-Package pdftex.def Info: figures/ch6/FmunuBoost_betx01_t01_x0_Syz.pdf used on i
-nput line 1690.
-(pdftex.def)             Requested size: 150.56366pt x 156.28508pt.
-
-<figures/ch6/FmunuBoost_betx05_t01_x0_Syz.pdf, id=10231, 501.875pt x 520.94624p
-t>
-File: figures/ch6/FmunuBoost_betx05_t01_x0_Syz.pdf Graphic file (type pdf)
- <use figures/ch6/FmunuBoost_betx05_t01_x0_Syz.pdf>
-Package pdftex.def Info: figures/ch6/FmunuBoost_betx05_t01_x0_Syz.pdf used on i
-nput line 1691.
-(pdftex.def)             Requested size: 150.56366pt x 156.28508pt.
-
-<figures/ch6/FmunuBoost_betx09_t01_x0_Syz.pdf, id=10232, 501.875pt x 520.94624p
-t>
-File: figures/ch6/FmunuBoost_betx09_t01_x0_Syz.pdf Graphic file (type pdf)
- <use figures/ch6/FmunuBoost_betx09_t01_x0_Syz.pdf>
-Package pdftex.def Info: figures/ch6/FmunuBoost_betx09_t01_x0_Syz.pdf used on i
-nput line 1692.
-(pdftex.def)             Requested size: 150.56366pt x 156.28508pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [252]
-[253 <./figures/ch6/Boost_betx01_t10_Jxy_SigH_alph1e4.png (PNG copy)> <./figure
-s/ch6/Boost_betx05_t10_Jxy_SigH_alph1e4.png (PNG copy)> <./figures/ch6/Streams_
-Boost_betx09_t10_Jxy_SigH_alph1e4.png (PNG copy)>] [254 <./figures/ch6/FmunuBoo
-st_betx01_t01_x0_Syz.pdf> <./figures/ch6/FmunuBoost_betx05_t01_x0_Syz.pdf> <./f
-igures/ch6/FmunuBoost_betx09_t01_x0_Syz.pdf>] [255] [256]
-Underfull \vbox (badness 2626) has occurred while \output is active []
-
- [257]
-<figures/ch6/LOG10_Lum_Volt_M1_zs3M_vsx_Rp02_zh1en4.pdf, id=10341, 742.3839pt x
- 442.56247pt>
-File: figures/ch6/LOG10_Lum_Volt_M1_zs3M_vsx_Rp02_zh1en4.pdf Graphic file (type
- pdf)
- <use figures/ch6/LOG10_Lum_Volt_M1_zs3M_vsx_Rp02_zh1en4.pdf>
-Package pdftex.def Info: figures/ch6/LOG10_Lum_Volt_M1_zs3M_vsx_Rp02_zh1en4.pdf
- used on input line 1863.
-(pdftex.def)             Requested size: 222.71689pt x 132.76976pt.
-
-<figures/ch6/LOG10_Lum_Volt_M2_zs3M_vsx_Rp02_zh1en4.pdf, id=10342, 744.9911pt x
- 443.21431pt>
-File: figures/ch6/LOG10_Lum_Volt_M2_zs3M_vsx_Rp02_zh1en4.pdf Graphic file (type
- pdf)
- <use figures/ch6/LOG10_Lum_Volt_M2_zs3M_vsx_Rp02_zh1en4.pdf>
-Package pdftex.def Info: figures/ch6/LOG10_Lum_Volt_M2_zs3M_vsx_Rp02_zh1en4.pdf
- used on input line 1864.
-(pdftex.def)             Requested size: 223.49905pt x 132.96532pt.
-
-<figures/ch6/LOG10_Lum_Volt_M3_zs3M_vsx_Rp02_zh1en4.pdf, id=10343, 743.68747pt 
-x 445.16962pt>
-File: figures/ch6/LOG10_Lum_Volt_M3_zs3M_vsx_Rp02_zh1en4.pdf Graphic file (type
- pdf)
- <use figures/ch6/LOG10_Lum_Volt_M3_zs3M_vsx_Rp02_zh1en4.pdf>
-Package pdftex.def Info: figures/ch6/LOG10_Lum_Volt_M3_zs3M_vsx_Rp02_zh1en4.pdf
- used on input line 1865.
-(pdftex.def)             Requested size: 223.10796pt x 133.55191pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [258]
-[259 <./figures/ch6/LOG10_Lum_Volt_M1_zs3M_vsx_Rp02_zh1en4.pdf> <./figures/ch6/
-LOG10_Lum_Volt_M2_zs3M_vsx_Rp02_zh1en4.pdf> <./figures/ch6/LOG10_Lum_Volt_M3_zs
-3M_vsx_Rp02_zh1en4.pdf>]
-Overfull \hbox (9.79707pt too wide) in paragraph at lines 1903--1910
-\T1/ptm/m/n/12 Keep in mind how-ever, that far enough from the hori-zon, where 
-the Rindler limit to the Schwarzschild
- []
-
-
-Underfull \vbox (badness 3219) has occurred while \output is active []
-
- [260]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [261]
-<figures/ch6/LOG10_noalphEGam_Enrgy_M1_zs3M_vsx.pdf, id=10533, 758.02681pt x 43
-9.95537pt>
-File: figures/ch6/LOG10_noalphEGam_Enrgy_M1_zs3M_vsx.pdf Graphic file (type pdf
-)
- <use figures/ch6/LOG10_noalphEGam_Enrgy_M1_zs3M_vsx.pdf>
-Package pdftex.def Info: figures/ch6/LOG10_noalphEGam_Enrgy_M1_zs3M_vsx.pdf use
-d on input line 1990.
-(pdftex.def)             Requested size: 227.40979pt x 131.98763pt.
-
-<figures/ch6/LOG10_noalphEGam_Enrgy_M2_zs3M_vsx.pdf, id=10534, 752.8125pt x 439
-.30359pt>
-File: figures/ch6/LOG10_noalphEGam_Enrgy_M2_zs3M_vsx.pdf Graphic file (type pdf
-)
- <use figures/ch6/LOG10_noalphEGam_Enrgy_M2_zs3M_vsx.pdf>
-Package pdftex.def Info: figures/ch6/LOG10_noalphEGam_Enrgy_M2_zs3M_vsx.pdf use
-d on input line 1991.
-(pdftex.def)             Requested size: 225.84549pt x 131.79208pt.
-
-<figures/ch6/LOG10_noalphEGam_Enrgy_M3_zs3M_vsx.pdf, id=10535, 756.72324pt x 43
-9.95537pt>
-File: figures/ch6/LOG10_noalphEGam_Enrgy_M3_zs3M_vsx.pdf Graphic file (type pdf
-)
- <use figures/ch6/LOG10_noalphEGam_Enrgy_M3_zs3M_vsx.pdf>
-Package pdftex.def Info: figures/ch6/LOG10_noalphEGam_Enrgy_M3_zs3M_vsx.pdf use
-d on input line 1992.
-(pdftex.def)             Requested size: 227.01872pt x 131.98763pt.
- [262]
-[263 <./figures/ch6/LOG10_noalphEGam_Enrgy_M1_zs3M_vsx.pdf> <./figures/ch6/LOG1
-0_noalphEGam_Enrgy_M2_zs3M_vsx.pdf> <./figures/ch6/LOG10_noalphEGam_Enrgy_M3_zs
-3M_vsx.pdf>]
-<figures/ch6/LOG10_Lum_Volt_M6_zsRlc_vsx_Rp02_zh1en4.pdf, id=10763, 741.7321pt 
-x 443.86604pt>
-File: figures/ch6/LOG10_Lum_Volt_M6_zsRlc_vsx_Rp02_zh1en4.pdf Graphic file (typ
-e pdf)
- <use figures/ch6/LOG10_Lum_Volt_M6_zsRlc_vsx_Rp02_zh1en4.pdf>
-Package pdftex.def Info: figures/ch6/LOG10_Lum_Volt_M6_zsRlc_vsx_Rp02_zh1en4.pd
-f used on input line 2065.
-(pdftex.def)             Requested size: 222.52135pt x 133.16083pt.
-
-<figures/ch6/LOG10_noalphEGam_Enrgy_M6_zsRlc_vsx.pdf, id=10764, 754.11607pt x 4
-47.12502pt>
-File: figures/ch6/LOG10_noalphEGam_Enrgy_M6_zsRlc_vsx.pdf Graphic file (type pd
-f)
- <use figures/ch6/LOG10_noalphEGam_Enrgy_M6_zsRlc_vsx.pdf>
-Package pdftex.def Info: figures/ch6/LOG10_noalphEGam_Enrgy_M6_zsRlc_vsx.pdf us
-ed on input line 2066.
-(pdftex.def)             Requested size: 226.23656pt x 134.13853pt.
-
-Underfull \vbox (badness 6236) has occurred while \output is active []
-
- [264]
-[265 <./figures/ch6/LOG10_Lum_Volt_M6_zsRlc_vsx_Rp02_zh1en4.pdf> <./figures/ch6
-/LOG10_noalphEGam_Enrgy_M6_zsRlc_vsx.pdf>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [266]
-[267] [268] [269]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [270
-
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [271]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [272]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [273]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [274]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [275]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [276]
-Overfull \hbox (43.5628pt too wide) in paragraph at lines 2494--2494
-[] 
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [277]
-[278]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [279]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [280])
-(./chapters/ch7_Fireball.tex [281]
-Chapter 8.
-[282
-
-] [283] [284]
-<figures/ch7/BHB_ShadedFaradayContour.jpg, id=11128, 743.77875pt x 558.085pt>
-File: figures/ch7/BHB_ShadedFaradayContour.jpg Graphic file (type jpg)
-
-<use figures/ch7/BHB_ShadedFaradayContour.jpg>
-Package pdftex.def Info: figures/ch7/BHB_ShadedFaradayContour.jpg used on input
- line 259.
-(pdftex.def)             Requested size: 245.44774pt x 184.16862pt.
-LaTeX Font Info:    Font shape `T1/calligra/m/n' will be
-(Font)              scaled to size 21.99997pt on input line 292.
-LaTeX Font Info:    Font shape `T1/calligra/m/n' will be
-(Font)              scaled to size 15.39998pt on input line 292.
-LaTeX Font Info:    Font shape `T1/calligra/m/n' will be
-(Font)              scaled to size 10.99998pt on input line 292.
-LaTeX Font Info:    Font shape `T1/calligra/m/n' will be
-(Font)              scaled to size 26.39996pt on input line 295.
-LaTeX Font Info:    Font shape `T1/calligra/m/n' will be
-(Font)              scaled to size 17.59998pt on input line 295.
-LaTeX Font Info:    Font shape `T1/calligra/m/n' will be
-(Font)              scaled to size 13.19998pt on input line 295.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [285 <./figures/ch7/BHB_ShadedFaradayContour.jpg>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [286]
-[287]
-Underfull \vbox (badness 5175) has occurred while \output is active []
-
- [288]
-<figures/ch7/Lum_vs_t.pdf, id=11190, 752.8125pt x 469.755pt>
-File: figures/ch7/Lum_vs_t.pdf Graphic file (type pdf)
-
-<use figures/ch7/Lum_vs_t.pdf>
-Package pdftex.def Info: figures/ch7/Lum_vs_t.pdf used on input line 407.
-(pdftex.def)             Requested size: 271.01228pt x 169.11166pt.
- [289 <./figures/ch7/Lum_vs_t.pdf>]
-Overfull \vbox (1.55493pt too high) has occurred while \output is active []
-
-
-[290]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [291]
-<figures/ch7/SC_spectra_RedDots.pdf, id=11291, 752.8125pt x 494.84875pt>
-File: figures/ch7/SC_spectra_RedDots.pdf Graphic file (type pdf)
-
-<use figures/ch7/SC_spectra_RedDots.pdf>
-Package pdftex.def Info: figures/ch7/SC_spectra_RedDots.pdf used on input line 
-572.
-(pdftex.def)             Requested size: 240.90492pt x 158.35483pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [292]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [293 <./figures/ch7/SC_spectra_RedDots.pdf>] [294]
-<figures/ch7/tauGB_and_tauGG_vs_t.pdf, id=11402, 752.8125pt x 468.75125pt>
-File: figures/ch7/tauGB_and_tauGG_vs_t.pdf Graphic file (type pdf)
-
-<use figures/ch7/tauGB_and_tauGG_vs_t.pdf>
-Package pdftex.def Info: figures/ch7/tauGB_and_tauGG_vs_t.pdf used on input lin
-e 693.
-(pdftex.def)             Requested size: 286.07172pt x 178.12732pt.
-
-<figures/ch7/RPhot_vs_BNS_M10.pdf, id=11403, 752.8125pt x 484.81125pt>
-File: figures/ch7/RPhot_vs_BNS_M10.pdf Graphic file (type pdf)
-
-<use figures/ch7/RPhot_vs_BNS_M10.pdf>
-Package pdftex.def Info: figures/ch7/RPhot_vs_BNS_M10.pdf used on input line 71
-6.
-(pdftex.def)             Requested size: 240.90492pt x 155.14276pt.
- [295] [296 <./figures/ch7/tauGB_and_tauGG_vs_t.pdf> <./figures/ch7/RPhot_vs_BN
-S_M10.pdf
-
-pdfTeX warning: /usr/texbin/pdflatex (file ./figures/ch7/RPhot_vs_BNS_M10.pdf):
- PDF inclusion: multiple pdfs with page group included in a single page
->]
-Underfull \vbox (badness 4242) has occurred while \output is active []
-
- [297]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [298]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [299]
-[300] [301]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [302]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [303]
-<figures/ch7/PostMergerLum_BZ.pdf, id=11641, 752.8125pt x 467.7475pt>
-File: figures/ch7/PostMergerLum_BZ.pdf Graphic file (type pdf)
-
-<use figures/ch7/PostMergerLum_BZ.pdf>
-Package pdftex.def Info: figures/ch7/PostMergerLum_BZ.pdf used on input line 10
-42.
-(pdftex.def)             Requested size: 248.4289pt x 154.35715pt.
- [304 <./figures/ch7/PostMergerLum_BZ.pdf>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [305]
-Underfull \vbox (badness 2961) has occurred while \output is active []
-
- [306]
-Underfull \vbox (badness 1342) has occurred while \output is active []
-
- [307]
-[308]
-Overfull \hbox (15.67416pt too wide) in paragraph at lines 1266--1272
-[]\T1/ptm/m/it/12 Acknowledgements: \T1/ptm/m/n/12 The au-thors thank An-drei B
-e-loborodov, Brian Met-zger, and Sean McWilliams
- []
-
-[309] <figures/ch7/Appendix_gamRR_p1.pdf, id=11764, 752.8125pt x 467.7475pt>
-File: figures/ch7/Appendix_gamRR_p1.pdf Graphic file (type pdf)
-
-<use figures/ch7/Appendix_gamRR_p1.pdf>
-Package pdftex.def Info: figures/ch7/Appendix_gamRR_p1.pdf used on input line 1
-341.
-(pdftex.def)             Requested size: 165.61926pt x 102.90475pt.
-
-<figures/ch7/Appendix_gamRR_p2.pdf, id=11765, 752.8125pt x 467.7475pt>
-File: figures/ch7/Appendix_gamRR_p2.pdf Graphic file (type pdf)
-
-<use figures/ch7/Appendix_gamRR_p2.pdf>
-Package pdftex.def Info: figures/ch7/Appendix_gamRR_p2.pdf used on input line 1
-344.
-(pdftex.def)             Requested size: 165.61926pt x 102.90475pt.
-
-<figures/ch7/Appendix_gamRR_p3.pdf, id=11766, 752.8125pt x 467.7475pt>
-File: figures/ch7/Appendix_gamRR_p3.pdf Graphic file (type pdf)
-
-<use figures/ch7/Appendix_gamRR_p3.pdf>
-Package pdftex.def Info: figures/ch7/Appendix_gamRR_p3.pdf used on input line 1
-347.
-(pdftex.def)             Requested size: 165.61926pt x 102.90475pt.
-
-<figures/ch7/Appendix_gam1_p1.pdf, id=11767, 752.8125pt x 467.7475pt>
-File: figures/ch7/Appendix_gam1_p1.pdf Graphic file (type pdf)
-
-<use figures/ch7/Appendix_gam1_p1.pdf>
-Package pdftex.def Info: figures/ch7/Appendix_gam1_p1.pdf used on input line 13
-50.
-(pdftex.def)             Requested size: 165.61926pt x 102.90475pt.
-
-<figures/ch7/Appendix_gam1_p2.pdf, id=11768, 752.8125pt x 467.7475pt>
-File: figures/ch7/Appendix_gam1_p2.pdf Graphic file (type pdf)
-
-<use figures/ch7/Appendix_gam1_p2.pdf>
-Package pdftex.def Info: figures/ch7/Appendix_gam1_p2.pdf used on input line 13
-53.
-(pdftex.def)             Requested size: 165.61926pt x 102.90475pt.
-
-<figures/ch7/Appendix_gam1_p3.pdf, id=11769, 752.8125pt x 467.7475pt>
-File: figures/ch7/Appendix_gam1_p3.pdf Graphic file (type pdf)
-
-<use figures/ch7/Appendix_gam1_p3.pdf>
-Package pdftex.def Info: figures/ch7/Appendix_gam1_p3.pdf used on input line 13
-56.
-(pdftex.def)             Requested size: 165.61926pt x 102.90475pt.
-
-Overfull \hbox (27.1028pt too wide) in paragraph at lines 1337--1358
- []$ 
- []
-
-) (./thesis.bbl [310 <./figures/ch7/Appendix_gamRR_p1.pdf> <./figures/ch7/Appen
-dix_gamRR_p2.pdf
-
-pdfTeX warning: /usr/texbin/pdflatex (file ./figures/ch7/Appendix_gamRR_p2.pdf)
-: PDF inclusion: multiple pdfs with page group included in a single page
-> <./figures/ch7/Appendix_gamRR_p3.pdf
-
-pdfTeX warning: /usr/texbin/pdflatex (file ./figures/ch7/Appendix_gamRR_p3.pdf)
-: PDF inclusion: multiple pdfs with page group included in a single page
-> <./figures/ch7/Appendix_gam1_p1.pdf
-
-pdfTeX warning: /usr/texbin/pdflatex (file ./figures/ch7/Appendix_gam1_p1.pdf):
- PDF inclusion: multiple pdfs with page group included in a single page
-> <./figures/ch7/Appendix_gam1_p2.pdf
-
-pdfTeX warning: /usr/texbin/pdflatex (file ./figures/ch7/Appendix_gam1_p2.pdf):
- PDF inclusion: multiple pdfs with page group included in a single page
-> <./figures/ch7/Appendix_gam1_p3.pdf
-
-pdfTeX warning: /usr/texbin/pdflatex (file ./figures/ch7/Appendix_gam1_p3.pdf):
- PDF inclusion: multiple pdfs with page group included in a single page
->] [311
-
-] [312]
-Underfull \hbox (badness 1721) in paragraph at lines 212--214
-[]\T1/ptm/m/n/12 Chiara Guzzetti, M., Bar-tolo, N., Liguori, M., & Matar-rese, 
-S. 2016, ArXiv e-prints,
- []
-
-[313] [314] [315] [316] [317] [318] [319] [320] [321] [322] [323] [324]
-[325] [326] [327] [328] [329] [330] [331] [332] [333]) [334]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 100.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 100.
- (./thesis.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 100.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 100.
-Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: A62C7482CA11D15554336CD04F944222;8509.
-
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: There were multiply-defined labels.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 100.
- ) 
-Here is how much of TeX's memory you used:
- 22506 strings out of 493117
- 441604 string characters out of 6135433
- 614720 words of memory out of 5000000
- 24372 multiletter control sequences out of 15000+600000
- 59386 words of font info for 94 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 57i,16n,54p,2194b,1530s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{Hfootnote.39} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.38} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.37} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.36} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.35} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.34} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.33} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.32} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.31} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.30} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.29} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.28} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.27} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.26} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.25} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.24} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.23} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.22} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.21} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.20} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.19} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.18} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.17} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.16} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.15} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.14} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.13} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.12} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.11} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.10} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.9} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.8} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.7} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.6} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.5} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.4} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.3} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist
-, replaced by a fixed one
-
-{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/tex
-live/2014/texmf-dist/fonts/type1/public/calligra-type1/callig15.pfb></usr/local
-/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/
-texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/t
-exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/local/tex
-live/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/texli
-ve/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texliv
-e/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive
-/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/
-2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/20
-14/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2014
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2014/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/local/texlive/2014/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2014/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2014/texmf
--dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2014/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2014/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2014/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2014/texmf-dist/font
-s/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2014/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2014/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2014/texmf-dist/fonts/type
-1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2014/texmf-dist/fonts/
-type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2014/texmf-dist/fo
-nts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/
-urw/times/utmr8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/times/
-utmri8a.pfb>
-Output written on thesis.pdf (374 pages, 31589246 bytes).
-PDF statistics:
- 12783 PDF objects out of 12825 (max. 8388607)
- 9958 compressed objects within 100 object streams
- 939 named destinations out of 1000 (max. 500000)
- 1952 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+8e+18_Inc0_thetaT0p785398_VaryJ_numin0_numx6.png used on input line 1294.
+(pdftex.d

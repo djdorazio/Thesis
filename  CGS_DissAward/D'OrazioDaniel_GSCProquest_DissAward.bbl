@@ -1,0 +1,61 @@
+\begin{thebibliography}{}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{{Abbott} {et~al.}(2016){Abbott}, {Abbott}, {Abbott}, {Abernathy},
+  {Acernese}, {Ackley}, {Adams}, {Adams}, {Addesso}, {Adhikari}, \&
+  et~al.}]{GW150914:2016}
+{Abbott}, B.~P., {Abbott}, R., {Abbott}, T.~D., {et~al.} 2016, Physical Review
+  Letters, 116, 061102
+
+\bibitem[{{Begelman} {et~al.}(1980){Begelman}, {Blandford}, \&
+  {Rees}}]{Begel:Blan:Rees:1980}
+{Begelman}, M.~C., {Blandford}, R.~D., \& {Rees}, M.~J. 1980, \nat, 287, 307
+
+\bibitem[{Bionta {et~al.}(1987)Bionta, Blewitt, Bratton, Casper, \&
+  Ciocio}]{Bionta:1987}
+Bionta, R.~M., Blewitt, G., Bratton, C.~B., Casper, D., \& Ciocio, A. 1987,
+  Physical Review Letters (ISSN 0031-9007), 58, 1494
+
+\bibitem[{{Charisi} {et~al.}(2016){Charisi}, {Bartos}, {Haiman},
+  {Price-Whelan}, {Graham}, {Bellm}, {Laher}, \& {Marka}}]{Charisi+2016}
+{Charisi}, M., {Bartos}, I., {Haiman}, Z., {et~al.} 2016, ArXiv e-prints,
+  arXiv:1604.01020
+
+\bibitem[{{Graham} {et~al.}(2015{\natexlab{a}}){Graham}, {Djorgovski}, {Stern},
+  {Glikman}, {Drake}, {Mahabal}, {Donalek}, {Larson}, \&
+  {Christensen}}]{Graham+2015a}
+{Graham}, M.~J., {Djorgovski}, S.~G., {Stern}, D., {et~al.} 2015{\natexlab{a}},
+  \nat, 518, 74
+
+\bibitem[{{Graham} {et~al.}(2015{\natexlab{b}}){Graham}, {Djorgovski}, {Stern},
+  {Drake}, {Mahabal}, {Donalek}, {Glikman}, {Larson}, \&
+  {Christensen}}]{Graham+2015b}
+---. 2015{\natexlab{b}}, \mnras, 453, 1562
+
+\bibitem[{Hirata {et~al.}(1987)Hirata, Kajita, Koshiba, Nakahata, \&
+  Oyama}]{Hirata:1987}
+Hirata, K., Kajita, T., Koshiba, M., Nakahata, M., \& Oyama, Y. 1987, Physical
+  Review Letters (ISSN 0031-9007), 58, 1490
+
+\bibitem[{{IceCube Collaboration}(2013)}]{ICECUBE:2013:detection}
+{IceCube Collaboration}. 2013, Science, 342, 1242856
+
+\bibitem[{Komossa(2006)}]{Komossa:Rev06}
+Komossa, S. 2006, Memorie della Societ{\`a} Astronomica Italiana, 77, 733
+
+\bibitem[{{Kormendy} \& {Ho}(2013)}]{KormendyHo2013}
+{Kormendy}, J., \& {Ho}, L.~C. 2013, \araa, 51, 511
+
+\bibitem[{{Liu} {et~al.}(2015){Liu}, {Gezari}, {Heinis}, {Magnier}, {Burgett},
+  {Chambers}, {Flewelling}, {Huber}, {Hodapp}, {Kaiser}, {Kudritzki}, {Tonry},
+  {Wainscoat}, \& {Waters}}]{Liu:7RsMBHB:2015}
+{Liu}, T., {Gezari}, S., {Heinis}, S., {et~al.} 2015, \apjl, 803, L16
+
+\bibitem[{Milosavljevi{\'c} \& Merritt(2003)}]{Milosavljevic:2003:FPcP}
+Milosavljevi{\'c}, M., \& Merritt, D. 2003, THE ASTROPHYSICS OF GRAVITATIONAL
+  WAVE SOURCES. AIP Conference Proceedings, 686, 201
+
+\bibitem[{{Valtonen} {et~al.}(2008)}]{Valtonen+2008}
+{Valtonen}, M.~J., {et~al.} 2008, \nat, 452, 851
+
+\end{thebibliography}

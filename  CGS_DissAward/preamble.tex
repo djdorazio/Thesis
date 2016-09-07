@@ -1,0 +1,293 @@
+%
+% Packages to be used in the thesis.
+%
+
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{booktabs}
+\usepackage{url}
+
+\usepackage[final]{graphicx}
+
+\usepackage{color, hyperref}
+\definecolor{linkcolor}{rgb}{0,0,0.2}
+\hypersetup{colorlinks=true,linkcolor=linkcolor,citecolor=linkcolor,
+            filecolor=linkcolor,urlcolor=linkcolor}
+\hypersetup{pageanchor=false}
+
+\usepackage{appendix}
+\usepackage{fancyhdr}
+\usepackage{url}
+
+\usepackage{subfig}
+
+\usepackage{titlesec}
+
+%DANS ADDITIONS
+\usepackage{wrapfig}
+\usepackage{array}
+\usepackage{fixltx2e}
+%\usepackage[usenames, dvipsnames]{color}
+\usepackage{color}
+\usepackage{verbatim}
+\usepackage{times}
+\usepackage[T1]{fontenc}
+\usepackage{aecompl}
+\usepackage{url}
+%\usepackage{aas_macros}
+\usepackage{multirow}
+\usepackage{tikz}
+\usepackage{widetext}
+
+% hyperlink references
+\usepackage{hyperref}
+\hypersetup{
+    pdfnewwindow=true,      % links in new window
+    colorlinks=true,       % false: boxed links; true: colored links
+    linkcolor=blue,          % color of internal links
+    citecolor=cyan,        % color of links to bibliography
+    filecolor=blue,      % color of file links
+    urlcolor=blue           % color of external links
+}
+
+
+% AAS macros
+\usepackage{aasmacro} % Ripped out of AAStex
+
+
+% For script r
+\usepackage{calligra}
+\DeclareMathAlphabet{\mathcalligra}{T1}{calligra}{m}{n}
+\DeclareFontShape{T1}{calligra}{m}{n}{<->s*[2.2]callig15}{}
+
+% Bibliography:
+\usepackage{natbib}
+\bibliographystyle{apj}
+%\bibliographystyle{mnras}
+
+%%DANS ADS BIB SHORTHAND:
+%%% Journal abbreviations.
+\def\prd{PRD}
+\def\apj{ApJ}                 % Astrophysical Journal
+\def\apjl{ApJL}               % Astrophysical Journal, Letters
+\def\apjs{ApJS}               % Astrophysical Journal, Supplement
+\def\mnras{MNRAS}             % Monthly Notices of the RAS
+\def\aap{A\&A}                % Astronomy and Astrophysics
+\def\aaps{A\&AS}              % Astronomy and Astrophysics, Supplement 
+\def\aj{AJ}                   % Astronomical Journal
+\def\physrep{Phys.~Rep.}      % Physics Reports
+\def\nat{Nature}              % Nature
+\def\araa{ARA\&A}             % Annual Review of Astronomy and Astrophysics
+\def\planss{planss}           % Planetary and Space Science
+\def\ssr{SSR}                 % Space Science Reviews          
+\def\sovast{Sov.~Astron.}     % Soviet Astronomy         
+\def\canjphys{Can. J. Phys.}  % Canadian Journal of physics
+\def\actaa{Acta Astron}  % Acta Astronomica  - polish astronomy and astrophysics
+\def\icarus{Icarus}  % Solar System studies journal
+\def\cqg{Class.~Quantum~Grav.}
+\def\apss{Ap\&SS}                 % Astrophysics and Space Science 
+
+
+
+
+
+
+
+
+
+%
+% Definitions
+%
+
+\newcommand{\article}{\textsl{Thesis}}
+
+% Stats / probability
+\newcommand{\given}{\,|\,}
+\newcommand{\norm}{\mathcal{N}}
+
+% Maths
+\newcommand{\dd}{\mathrm{d}}
+\newcommand{\transpose}[1]{{#1}^{\mathsf{T}}}
+\newcommand{\inverse}[1]{{#1}^{-1}}
+\newcommand{\mean}[1]{\left< #1 \right>}
+\newcommand{\ident}{\mathbb{1}} % identity matrix
+
+
+
+
+
+
+%DANS DEFS
+%lsim, gsim
+\newcommand\lsim{\mathrel{\rlap{\lower4pt\hbox{\hskip1pt$\sim$}}
+        \raise1pt\hbox{$<$}}}
+\newcommand\gsim{\mathrel{\rlap{\lower4pt\hbox{\hskip1pt$\sim$}}
+        \raise1pt\hbox{$>$}}} 
+% Ion species with small caps.
+\newcommand\ion[2]{#1{\thinspace\scshape#2}}% 
+%ch2
+%%APPENDIX DEFs FOR MN2E
+\newcommand{\vr}{v_{\hat{r}}}
+\newcommand{\vp}{v_{\hat{\phi}}}
+\newcommand{\hr}{{\hat{r}}}
+\newcommand{\hp}{{\hat{\phi}}}
+%ch3
+\newcommand{\scripty}[1]{\ensuremath{\mathcalligra{#1}}}
+\def\sr{\scripty{r}}
+\def\Mach{\mathcal{M}}
+\def\bin{\rm{bin}}
+\def\orb{\rm{orb}}
+\def\GW{\rm{GW}}
+\def\Mdot{\dot{M}}
+%ch4
+\def\obs{\rm{obs}}
+\def\var{\rm{var}}
+\def\QSO{\rm{QS)}}
+%ch5
+% \def\sky{\rm{s}}
+% \def\orb{\rm{orb}}
+% \def\obs{\rm{obs}}
+\def\eff{\rm{eff}}
+\def\Rout{R_{\rm{out}}}
+\def\Rin{R_{\rm{d}}}
+\def\em{\rm{em}}
+%L_Eddington
+\def\Ledd{ L_{ \rm{Edd} } }
+%alternate  Msun ~oh well
+\def\Msun{ \rm M_{ \odot } }
+\newcommand{\mnrasl}{MNRAS Lett.}
+\renewcommand{\thefootnote}{\alph{footnote}}
+\long\def\symbolfootnote[#1]#2{\begingroup%
+\def\thefootnote{\fnsymbol{footnote}}\footnote[#1]{#2}\endgroup}
+%ch6
+%
+%
+%ch7
+\def\nobf{}
+\def\hb{\hat{\boldsymbol \beta}}
+\def\bb{{\boldsymbol \beta}}
+\def\bbd{{\boldsymbol  \beta^{\prime}}}
+\def\bbR{{\boldsymbol \beta}_R}
+\def\bR{\beta_R}
+\def\gR{\gamma_R}
+\def\g{\gamma}
+\def\Res{\mathcal{R}}
+\def\Sh{\mathcal{\tilde{S}}}
+\def\Ch{\mathcal{\tilde{C}}}
+\def\ChT{\mathcal{\tilde{C}}2}
+\def\BM{{\bf B}_M}
+\def\BR{{\bf B}_R}
+\def\EM{{\bf E}_M}
+\def\ER{{\bf E}_R}
+\def\EE{{\bf E}}
+\def\EB{{\bf B}}
+\def\hr{\hat {\bf r}}
+\def\rr{{\bf r}}
+\def\hrc{\hat {\bf r}_c}
+\def\rc{r_c}
+\def\ba{{\bf a}}
+\def\bV{{\bf V}}
+\def\bm{{\bf m}}
+\def\vb{v_{S, x}}
+%ch 8
+\def\g{\gamma}
+\def\Res{\mathcal{R}}
+
+\def\Evec{{\bf E}}
+\def\Bvec{{\bf B}}
+\def\Avec{{\bf A}}
+\def\Jvec{{\bf J}}
+\def\hr{\hat {\bf r}}
+\def\rr{{\bf r}}
+\def\hrc{\hat {\bf r}_c}
+\def\rc{r_c}
+\def\bV{{\bf V}}
+\def\bm{{\bf m}}
+\def\bin{\rm{bin}}
+\def\orb{\rm{orb}}
+\def\Msun{{M_{\odot}}}
+\newcommand{\BHcirc}[2][black,fill=black]{\tikz[baseline=-0.5ex]\draw[#1,radius=#2] (0,0) circle ;}%
+
+\def\MBH{M}
+\def\MNS{M_{\rm{NS}} }
+\def\Lum{\mathcal{P}}
+
+\def\rns{r}
+\def\rbh{\scripty{r}}
+\def\Rbin{r}
+\def\RNS{R_{\rm NS}}
+
+\def\bea{\begin{eqnarray}}
+\def\eea{\end{eqnarray}}
+
+\def\be{\begin{equation}}
+\def\ee{\end{equation}}
+
+
+% Milky Way shorthands
+\newcommand{\mwdisk}{\textsl{Disk}}
+\newcommand{\mwbulge}{\textsl{Bulge}}
+\newcommand{\mwhalo}{\textsl{Halo}}
+
+% Astronomy
+\newcommand{\DM}{{\rm DM}}
+\newcommand{\feh}{\ensuremath{{[{\rm Fe}/{\rm H}]}}}
+
+% Unit shortcuts
+\newcommand{\msun}{\ensuremath{\mathrm{M}_\odot}}
+\newcommand{\kms}{\ensuremath{\mathrm{km}~\mathrm{s}^{-1}}}
+\newcommand{\kpc}{\ensuremath{\mathrm{kpc}}}
+\newcommand{\kmskpc}{\ensuremath{\mathrm{km}~\mathrm{s}^{-1}~\mathrm{kpc}^{-1}}}
+
+% Misc.
+\newcommand{\bs}[1]{\boldsymbol{#1}}
+\newcommand{\todo}[1]{{\color{red} TODO: #1}}
+
+% Packages / projects / programming
+\newcommand{\package}[1]{\textsf{#1}}
+\newcommand{\project}[1]{{\textsl{#1}}}
+\newcommand{\rewinder}{\package{Rewinder}}
+\newcommand{\streakline}{\package{Streakline}}
+\newcommand{\superfreq}{\package{SuperFreq}}
+\newcommand{\gaia}{\project{Gaia}}
+\newcommand{\spitzer}{\project{Spitzer}}
+
+\newcommand{\github}{\project{GitHub}}
+\newcommand{\python}{\texttt{Python}}
+
+%\usepackage{natbib}
+%\usepackage{graphicx} % replaces epsfig
+%% \usepackage{deluxetable52} % replaces deluxetable
+%\usepackage{aasmacro} % replaces aastex_hack
+%\usepackage{afterpage} % allows forced float output without breaking text flow
+%\usepackage{pxfonts} % nice font
+%\usepackage[nottoc,numbib]{tocbibind}
+%\usepackage{setspace}
+%%\usepackage{morefloats}
+%\usepackage{float}
+%\usepackage{verbatim}
+%
+%%\usepackage[margin=10pt,font={small,singlespacing},labelfont=bf,singlelinecheck=off]{caption}
+%
+%%added by Emily
+%\usepackage{rotating}
+%\usepackage{multirow}
+%%\usepackage{mathabx}
+%
+%%added by Destry
+%%\usepackage{rotating,amsmath}    % removed by Yuan --- it was causing errors
+%\usepackage{lscape}
+%\usepackage{verbatim}
+%
+%%added by Yuan
+%\usepackage[3D]{movie15}
+%\usepackage{hyperref}
+%\usepackage{multirow}
+%\usepackage[flushleft]{threeparttable}
+%%\usepackage{epstopdf}
+%
+%% Added by Munier
+%\usepackage{color}
+%\usepackage{enumitem}
+%\usepackage{booktabs}

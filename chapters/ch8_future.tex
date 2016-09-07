@@ -1,0 +1,153 @@
+\chapter[Future Directions]{Future Directions} \label{ch:future}
+
+Here we discuss the possible future directions of the work presented in this dissertation.
+
+\section{Massive Black Hole Binaries (MBHBs)} 
+
+Part I of this thesis models the interaction of a gas disc with a binary in
+order to determine electromagnetic signatures of accretion onto MBHBs.
+Chapters \ref{ch:CavAcc} and \ref{ch:CBDTrans} do this by numerically solving
+the equations of isothermal hydrodynamics in the presence of two point masses
+in a circular, Newtonian orbit. As discussed in Chapter
+\ref{ch:intro}, a number of other works have considered the addition of more
+sophisticated physics in circumbinary disc simulations. These include
+extension to three dimensions, inclusion of magnetic fields (magneto-hydrodynamics), 
+non-isothermal energy prescriptions, the back-reaction of the binary over short
+time periods, and General Relativity (see Chapter \ref{ch:intro}). This
+incremental inclusion of complexity should continue to march forward and to
+deepen our understanding of binary accretion. However, each of these studies
+use idealized initial conditions to simulate the response of the gas to a
+binary on a fixed orbit, or allow the binary and gas to feedback on each
+other, but only for timescales which are short compared to the time needed for
+the binary to ``migrate'' through the disc
+\citep[\textit{e.g.},][]{RoedigSGmigrate:2014}.
+
+
+
+
+To make robust predictions of the electromagnetic signatures of a MBHB+disc, and also to
+predict merger rates influenced by interactions with gas, the
+long-term evolution of the coupled binary+disc system must be taken into
+account.  However, a fully coupled, long term evolution of the binary+disc has
+only been realized in semi-analytic, 1D solutions which assume the gas reaches
+a steady-state at each point in the binary's orbital evolution, and that local
+thermodynamic equilibrium is always achieved \citep{KHL:2012:MNRAS_PI}.
+Even with these restrictions, important new phenomena emerge when the binary
+orbit and disc structure are coupled over the macroscopic timescales needed
+for of-order-unity changes in orbital separation \citep{KHL:2012:MNRAS_PII}.
+Future work is planned to create the first multi-dimensional simulations 
+that crucially track this mutual evolution of the binary+disc. 
+
+Methodically relaxing approximations to models of the MBHB+disc system in a
+series of one-, two-, and three-dimensional simulations will teach us about
+the coupled evolution of the system as it draws towards merger and inform us
+of the correct initial conditions and their importance for the above
+idealized simulations.
+
+% that start with a close binary and relax the disc to quasi-equilibrium over short timescales.
+
+
+
+
+
+
+Presently work is being completed to apply the models for reverberated infrared (IR)
+emission from periodic MBHB sources (Chapter \ref{ch:Dust}) to the MBHB
+candidate PG 1302. These models will test whether the IR emission from PG 1302
+is consistent with reverberation by a periodic UV/optical central source. If
+so, these models can determine whether the central source is varying
+isotropically, as in the case of a time variable accretion rate (Chapters
+\ref{ch:CavAcc} through \ref{ch:PG1302_a}) or anisotropically, as it would in
+the Doppler-boost scenario (Chapter \ref{ch:PG1302_b}), and also constrain the
+geometry and make-up of the surrounding dust. After application to PG1302, we
+can vet the remaining $\sim100$ MBHB candidates \citep{Graham+2015b,
+Charisi+2016} with our IR reverberation models. Work should also be done to
+scour IR surveys for periodic IR variability in the absence of ultra-violet/optical
+periodicity as predicted in Chapter \ref{ch:Dust}.
+
+
+Future work is planned to extend the models of Chapter \ref{ch:Dust}, for
+IR dust reverberation, to the related case of reverberation by the broad-line
+region of active galactic nuclei. Such a study could yield unique predictions
+for the morphology and dynamics of broad lines from regions surrounding MBHBs.
+
+Additional work is planned to determine the importance of general relativity
+on the observed light curves of accreting MBHBs. For example, time delays,
+lensing, and orbital precession may all affect UV/optical as well as
+reverberated IR light curves, and each waveband could be affected differently.
+Such work could yield new ways to seek out MBHBs and distinguish them from
+single MBHs, and it may may hold consequences for the inferences made about
+the population of MBHBs.
+
+%DD lensing affect dust reverberation! inclination doesn't matter, dust shell will always see some dust lensing?
+
+
+\section{Black Hole Neutron Star (BHNS) Binaries }
+
+The second part of this dissertation concerned modeling BHNS magnetospheres
+with the aim to predict electromagnetic emission from their mergers.
+The main road block in developing more robust models for BHNS magnetospheric
+emission is the problem of dissipation: where and how is the available black-hole-battery 
+energy dissipated. This is a difficult question to address because it
+involves, at the most basic level, understanding the dynamics of strong
+electromagnetic fields and an electron-positron pair plasma in a binary
+spacetime. A similar problem is still at the heart of a complete theoretical
+description of a the magnetosphere of a single spinning neutron star, where a break down
+of force-free electrodynamics in regions of the magnetosphere called `gaps'
+allow particle acceleration. Depending on the positioning of the gap in the
+magnetosphere, pulsar emission can take on different characteristics
+\citep[\textit{e.g.},][and references therein]{YukiGaps:2012}. Without observations to
+yet guide work on the BHNS magnetosphere, the task of modeling dissipation
+mechanisms becomes even more difficult, but the possibilities should be
+explored
+
+An analytic investigation of the basic properties of a magnetosphere with one
+event horizon and a light cylinder due to orbital motion may yield global
+information on the magnetosphere,  Such an investigation could lend insight
+into where dissipation may occur in the BHNS magnetosphere, much as early work
+on pulsar magnetospheres suggested the existence of a polar gap
+\citep{RudSuth:1975}. Further knowledge on where dissipation may occur could
+be gained from force-free simulations of the BHNS magnetosphere  \citep[one
+such simulation has already been carried out by][]{Paschalidis:2013}.  Full
+information on particle acceleration however requires the breakdown of force-free 
+electrodynamics and will rely on particle-in-cell  simulations which
+track the trajectories of electron-positron pairs under the influence of
+evolving electric and magnetic fields. Such particle-in-cell simulations must
+also implement a prescription for pair production which is crucial for
+understanding screening of electromagnetic fields and the eventual ignition of
+a fireball. The future may also look to magnetic reconnection or more
+complicated methods to dissipate the black-hole-battery power into observable
+electromagnetic radiation.
+
+
+%
+%DD: think theorems for force-free electrodynamics trapped by two light surfaces. 
+%
+
+If we are willing to except that a near-unity fraction of the black-hole-battery 
+power is injected into powering fireballs, then the models of Chapter
+\ref{ch:NSBH_Fireball} could be built upon further.  In Chapter
+\ref{ch:NSBH_Fireball} we predicted the form of electromagnetic emission from
+a disc merger by following the simplest model of a pure radiation fireball,
+first set forth in the context of gamma-ray bursts (GRBs) by \cite{Pacz:1986GRB} and
+\cite{GoodmanGRB:1986}. In this scenario, energy injection creates a
+pair+photon fluid that is optically thick to pair production causing
+relativistic expansion until the fluid becomes transparent and photons escape;
+a thermal spectrum results. Observations of non-thermal emission from GRBs
+pushed theorists to develop fireball models in which baryonic
+matter may accompany the pair+photon fluid resulting in shocks between the
+expanding fireball and itself or an external medium. These shocks result in
+non-thermal emission, which comes closer to that observed in GRBs. Future work
+should employ the theoretical framework describing baryonic fireballs
+\citep{Piran_FBRev:1999} to the disc system in order to better understand
+possible emission from disc fireballs.
+
+
+In conclusion, this dissertation has been completed at an exciting time for
+astrophysics, at the inception of the era of multi-messenger astronomy. In the
+near future the observation of not only electromagnetic, but also
+gravitational radiation, as well as high energy neutrinos and cosmic rays,
+will provide the most complete view we have yet had of the universe. It is my
+hope that the systems discussed here, and the work presented in this thesis,
+will contribute to this endeavor.
+
